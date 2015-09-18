@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_sdcard_volume_path" />
+    <string name="app_name">com.securitycore.miui_t</string>
+    <string name="hello_world">Helló világ!</string>
+    <string name="menu_settings">Beállítások</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="tencent_dialog_title">Tencent Adatvédelmi Nyilatkozata</string>
+    <string name="tencent_dialog_header">Ez a funkció titkosítja és deltölti az eszköz azonosítóját a Tencent szerverére (%s).</string>
+    <string name="tencent_dialog_policy">Adatvédelmi Nyilatkozat megtekintése</string>
+    <string name="tencent_dialog_cloudscan">Alkalmazás neveinek és adatatok keresése és feltöltése az online adatbázis használatával.</string>
+    <string name="tencent_dialog_dbupdate">Automatikus vírus adatbázis frissítés</string>
+    <string name="avl_dialog_title">AVL Adatvédelmi Nyilatkozata</string>
+    <string name="avl_dialog_header">Ez a funkció titkosítja és deltölti az eszköz azonosítóját az AVL szerverére(%s).</string>
+    <string name="avl_dialog_policy">Adatvédelmi Nyilatkozat megtekintése</string>
+    <string name="avl_dialog_cloudscan" />
+    <string name="avl_dialog_dbupdate" />
+</resources>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="cpu_actions_device">
+        <item>cancro</item>
+    </string-array>
+    <string-array name="group_name">
+        <item>normal</item>
+        <item>hide</item>
+        <item>reading</item>
+        <item>media</item>
+    </string-array>
+    <string-array name="group_name_translate">
+        <item>Alapértelmezett mód</item>
+        <item>Elrejtés mód</item>
+        <item>Olvasómód</item>
+        <item>Média mód</item>
+    </string-array>
+    <string-array name="event_name_translate">
+        <item>Alkalmazás az előtérben</item>
+        <item>Képernyő bekapcsolva</item>
+        <item>Képernyő kikapcsolva</item>
+        <item>Screen Off Over 10 minutes</item>
+        <item>Belépés a teljes képenryős módba</item>
+        <item>Kilépés a teljes képernyős módból</item>
+        <item>Alkalmazás a háttérben</item>
+        <item>A telefon töltődik</item>
+        <item>A telefon nem töltődik</item>
+        <item>Telefon készenléti módban</item>
+    </string-array>
+    <string-array name="action_name_translate">
+        <item>Max képernyő fényerősség</item>
+        <item>MAX CPU Frekvencia</item>
+        <item>Képernyőmód</item>
+        <item>CPU használat</item>
+        <item>Adatkapcsolat</item>
+        <item>Tartózkodási hely</item>
+        <item>Első értesítés</item>
+        <item>Képernyőzár értesítés</item>
+        <item>Adatkapcsolat korlátozása a háttérban</item>
+    </string-array>
+    <string-array name="action_param_translate">
+        <item>Nincs művelet</item>
+        <item>Alapértelmezett</item>
+        <item>Kép</item>
+        <item>Mozi</item>
+        <item>Akkumulátorkímélés</item>
+        <item>Normál</item>
+        <item>Maximális</item>
+        <item>Be</item>
+        <item>Ki</item>
+        <item>Azonnal</item>
+        <item>10 perc után</item>
+        <item>30 perc után</item>
+        <item>Ha a kijelző kikapcsol</item>
+    </string-array>
+    <string-array name="app_groups">
+        <item>kiválasztva</item>
+        <item>nincs kiválasztva</item>
+        <item>egyéb kiválasztva</item>
+    </string-array>
+    <array name="read_enable" />
+</resources>

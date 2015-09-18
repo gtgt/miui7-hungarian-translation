@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="ble_profile_mi_band">
+        <item>Rezgés csengetéskor</item>
+        <item>Rezgés üzenet fogadásakor</item>
+        <item>Rezgés ébresztéskor</item>
+    </string-array>
+    <string-array name="ble_profile_mi_key">
+        <item>Fénykép készítése</item>
+        <item>Telefon keresése</item>
+        <item>Mi-key keresése</item>
+    </string-array>
+</resources>

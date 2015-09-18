@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="date_of_traffic">
+        <item>Tegnapi forgalom</item>
+        <item>Mai forgalom</item>
+        <item>Havi forgalom</item>
+    </string-array>
+    <string-array name="date_of_traffic_prefix">
+        <item>"Tegnap: "</item>
+        <item>"Ma: "</item>
+        <item>"Ebben a hónapban: "</item>
+    </string-array>
+    <string-array name="date_of_app_all">
+        <item>Tegnapi mobil forgalom</item>
+        <item>Mai mobil forgalom</item>
+        <item>E havi mobil forgalom</item>
+        <item>Tegnapi Wi-Fi forgalom</item>
+        <item>Mai Wi-fi forgalom</item>
+        <item>E havi Wi-Fi forgalom</item>
+    </string-array>
+    <string-array name="date_of_app">
+        <item>Tegnapi mobil forgalom</item>
+        <item>Mai mobil forgalom</item>
+        <item>E havi mobil forgalom</item>
+    </string-array>
+    <string-array name="network_speed_update_internals">
+        <item>3 másodpercenként</item>
+        <item>4 másodpercenként</item>
+        <item>5 másodpercenként</item>
+        <item>6 másodpercenként</item>
+        <item>7 másodpercenként</item>
+        <item>8 másodpercenként</item>
+        <item>9 másodpercenként</item>
+    </string-array>
+    <string-array name="traffic_type">
+        <item>"Mobil "</item>
+        <item>"Wi-Fi "</item>
+        <item>"Megtakarított adat "</item>
+    </string-array>
+    <string-array name="mi_service_traffic_type">
+        <item>"Mobil "</item>
+        <item>"Wi-Fi  "</item>
+    </string-array>
+    <string-array name="traffic_sort_type">
+        <item>Adat</item>
+        <item>Wi-Fi</item>
+        <item>Összes</item>
+    </string-array>
+    <string-array name="traffic_setting_sms_template">
+        <item>Automatikusan fogadás</item>
+        <item>Manuális beállítás</item>
+    </string-array>
+    <string-array name="over_limit_traffic_waring_style">
+        <item>Figyelmeztetés</item>
+        <item>Figyelmeztetés és adatforgalom kikapcs.</item>
+    </string-array>
+    <string-array name="roaming_apps_sorted_type">
+        <item>Gyakran használt</item>
+        <item>Név</item>
+    </string-array>
+    <string-array name="traffic_saving_compress_level_string_array">
+        <item>Nincs</item>
+        <item>Alacsony</item>
+        <item>Közepes</item>
+        <item>Magas</item>
+    </string-array>
+</resources>

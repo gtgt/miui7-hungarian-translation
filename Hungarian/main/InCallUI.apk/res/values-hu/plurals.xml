@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="call_recording_notification_complete">
+        <item quantity="other">%d hívás rögzítve.</item>
+        <item quantity="one">Egy hívás rögzítve.</item>
+    </plurals>
+</resources>

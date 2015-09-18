@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="status_bar_accessibility_recent_apps">
+        <item quantity="other">%d újabb alkalmazás</item>
+        <item quantity="one">1 újabb alkalmazás</item>
+    </plurals>
+    <plurals name="disable_notification_confirm_title">
+        <item quantity="other">Kikapcsolja %d alkalmazás értesíétését?</item>
+        <item quantity="one">Kikapcsolja az alkalmazás értesítését?</item>
+    </plurals>
+</resources>

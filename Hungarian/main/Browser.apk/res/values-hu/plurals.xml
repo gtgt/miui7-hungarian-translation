@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="v5_edit_mode_title">
+        <item quantity="other">%1$d kiválasztva</item>
+        <item quantity="one">%1$d kiválasztva</item>
+    </plurals>
+    <plurals name="last_num_days">
+        <item quantity="other">Utolsó %d nap</item>
+    </plurals>
+    <plurals name="matches_found">
+        <item quantity="other">%2$d / %1$d</item>
+        <item quantity="one">1 találat</item>
+    </plurals>
+    <plurals name="find_on_page_matches">
+        <item quantity="other">%d egyezés</item>
+        <item quantity="one">%d egyezés</item>
+    </plurals>
+    <plurals name="adblock_rules_number_text">
+        <item quantity="other">%d elem blokkolva</item>
+        <item quantity="one">%d elem blokkolva</item>
+    </plurals>
+</resources>

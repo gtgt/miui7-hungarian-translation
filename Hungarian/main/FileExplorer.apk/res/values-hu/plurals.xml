@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="delete_files_confirm">
+        <item quantity="other">Biztos, hogy törli a %1$d fájlt</item>
+        <item quantity="zero">Biztos, hogy törli a %1$d fájlt</item>
+        <item quantity="one">Biztos, hogy törli a fájlt</item>
+        <item quantity="two">Biztos, hogy törli a %1$d fájlt</item>
+        <item quantity="few">Biztos, hogy törli a %1$d fájlt</item>
+        <item quantity="many">Biztos, hogy törli a %1$d fájlt</item>
+    </plurals>
+    <plurals name="delete_folders_confirm">
+        <item quantity="other">" és a %1$d mappát?"</item>
+        <item quantity="zero">" és a %1$d mappát?"</item>
+        <item quantity="one">" és a mappát?"</item>
+        <item quantity="two">" és a %1$d mappát?"</item>
+        <item quantity="few">" és a %1$d mappát?"</item>
+        <item quantity="many">" és a %1$d mappát?"</item>
+    </plurals>
+    <plurals name="directory_item_count">
+        <item quantity="other">%d fájl</item>
+        <item quantity="zero">%d fájl</item>
+        <item quantity="one">%d fájl</item>
+        <item quantity="two">%d fájl</item>
+        <item quantity="few">%d fájl</item>
+        <item quantity="many">%d mfájl</item>
+    </plurals>
+    <plurals name="ui_bar_txt_download_progress">
+        <item quantity="other">%1$d fájl letöltése van hátra</item>
+        <item quantity="zero">Nincs letöltés</item>
+        <item quantity="one">1 fájl letöltése van hátra</item>
+        <item quantity="two">%1$d fájl letöltése van hátra</item>
+        <item quantity="few">%1$d fájl letöltése van hátra</item>
+        <item quantity="many">%1$d fájl letöltése van hátra</item>
+    </plurals>
+    <plurals name="ui_bar_txt_upload_progress">
+        <item quantity="other">%1$d feltöltés van hátra</item>
+        <item quantity="zero">Nincs feltöltés</item>
+        <item quantity="one">1 fájl feltöltés van hátra</item>
+        <item quantity="two">%1$d feltöltés van hátra</item>
+        <item quantity="few">%1$d feltöltés van hátra</item>
+        <item quantity="many">%1$d feltöltés van hátra</item>
+    </plurals>
+    <plurals name="numSelectedFile">
+        <item quantity="other">%1$d kiválasztva</item>
+        <item quantity="zero">%1$d kiválasztva</item>
+        <item quantity="one">%1$d kiválasztva</item>
+        <item quantity="two">%1$d kiválasztva</item>
+        <item quantity="few">%1$d kiválasztva</item>
+        <item quantity="many">%1$d kiválasztva</item>
+    </plurals>
+    <plurals name="items_file">
+        <item quantity="other">(%1$d fájl)</item>
+        <item quantity="zero">(%1$d fájl)</item>
+        <item quantity="one">(%1$d fájl)</item>
+        <item quantity="two">(%1$d fájl)</item>
+        <item quantity="few">(%1$d fájl)</item>
+        <item quantity="many">(%1$d fájl)</item>
+    </plurals>
+    <plurals name="items_picture">
+        <item quantity="other">(%1$d fájl)</item>
+        <item quantity="zero">(%1$d fájl)</item>
+        <item quantity="one">(%1$d fájl)</item>
+        <item quantity="two">(%1$d fájl)</item>
+        <item quantity="few">(%1$d fájl)</item>
+        <item quantity="many">(%1$d fájl)</item>
+    </plurals>
+    <plurals name="search_head_hint_app">
+        <item quantity="other">%1$s alk.hoz kapcsolódó fájlok (%2$d fájl)</item>
+        <item quantity="zero">%1$s alk.hoz kapcsolódó fájlok (%2$d fájl)</item>
+        <item quantity="one">%1$s alk.hoz kapcsolódó fájlok (%2$d fájl)</item>
+        <item quantity="two">%1$s alk.hoz kapcsolódó fájlok (%2$d fájl)</item>
+        <item quantity="few">%1$s alk.hoz kapcsolódó fájlok (%2$d fájl)</item>
+        <item quantity="many">%1$s alk.hoz kapcsolódó fájlok (%2$d fájl)</item>
+    </plurals>
+    <plurals name="search_head_hint_file">
+        <item quantity="other">%1$s kapcsolódó fájljai (%2$d fájl)</item>
+        <item quantity="zero">%1$s kapcsolódó fájljai (%2$d fájl)</item>
+        <item quantity="one">%1$s kapcsolódó fájljai (%2$d item)</item>
+        <item quantity="two">%1$s kapcsolódó fájljai (%2$d fájl)</item>
+        <item quantity="few">%1$s kapcsolódó fájljai (%2$d fájl)</item>
+        <item quantity="many">%1$s kapcsolódó fájljai (%2$d fájl)</item>
+    </plurals>
+    <plurals name="search_head_hint_tag">
+        <item quantity="other">%1$s kapcsolódó fájljai (%2$d fájl)</item>
+        <item quantity="zero">%1$s kapcsolódó fájljai (%2$d fájl)</item>
+        <item quantity="one">%1$s kapcsolódó fájljai (%2$d item)</item>
+        <item quantity="two">%1$s kapcsolódó fájljai (%2$d fájl)</item>
+        <item quantity="few">%1$s kapcsolódó fájljai (%2$d fájl)</item>
+        <item quantity="many">%1$s kapcsolódó fájljai (%2$d fájl)</item>
+    </plurals>
+    <plurals name="mins_ago">
+        <item quantity="other">%1$d perce</item>
+        <item quantity="zero">%1$d perce</item>
+        <item quantity="one">%1$d perce</item>
+        <item quantity="two">%1$d perce</item>
+        <item quantity="few">%1$d perce</item>
+        <item quantity="many">%1$d perce</item>
+    </plurals>
+    <plurals name="hours_ago">
+        <item quantity="other">%1$d órával ezelőtt</item>
+        <item quantity="zero">%1$d órával ezelőtt</item>
+        <item quantity="one">%1$d órája</item>
+        <item quantity="two">%1$d órával ezelőtt</item>
+        <item quantity="few">%1$d órával ezelőtt</item>
+        <item quantity="many">%1$d órával ezelőtt</item>
+    </plurals>
+    <plurals name="days_ago">
+        <item quantity="other">%1$d nappal ezelőtt</item>
+        <item quantity="zero">%1$d napja</item>
+        <item quantity="one">%1$d napja</item>
+        <item quantity="two">%1$d nappal ezelőtt</item>
+        <item quantity="few">%1$d nappal ezelőtt</item>
+        <item quantity="many">%1$d nappal ezelőtt</item>
+    </plurals>
+    <plurals name="found_new_files">
+        <item quantity="other">%1$d új fájl található</item>
+        <item quantity="zero">%1$d új fájl található</item>
+        <item quantity="one">%1$d új fájl található</item>
+        <item quantity="two">%1$d új fájl található</item>
+        <item quantity="few">%1$d új fájl található</item>
+        <item quantity="many">%1$d új fájl található</item>
+    </plurals>
+    <plurals name="file_notify_title">
+        <item quantity="other">%2$s alk.hoz %1$d fájl érkezett</item>
+        <item quantity="zero">%2$s alk.hoz %1$d fájl érkezett</item>
+        <item quantity="one">%2$s alk.hoz %1$d fájl érkezett</item>
+        <item quantity="two">%2$s alk.hoz %1$d fájl érkezett</item>
+        <item quantity="few">%2$s alk.hoz %1$d fájl érkezett</item>
+        <item quantity="many">%2$s alk.hoz %1$d fájl érkezett</item>
+    </plurals>
+    <plurals name="file_notify_title_wechat_video">
+        <item quantity="other">%1$d WeChat fájl érkezett</item>
+        <item quantity="zero">%1$d WeChat fájl érkezett</item>
+        <item quantity="one">%1$d WeChat fájl érkezett</item>
+        <item quantity="two">%1$d WeChat fájl érkezett</item>
+        <item quantity="few">%1$d WeChat fájl érkezett</item>
+        <item quantity="many">%1$d WeChat fájl érkezett</item>
+    </plurals>
+    <plurals name="file_notify_title_wechat_video_expire">
+        <item quantity="other">%1$d WeChat Videó hamarosan lejár</item>
+        <item quantity="zero">%1$d WeChat Videó hamarosan lejár</item>
+        <item quantity="one">%1$d WeChat Videó hamarosan lejár</item>
+        <item quantity="two">%1$d WeChat Videó hamarosan lejár</item>
+        <item quantity="few">%1$d WeChat Videó hamarosan lejár</item>
+        <item quantity="many">%1$d WeChat Videó hamarosan lejár</item>
+    </plurals>
+    <plurals name="backup_message_wechat_video">
+        <item quantity="other">%1$d WeChat ideiglenes videófájl törölve lesz, szüksége van másolatra?</item>
+        <item quantity="zero">%1$d WeChat ideiglenes videófájl törölve lesz, szüksége van másolatra?</item>
+        <item quantity="one">%1$d WeChat ideiglenes videófájl törölve lesz, szüksége van másolatra?</item>
+        <item quantity="two">%1$d WeChat ideiglenes videófájl törölve lesz, szüksége van másolatra?</item>
+        <item quantity="few">%1$d WeChat ideiglenes videófájl törölve lesz, szüksége van másolatra?</item>
+        <item quantity="many">%1$d WeChat ideiglenes videófájl törölve lesz, szüksége van másolatra?</item>
+    </plurals>
+</resources>

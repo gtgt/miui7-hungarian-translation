@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="editing_mode_title">
+        <item quantity="other">%1$d kiválasztva</item>
+        <item quantity="zero">Nincs kiválasztva</item>
+        <item quantity="one">%1$d kiválasztva</item>
+        <item quantity="two">%1$d kiválasztva</item>
+        <item quantity="few">%1$d kiválasztva</item>
+        <item quantity="many">%1$d kiválasztva</item>
+    </plurals>
+    <plurals name="uninstall_dialog_title_format">
+        <item quantity="other">Eltávolítja az alkalmazásokat?</item>
+        <item quantity="one">Eltávolítja az alkalmazást?</item>
+    </plurals>
+    <plurals name="uninstall_result_succeeded">
+        <item quantity="other">%1$ alkalmazás eltávolítva</item>
+        <item quantity="zero">Nincs alkalmazás eltávolítva</item>
+        <item quantity="one">Az alkalmazás eltávolítva</item>
+        <item quantity="two">%1$d alkalmazás eltávolítva</item>
+        <item quantity="many">%1$d alkalmazás eltávolítva</item>
+    </plurals>
+    <plurals name="uninstall_result_failed">
+        <item quantity="other">Az eltávolítás nem sikerült</item>
+        <item quantity="one">Az eltávolítás nem sikerült</item>
+        <item quantity="two">Az eltávolítás nem sikerült</item>
+    </plurals>
+</resources>

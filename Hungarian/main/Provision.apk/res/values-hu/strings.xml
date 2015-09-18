@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="welcome">Üdvözöljük</string>
+    <string name="input_method_setting">Válasszon beviteli formát</string>
+    <string name="input_method_category">Válassza ki az alapértelmezett beviteli módot</string>
+    <string name="provision_inputmethod_policy_description">"
+A kiválasztott billentyűzet Adatvédelmi Nyilatkozatának megtekintése."</string>
+    <string name="provision_inputmethod_policy_description1">Adatvédelmi nyilatkozata</string>
+    <string name="multisim_settings_title">2 SIM kártya található</string>
+    <string name="multisim_settings_category">Elsődleges SIM kártya beállítása</string>
+    <string name="page_layout_title">Elrendezés</string>
+    <string name="page_layout_label">A szövegméret, a kezdőképernyő elrendezés, kapcsolók, tárcsázó stb. beállítása.</string>
+    <string name="sim_card_detection">Nem található SIM kártya</string>
+    <string name="sim_card_detecting_title">SIM kártya ellenőrzés</string>
+    <string name="sim_card_detection_info">A Mi fiók beállításához SIM kártya szükséges.</string>
+    <string name="sim_card_detecting">SIM kártya ellenőrzése…</string>
+    <string name="other_settings">További beállítások</string>
+    <string name="other_settings_location">Helyszolgáltatások</string>
+    <string name="other_settings_location_summary">Az alkalmazások tudják a pontos helyét</string>
+    <string name="other_settings_user_experience">Felhasználói visszajelzés</string>
+    <string name="other_settings_user_experience_summary">Segítse a MIUI fejlesztését névtelen adatok elküldésével (%s)</string>
+    <string name="other_settings_user_experience_summary1">Adatvédelmi nyilatkozat megtekintése</string>
+    <string name="next">Tovább</string>
+    <string name="skip_underline">Átugrás</string>
+    <string name="sim_dectection_next">Tovább</string>
+    <string name="shut_down">Kikapcsolás</string>
+    <string name="sim_redetection">Ellenőrzés újra</string>
+    <string name="title_congratulation">Beállítás kész!</string>
+    <string name="congratulation_label" />
+    <string name="pref_title_voice_slot">Elsődleges hang SIM kártya</string>
+    <string name="pref_title_data_slot">Elsődleges adat SIM kártya</string>
+    <string name="summary_not_set">Nincs beállítva</string>
+    <string name="summary_sim_card">%1$d kártya</string>
+    <string name="summary_sim_card_with_operator">%1$d kártya: %2$s</string>
+    <string name="ime_privacy_policy">A kiválasztott billentyűzet adatvédelmi nyilatkozata</string>
+    <string name="ime_privacy_policy_no_network">Nincs internetkapcsolat. A kiválasztott billentyűzet adatvédelmi nyilatkozatának megtekintése %s.</string>
+    <string name="terms_of_use">Felhasználási feltételek</string>
+    <string name="terms_of_use_label">A MIUI használata előtt el kell fogadnia a Felhasználási feltételeket és az Adatvédelmi nyilatkozatot.</string>
+    <string name="user_agreement">Felhasználási feltételek</string>
+    <string name="privacy_policy">Adatvédelmi nyilatkozat</string>
+    <string name="agree">OK</string>
+    <string name="disagree">Mégsem</string>
+    <string name="network_access_warning">A Mi szolgáltatások aktiválásához internetkapcsolat szükséges</string>
+    <string name="setting_locale">Ország beállítása...</string>
+    <string name="miui_terms_no_network">Nincs internetkapcsolat. Felhasználási feltételek megtekintése %s</string>
+    <string name="miui_privacy_policy_no_network">Nincs internetkapcsolat. Adatvédelmi nyilatkozat megtekintése %s</string>
+    <string name="locale_picker_title">Helyszín beállítása</string>
+    <string name="provision_finish">Befejezés</string>
+    <string name="provision_finish_restart">Újraindítás</string>
+    <string name="install_preinstall_app">Alkalmazások betöltése…</string>
+</resources>

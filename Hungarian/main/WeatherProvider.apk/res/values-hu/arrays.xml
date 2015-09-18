@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="weather_type">
+        <item>Tiszta</item>
+        <item>Felhős</item>
+        <item>Borult</item>
+        <item>Ködös</item>
+        <item>Felhőszakadás</item>
+        <item>Zápor</item>
+        <item>Vihar</item>
+        <item>Zivatar</item>
+        <item>Záporeső</item>
+        <item>Heves esőzés</item>
+        <item>Gyenge eső</item>
+        <item>Szemerkélő eső</item>
+        <item>Havaseső</item>
+        <item>Hóvihar</item>
+        <item>Havazás</item>
+        <item>Hózápor</item>
+        <item>Mérsékelt havazás</item>
+        <item>Gyenge havazás</item>
+        <item>Erős homokvihar</item>
+        <item>Homokvihar</item>
+        <item>poros</item>
+        <item>Szeles</item>
+        <item>Jégeső</item>
+        <item>Poros</item>
+        <item>Köd</item>
+        <item>Ónoseső</item>
+        <item>Nincs adat</item>
+    </string-array>
+    <string-array name="weather_indexes_uv_level">
+        <item>Nincs</item>
+        <item>Gyenge</item>
+        <item>Közepes</item>
+        <item>Erős</item>
+        <item>Legerősebb</item>
+    </string-array>
+    <string-array name="wind_direction">
+        <item>Szél É</item>
+        <item>Szél ÉK</item>
+        <item>Szél K</item>
+        <item>Szél DK</item>
+        <item>Szél D</item>
+        <item>Szél DNy</item>
+        <item>Szél Ny</item>
+        <item>Szél Ény</item>
+    </string-array>
+</resources>

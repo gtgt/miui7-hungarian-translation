@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="prefEntries_ringtone_repeat">
+        <item>Egyszer</item>
+        <item>Kétszer</item>
+        <item>Háromszor</item>
+        <item>Ötször</item>
+        <item>Tízszer</item>
+    </string-array>
+    <string-array name="entries_date_type">
+        <item>Fogadott</item>
+        <item>Elküldve</item>
+    </string-array>
+</resources>

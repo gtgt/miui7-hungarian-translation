@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="audio_effect_file_showing_names">
+        <item>Lezárás</item>
+        <item>Feloldás</item>
+        <item>Kattantás</item>
+        <item>Törlés</item>
+        <item>Vissza</item>
+        <item>Standard</item>
+        <item>Space</item>
+        <item>Kamera exponálás</item>
+        <item>Felvétel</item>
+        <item>Visszaszámlálás</item>
+        <item>Kamera akció sikeres</item>
+        <item>Kamera akció sikertelen</item>
+        <item>Kamera akció folyamatban</item>
+        <item>Kamera akció folyamatban 1</item>
+        <item>Kamera akció folyamatban 2</item>
+        <item>Rázás</item>
+        <item>Üzenet elküldve</item>
+        <item>Lejátszás</item>
+        <item>Szüneteltetés</item>
+        <item>Visszatekerés</item>
+        <item>Akkumulátor lemerül</item>
+    </string-array>
+    <string-array name="disable_package_replacement">
+        <item>csomag nevének letiltása</item>
+    </string-array>
+</resources>

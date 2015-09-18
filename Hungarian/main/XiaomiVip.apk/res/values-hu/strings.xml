@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="cube_ptr_pull_down">Húzza le</string>
+    <string name="cube_ptr_pull_down_to_refresh">Húzza le a frissítéshez</string>
+    <string name="cube_ptr_release_to_refresh">Engedje el a frissítéshez</string>
+    <string name="cube_ptr_refreshing">Frissítés...</string>
+    <string name="cube_ptr_refresh_complete">Frissítve.</string>
+    <string name="cube_ptr_last_update">utolsó frissítés: </string>
+    <string name="cube_ptr_seconds_ago"> másodperccel ezelőtt</string>
+    <string name="cube_ptr_minutes_ago"> perccel ezelőtt</string>
+    <string name="cube_ptr_hours_ago"> órával ezelőtt</string>
+    <string name="app_name">Mi VIP</string>
+    <string name="level">Level</string>
+    <string name="level_exp_value" formatted="false">%d/%d</string>
+    <string name="level_detail">Daily task limit: %d</string>
+    <string name="action">Megtekintés</string>
+    <string name="task">Feladatok</string>
+    <string name="today_task">Mai feladatok</string>
+    <string name="today_task_format" formatted="false">%d/%d</string>
+    <string name="passive_task">Háttérfolyamatok</string>
+    <string name="task_score">%d pont</string>
+    <string name="task_ongoing">Aktuális</string>
+    <string name="task_done">Kész</string>
+    <string name="task_start">Indítás</string>
+    <string name="task_take_award">Get awards</string>
+    <string name="query_user_tasks_fail">Nem sikerült lekérni a feladat adatait</string>
+    <string name="my_award">Ajándékok</string>
+    <string name="validity">%s lejár</string>
+    <string name="expired">Lejárt</string>
+    <string name="award_time">Collected on %s</string>
+    <string name="no_award">Nincs ajándék</string>
+    <string name="query_level_fail">Nem sikerült az adatokat lekérni</string>
+    <string name="award_taken">Points collected</string>
+    <string name="task_begin">Folyamatban…</string>
+    <string name="in_progress">Kérés küldése…</string>
+    <string name="privilege">Kiváltság</string>
+    <string name="promote">Level up</string>
+    <string name="level_info_format" formatted="false">"Level %d %d/%d
+%s"</string>
+    <string name="no_network">Nem sikerült kapcsolódni a hálózathoz</string>
+    <string name="task_limit">Nincs több feladat mára, viszlát holnap!</string>
+    <string name="no_task">Minden feladat be lett fejezve</string>
+    <string name="fail_reach_server">Nem sikerült kapcsolódni a szerverhez</string>
+    <string name="no_app">Először telepítse a MI VIP alkalmazást</string>
+    <string name="use">Use</string>
+    <string name="already_used">Használt</string>
+    <string name="unlimited_task">Különleges feladatok</string>
+    <string name="take_awarded_package">Redeem</string>
+    <string name="awarded_package_is_expired">Lejárt</string>
+    <string name="awarded_package_was_redeemed">Redeemed</string>
+    <string name="take_awarded_package_failed">"Couldn't redeem gift. Várjon egy percet és próbálja újra."</string>
+    <string name="invalid_json">Valami hiba történt</string>
+    <string name="task_select_title">Feladat kiválasztása</string>
+    <string name="task_not_completed">Nincs kész</string>
+    <string name="task_completed">Kész</string>
+    <string name="exp_buff">+%s%% experience</string>
+    <string name="upgraded">A fiók frissítve!</string>
+    <string name="experience">Exp</string>
+    <string name="browse">Megtekintés</string>
+    <string name="buff_enable">[ engedélyez ]</string>
+    <string name="days">%dn</string>
+    <string name="hours">%dó</string>
+    <string name="minutes">%dp</string>
+    <string name="seconds">%dmp</string>
+    <string name="millis">%d századm.</string>
+</resources>

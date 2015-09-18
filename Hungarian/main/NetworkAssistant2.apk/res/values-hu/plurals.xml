@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="hints_traffic_enable_title">
+        <item quantity="other">%d alkalmazás adatforgalmazásának nincs nyomonkövetése</item>
+        <item quantity="one">Egy alkalmazás adatforgalmazásának nincs nyomonkövetése</item>
+    </plurals>
+    <plurals name="hints_traffic_disable_title">
+        <item quantity="other">%d alkalmazás adatforgalmazásának nyomonkövetése</item>
+        <item quantity="one">Egy alkalmazás adatforgalmazásának nyomonkövetése</item>
+    </plurals>
+    <plurals name="hints_traffic_saving_optimized">
+        <item quantity="other">%d alkalmazás optivalizálva</item>
+        <item quantity="one">%d alkalamzás optimalizálva</item>
+    </plurals>
+    <plurals name="hints_traffic_saving_need_optimize">
+        <item quantity="other">%d alkalmazást lehet optimalizálni</item>
+        <item quantity="one">%d alkalmazást lehet optimalizálni</item>
+    </plurals>
+    <plurals name="hints_traffic_saving_enable_title">
+        <item quantity="other">%d alkalmazás használja a megtakarítást</item>
+        <item quantity="one">Egy alkalmazás használja a megtakarítást</item>
+    </plurals>
+    <plurals name="hints_traffic_saving_disable_title">
+        <item quantity="other">%d alkalmazás nem használja a megtakarítást</item>
+        <item quantity="one">Egy alkalmazás nem használja a megtakarítást</item>
+    </plurals>
+    <plurals name="hints_install_apps_interval">
+        <item quantity="other">%d nappal ezelőtt használt</item>
+        <item quantity="one">Tegnap használt</item>
+    </plurals>
+    <plurals name="search_app_count_txt">
+        <item quantity="other">%d alkalmazás keresése</item>
+        <item quantity="one">%d alkalmazás keresése</item>
+    </plurals>
+    <plurals name="hints_roaming_enable_title">
+        <item quantity="other">%d alk. használhatja a mobil adatkapcsolatot</item>
+        <item quantity="one">%d alk. használhatja a mobil adatkapcsolatot</item>
+    </plurals>
+    <plurals name="hints_roaming_disable_title">
+        <item quantity="other">%d alk. használhatja a mobil adatkapcsolatot</item>
+        <item quantity="one">%d alk. használhatja a mobil adatkapcsolatot</item>
+    </plurals>
+    <plurals name="hints_roaming_found_app_count_title">
+        <item quantity="other">%d alk.találat</item>
+        <item quantity="one">%d alk.találat</item>
+    </plurals>
+</resources>

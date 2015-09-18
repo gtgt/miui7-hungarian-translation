@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Mentés ügynök</string>
+    <string name="action_settings">Beállítások</string>
+    <string name="backup_sms_mms">SMS/MMS mentés</string>
+    <string name="backup_contacts">Névjegyzék mentés</string>
+</resources>

@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="google">
+        <item>Google</item>
+        <item>google.com</item>
+        <item>http://www.google.com/favicon.ico</item>
+        <item>http://www.google.com/search?hl={language}&amp;ie={inputEncoding}&amp;source=android-browser&amp;q={searchTerms}</item>
+        <item>UTF-8</item>
+        <item>http://api.bing.com/osjson.aspx?query={searchTerms}&amp;language={language}</item>
+    </string-array>
+    <string-array name="search_engines_rCN">
+        <item>google</item>
+        <item>yahoo</item>
+        <item>bing</item>
+    </string-array>
+    <string-array name="search_bar_search_engines_rCN">
+        <item>google</item>
+        <item>yahoo</item>
+        <item>bing</item>
+    </string-array>
+    <string-array name="menu_theme_setting">
+        <item>Fehér</item>
+        <item>Sárga</item>
+        <item>Szürke</item>
+        <item>Barna</item>
+        <item>Zöld</item>
+        <item>Kék</item>
+    </string-array>
+    <string-array name="bookmarks">
+        <item>Google</item>
+        <item>http://www.google.hu/</item>
+        <item>Index</item>
+        <item>http://index.hu/</item>
+        <item>Origo</item>
+        <item>http://www.origo.hu/index.html/</item>
+        <item>Miuiandroid.hu</item>
+        <item>http://miuiandroid.hu/</item>
+        <item>Miuihuforum</item>
+        <item>http://miuiandroid.hu/forum/</item>
+        <item>Xiaomishop.hu</item>
+        <item>http://www.xiaomishop.hu/</item>
+        <item>EN MIUI forum</item>
+        <item>http://en.miui.com/forum.php</item>
+        <item>Xiaomi.eu</item>
+        <item>http://xiaomi.eu/</item>
+        <item>Mi2 prohardver</item>
+        <item>http://prohardver.hu/tema/re_xiaomi_mi-2_lehetetlen_kuldetes/friss.html</item>
+        <item>XDA forum</item>
+        <item>http://forum.xda-developers.com/</item>
+        <item>eBay</item>
+        <item>http://www.ebay.com/</item>
+        <item>Időkép</item>
+        <item>http://www.idokep.hu/</item>
+        <item>Weather Channel</item>
+        <item>http://www.weather.com/</item>
+        <item>BBC</item>
+        <item>http://www.bbc.co.uk/</item>
+    </string-array>
+    <string-array name="pref_homepage_choices">
+        <item>Alapértelmezett kezdőlap</item>
+        <item>Egyéni</item>
+    </string-array>
+    <string-array name="pref_ua_choices">
+        <item>Android</item>
+        <item>Asztali</item>
+        <item>iPhone</item>
+        <item>iPad</item>
+    </string-array>
+    <string-array name="pref_text_zoom_choices">
+        <item>Apró</item>
+        <item>Kicsi</item>
+        <item>Normál</item>
+        <item>Nagy</item>
+        <item>Óriási</item>
+    </string-array>
+</resources>

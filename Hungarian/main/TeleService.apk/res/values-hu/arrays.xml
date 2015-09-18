@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="uplmn_prefer_network_mode_w_choices">
+        <item>GSM</item>
+        <item>WCDMA</item>
+        <item>LTE</item>
+        <item>Hármas mód</item>
+    </string-array>
+    <string-array name="ivr_type_settings_values">
+        <item>cm_1</item>
+        <item>cm_2</item>
+        <item>cm_3</item>
+        <item>cu_1</item>
+        <item>cu_2</item>
+        <item>cu_3</item>
+        <item>ct_1</item>
+        <item>ct_2</item>
+    </string-array>
+    <string-array name="preferred_network_mode_choices">
+        <item>TD-SCDMA/LTE/GSM/WCDMA/CDMA/EVDO</item>
+        <item>TD-SCDMA/GSM/WCDMA/CDMA/EVDO</item>
+        <item>TD-SCDMA/GSM/WCDMA/LTE</item>
+        <item>TD-SCDMA/WCDMA/LTE</item>
+        <item>TD-SCDMA/GSM/WCDMA</item>
+        <item>TD-SCDMA/GSM/LTE</item>
+        <item>TD-SCDMA/GSM</item>
+        <item>TD-SCDMA/LTE</item>
+        <item>TD-SCDMA/WCDMA</item>
+        <item>csak TD-SCDMA</item>
+        <item>LTE/WCDMA</item>
+        <item>LTE</item>
+        <item>Globális</item>
+        <item>GSM/WCDMA/LTE</item>
+        <item>CDMA + LTE/EvDo</item>
+        <item>CDMA/EvDo/GSM/WCDMA</item>
+        <item>Csak EvDo</item>
+        <item>CDMA EvDo nélkül</item>
+        <item>CDMA/EvDo automatikus</item>
+        <item>GSM/WCDMA automatikus</item>
+        <item>Csak WCDMA</item>
+        <item>Csak GSM</item>
+        <item>GSM/WCDMA a preferált</item>
+    </string-array>
+    <string-array name="list_language_entries">
+        <item>Angol</item>
+        <item>francia</item>
+        <item>spanyol</item>
+        <item>Japán</item>
+        <item>koreai</item>
+        <item>kínai</item>
+        <item>Héber</item>
+    </string-array>
+    <string-array name="cdma_system_select_choices">
+        <item>Csak otthoni</item>
+        <item>Automatikus</item>
+    </string-array>
+</resources>

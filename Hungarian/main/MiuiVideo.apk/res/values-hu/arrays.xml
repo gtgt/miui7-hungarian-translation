@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="server_list_entries">
+        <item>Teszt szerver</item>
+        <item>Online szerver</item>
+    </string-array>
+    <string-array name="version_list_entries">
+        <item>Stabil</item>
+        <item>Beta</item>
+        <item>Alpha</item>
+    </string-array>
+</resources>

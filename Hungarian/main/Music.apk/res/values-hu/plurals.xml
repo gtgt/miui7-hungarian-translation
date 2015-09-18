@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="Ntracks_search_result">
+        <item quantity="other">%d dal</item>
+        <item quantity="one">%d dal</item>
+    </plurals>
+    <plurals name="Nexpired_remind">
+        <item quantity="other">%d nap van hátra</item>
+        <item quantity="one">%d nap van hátra</item>
+    </plurals>
+    <plurals name="NTrackstoDownload">
+        <item quantity="other">%d dal lesz letölthető</item>
+        <item quantity="one">1 dal lesz letölthető</item>
+    </plurals>
+    <plurals name="Nnew_tracks_count">
+        <item quantity="other">%d új</item>
+        <item quantity="one">Egy új</item>
+    </plurals>
+    <plurals name="Ntracks_count">
+        <item quantity="other">%d dal</item>
+        <item quantity="one">%d dal</item>
+    </plurals>
+    <plurals name="Ntracks_similar_count">
+        <item quantity="other">%d hasonló dal</item>
+        <item quantity="one">%d hasonló dal</item>
+    </plurals>
+    <plurals name="Ntracks_add_to_playlist">
+        <item quantity="other">%d dal hozzáadva a lejátszási listához</item>
+        <item quantity="one">1 dal hozzáadva a lejátszási listához</item>
+    </plurals>
+    <plurals name="Ntracks_remove_from_playlist">
+        <item quantity="other">%d dal eltávolítva a lejátszási listából</item>
+        <item quantity="one">1 dal eltávolítva a lejátszási listából</item>
+    </plurals>
+    <plurals name="artist_list_fragment_item_count_format">
+        <item quantity="other">%d dal</item>
+        <item quantity="one">1 dal</item>
+    </plurals>
+    <plurals name="send_songs_toast">
+        <item quantity="other">%d dal lesz elküldve</item>
+        <item quantity="one">1 dal lesz elküldve</item>
+    </plurals>
+    <plurals name="folder_songs_count">
+        <item quantity="other">%d dal</item>
+        <item quantity="one">1 dal</item>
+    </plurals>
+    <plurals name="Nnew_local_audios">
+        <item quantity="other">%d dal hozzáadva</item>
+        <item quantity="one">%d dal hozzáadva</item>
+    </plurals>
+</resources>

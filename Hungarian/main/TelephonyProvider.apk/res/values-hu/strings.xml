@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="sms_provider_label">Üzenetek</string>
+    <string name="mms_sms_provider_label">Üzenetkezelés</string>
+    <string name="siminfo_default_name">%d SIM</string>
+    <string name="app_label">Telefonos/üzenet-tárhely</string>
+</resources>

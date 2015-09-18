@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="confirm_delete_album">
+        <item quantity="other">Törli %1$s albumokat (%2$s összes)?</item>
+        <item quantity="one">Törli a(z) %1$s albumot (%2$s összes)?</item>
+    </plurals>
+    <plurals name="confirm_delete_has_cloud_local_image_video_from_homepage">
+        <item quantity="other">Törli a kiválasztott %s elemet az eszközről és a MiCloudból is?</item>
+    </plurals>
+    <plurals name="confirm_delete_has_cloud_local_image_from_homepage">
+        <item quantity="other">Törli a kiválasztott %s fényképet az eszközről és a MiCloudból is?</item>
+        <item quantity="one">Törli a %s fényképet az eszközről és a MiCloudból is?</item>
+    </plurals>
+    <plurals name="confirm_delete_has_cloud_local_video_from_homepage">
+        <item quantity="other">Törli a kiválasztott %s videót az eszközről és a MiCloudból is?</item>
+        <item quantity="one">Törli a %s videót az eszközről és a MiCloudból is?</item>
+    </plurals>
+    <plurals name="confirm_delete_has_cloud_image_video_from_homepage">
+        <item quantity="other">Törli a kiválasztott %s elemet a MiCloudból?</item>
+    </plurals>
+    <plurals name="confirm_delete_has_cloud_image_from_homepage">
+        <item quantity="other">Törli a kiválasztott %s fényképet a MiCloudból?</item>
+        <item quantity="one">Törli a >%s fényképet a MiCloudból?</item>
+    </plurals>
+    <plurals name="confirm_delete_has_cloud_video_from_homepage">
+        <item quantity="other">Törli a kiválasztott %s videót a MiCloudból?</item>
+        <item quantity="one">Törli a %s videót a MiCloudból?</item>
+    </plurals>
+    <plurals name="confirm_delete_has_cloud_image_video">
+        <item quantity="other">Törli a kiválasztott %s elemet ebből az albumból?</item>
+    </plurals>
+    <plurals name="confirm_delete_has_local_image_video">
+        <item quantity="other">Törli a kiválasztott %s elemet?</item>
+    </plurals>
+    <plurals name="confirm_delete_has_cloud_image">
+        <item quantity="other">Törli a fényképeket ebből az albumból?</item>
+        <item quantity="one">Törli a fényképet ebből az albumból?</item>
+    </plurals>
+    <plurals name="confirm_delete_has_local_image">
+        <item quantity="other">Törli a fényképeket?</item>
+        <item quantity="one">Törli a fényképet?</item>
+    </plurals>
+    <plurals name="confirm_delete_has_cloud_video">
+        <item quantity="other">Törli a videókat ebből az albumból?</item>
+        <item quantity="one">Törli a videót ebből az albumból?</item>
+    </plurals>
+    <plurals name="confirm_delete_has_local_video">
+        <item quantity="other">Törli a videókat?</item>
+        <item quantity="one">Törli a videót?</item>
+    </plurals>
+    <plurals name="confirm_delete_video_from_many_albums">
+        <item quantity="other">"  Törli a videókat az %2$d albumból? "</item>
+        <item quantity="one">"  Törli a videót az %2$d albumból? "</item>
+    </plurals>
+    <plurals name="confirm_delete_image_from_many_albums">
+        <item quantity="other">Törli a(z) %1$d képet a(z) %2$d albumból?</item>
+        <item quantity="one">Törli a %1$d képet a(z) %2$d albumból?</item>
+    </plurals>
+    <plurals name="number_of_items_selected">
+        <item quantity="other">%1$d kiválasztva</item>
+        <item quantity="zero">nincs kép kiválasztva</item>
+        <item quantity="one">%1$d kiválasztva</item>
+    </plurals>
+    <plurals name="number_of_pictures">
+        <item quantity="other">%1$d fénykép</item>
+        <item quantity="zero">nincs fénykép</item>
+        <item quantity="one">%1$d fénykép</item>
+    </plurals>
+    <plurals name="how_many_pics">
+        <item quantity="other">%d fénykép</item>
+        <item quantity="one">%d fénykép</item>
+    </plurals>
+    <plurals name="how_many_videos">
+        <item quantity="other">%d videó</item>
+        <item quantity="one">%d videó</item>
+    </plurals>
+    <plurals name="how_many_sub_folders">
+        <item quantity="other">%d mappa</item>
+        <item quantity="one">%d mappa</item>
+    </plurals>
+    <plurals name="message_no_delete_access_with_count">
+        <item quantity="other">Nincs engedélye ennek az %d fájlnak a törléséhez.</item>
+        <item quantity="one">Nincs engedélye a fájl törléséhez.</item>
+    </plurals>
+    <plurals name="pick_with_limited_upper_bound_title">
+        <item quantity="other">%d elemet választhat</item>
+        <item quantity="one">%d elemet választhat</item>
+    </plurals>
+    <plurals name="number_of_images">
+        <item quantity="other">%1$d fénykép</item>
+        <item quantity="zero">nincs fénykép</item>
+        <item quantity="one">%1$d fénykép</item>
+    </plurals>
+    <plurals name="number_of_items">
+        <item quantity="other">%1$d elem</item>
+        <item quantity="zero">nincs elem</item>
+        <item quantity="one">%1$d elem</item>
+    </plurals>
+    <plurals name="seconds">
+        <item quantity="other">%d másodperc</item>
+        <item quantity="one">1 másodperc</item>
+    </plurals>
+    <plurals name="ignore_faces_alert_msg">
+        <item quantity="other">Ne mutassa ezeket a személyeket?</item>
+        <item quantity="one">Ne mutassa ezt a személyt?</item>
+    </plurals>
+    <plurals name="more_face">
+        <item quantity="other">%1$s fénykép, melyen %2$s látható</item>
+        <item quantity="one">%1$s fénykép, myelyen %2$s látható</item>
+    </plurals>
+    <plurals name="baby_album_sharer_recommand_old_pictures">
+        <item quantity="other">%1$d fénykép hozzáadva: %2$s</item>
+        <item quantity="one">%1$d fénykép hozzáadva %2$s</item>
+    </plurals>
+    <plurals name="baby_album_sharer_recommand_new_pictures">
+        <item quantity="other">%1$d fénykép hozzáadva: %2$s</item>
+        <item quantity="one">%1$d fénykép hozzáadva: %2$s</item>
+    </plurals>
+    <plurals name="baby_age_subtitle_year">
+        <item quantity="other">"%1$d éves "</item>
+        <item quantity="one">"%1$d éves "</item>
+    </plurals>
+    <plurals name="baby_age_subtitle_month">
+        <item quantity="other">%1$d hónapos</item>
+        <item quantity="one">%1$d hónapos</item>
+    </plurals>
+    <plurals name="baby_age_subtitle_day">
+        <item quantity="other">%1$d napos</item>
+        <item quantity="one">%1$d napos</item>
+    </plurals>
+    <plurals name="number_of_images_to_upload">
+        <item quantity="other">%1$d fénykép vár szinkronizálásra</item>
+        <item quantity="one">Egy feltöltendő fénykép</item>
+    </plurals>
+    <plurals name="number_of_videos_to_upload">
+        <item quantity="other">%1$d videó vár szinkronizálásra</item>
+        <item quantity="one">Egy feltöltendő videó</item>
+    </plurals>
+    <plurals name="number_of_images_and_videos_to_upload">
+        <item quantity="other">%1$d elem vár szinkronizálásra</item>
+        <item quantity="one">Egy feltöltendő elem</item>
+    </plurals>
+    <plurals name="number_of_uploading_images">
+        <item quantity="other">%1$d fénykép szinkronizálása…</item>
+        <item quantity="one">Egy fénykép szinkronizálása…</item>
+    </plurals>
+    <plurals name="number_of_uploading_videos">
+        <item quantity="other">%1$d videó szinkronizálása…</item>
+        <item quantity="one">Egy videó szinkronizálása…</item>
+    </plurals>
+    <plurals name="number_of_uploading_images_and_videos">
+        <item quantity="other">%1$d elem szinkronizálása…</item>
+        <item quantity="one">Egy elem szinkronizálása…</item>
+    </plurals>
+</resources>

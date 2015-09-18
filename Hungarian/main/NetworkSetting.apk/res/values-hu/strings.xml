@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="progress_scanning">Keresés…</string>
+    <string name="search_networks">Hálózatok keresése</string>
+    <string name="no_network">Nem található hálózat.</string>
+    <string name="select_automatically">Automatikus választás</string>
+    <string name="sum_select_automatically">Preferált hálózat automatikus kiválasztása</string>
+    <string name="available_networks">Elérhető hálózatok</string>
+    <string name="register_on_network">Regisztrálás: %1$s…</string>
+    <string name="register_automatically">Automatikus regisztrálás…</string>
+    <string name="network_query_error">Hiba történt a hálózatok keresése közben.</string>
+    <string name="not_allowed">A SIM kártya nem engedélyezi ehhez a csatlakozást hálózathoz.</string>
+    <string name="connect_later">Nem csatlakozható a hálózathoz. Próbálja később.</string>
+    <string name="quit_mention">Figyelmeztetés!</string>
+    <string name="dialog_message">A kilépéssel megszakítja a keresést, biztos benne?</string>
+    <string name="timeout_message">Nincs elérhető hálózat.</string>
+    <string name="registration_done">Regisztrálva a hálózaton.</string>
+    <string name="China_Mobile">China Mobile</string>
+    <string name="China_Unicom">China Unicom</string>
+    <string name="China_Telecom">China Telecom</string>
+    <string name="roamingTextSearching">Szolgáltatás keresése</string>
+    <string name="network_forbidden">(Tiltott)</string>
+    <string name="disconnect_data_confirm">Az adatforgalmi szolgáltatás ideiglenesen megszakad. Folytatja?</string>
+</resources>

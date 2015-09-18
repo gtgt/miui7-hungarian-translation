@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="IZat_MENU_TEXT">Gyorsabb helymeghatározás</string>
+    <string name="IZat_SUB_TITLE_TEXT">A Qualcomm® IZat™ gyorsított helymeghatározás hardver használata</string>
+    <string name="POPUP_BOX_TITLE">Hozzájárulás helymeghatározáshoz</string>
+    <string name="POPUP_BOX_TEXT">A hardver-gyorsítás aktiváláshoz az IZat számára a helymeghatározási adatok gyűjtésének engedélyezése. Az IZat egyes adatokat a felhasználói eszközökön tárol és még akkor is működhet, ha egyetlen alkalmazás sem fut. Felhasználási feltételek és</string>
+    <string name="POLICY_LINK">&lt;a href=\"http://xt.qsp.qualcomm.com/privacy/HI/privacy_policy.html\">Felhasználási feltételek és adatvédelmi szabályzat.&lt;/a></string>
+    <string name="IZAT_AGREE">Elfogadom</string>
+    <string name="IZAT_DISAGREE">Nem fogadom el</string>
+    <string name="XT_APP_TITLE">Gyorsítja a helymeghatározási teljesítményt</string>
+</resources>
