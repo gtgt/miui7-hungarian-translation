@@ -1,0 +1,11 @@
+<resources>
+<!--This Hungarian translation is licenced under www.creativecommons.org/licenses/by-nc-nd/3.0/deed.en by vagyula-->
+    <string name="label_airplane_mode">Repülőgép</string>
+    <string name="label_silent_mode">Néma</string>
+    <string name="label_reboot">Újraindítás</string>
+    <string name="label_shutdown">Kikapcsolás</string>
+    <string name="label_alert_reboot">Érintse meg az újraindításhoz</string>
+    <string name="label_alert_shutdown">Érintse meg a kikapcsoláshoz</string>
+    <string name="label_alert_recovery">Recovery</string>
+    <string name="label_alert_bootloader">Bootloader</string>
+</resources>
