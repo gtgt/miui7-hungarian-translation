@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Parsed by jbart2a -->
+<resources>
+     <string-array name="sm_in_list">
+        <item>search_sm</item>
+        <item>ic_search_engine_sm</item>
+        <item>sm</item>
+     </string-array>
+</resources>

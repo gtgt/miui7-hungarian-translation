@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Parsed by jbart2a -->
+<resources>
+     <string name="browser_search_component">com.android.browser/.BookmarkSearch</string>
+     <string name="installed_apps_component">com.android.providers.applications/.ApplicationLauncher</string>
+</resources>

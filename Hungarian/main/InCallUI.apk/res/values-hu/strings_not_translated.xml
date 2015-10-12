@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Parsed by jbart2a -->
+<resources>
+     <string name="call_description_recording">Recording…</string>
+     <string name="call_extension_conference_mode">Conference mode</string>
+     <string name="onscreen_audio_mode_conference">Conference</string>
+</resources>

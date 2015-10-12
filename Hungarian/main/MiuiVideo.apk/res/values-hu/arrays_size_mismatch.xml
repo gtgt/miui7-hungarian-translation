@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Parsed by jbart2a -->
+<resources>
+     <!-- Size mismatch! Translated: 3, Original: 2 -->
+     <string-array name="version_list_entries">
+        <item>稳定版本</item>
+        <item>荣誉内测</item>
+     </string-array>
+</resources>

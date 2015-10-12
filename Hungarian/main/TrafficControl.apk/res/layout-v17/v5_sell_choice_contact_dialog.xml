@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:background="@color/sell_white" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView android:gravity="center" android:layout_width="wrap_content" android:layout_height="@dimen/v5_sell_actionbar_height" android:layout_marginLeft="@dimen/v5_sell_dul_padding" android:text="@string/v5_sell_choice_phone" android:layout_marginStart="@dimen/v5_sell_dul_padding" style="@style/v5_sell_sp18_21" />
+    <View android:background="@color/sell_gray_75" android:layout_width="fill_parent" android:layout_height="3.0px" />
+    <ListView android:id="@id/v5_sell_listview" android:layout_width="fill_parent" android:layout_height="wrap_content" android:divider="@color/sell_gray_E5" android:dividerHeight="1.0px" />
+</LinearLayout>

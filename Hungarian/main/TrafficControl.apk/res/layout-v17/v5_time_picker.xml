@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.opera.max.ui.v5.theme.ThmBgLinearlayout android:gravity="center" android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layoutDirection="ltr" opera:tbcDrawable="bg_2"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:opera="http://schemas.android.com/apk/res-auto">
+    <NumberPicker android:id="@id/hour" android:focusable="true" android:focusableInTouchMode="true" android:layout_width="0.0px" android:layout_height="wrap_content" android:layout_marginLeft="11.0dip" android:layout_weight="1.0" />
+    <ImageView android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/v5_sleep_mode_time_colon" android:scaleType="centerInside" />
+    <NumberPicker android:id="@id/minute" android:focusable="true" android:focusableInTouchMode="true" android:layout_width="0.0px" android:layout_height="wrap_content" android:layout_marginRight="11.0dip" android:layout_weight="1.0" />
+</com.opera.max.ui.v5.theme.ThmBgLinearlayout>

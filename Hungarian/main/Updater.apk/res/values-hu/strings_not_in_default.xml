@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Parsed by jbart2a -->
+<resources>
+     <string name="apply_upload_info_message">Frissítés a háttérben, a normál használatot nem befolyásolja</string>
+     <string name="dialog_no">Nem</string>
+     <string name="dialog_ok">Ok</string>
+     <string name="dialog_yes">Igen</string>
+     <string name="downloading_description">Letöltés folyamatban...</string>
+     <string name="file_not_found_error_message">Frissítés nem található</string>
+     <string name="menu_title_check_update">Ellenőrzés csak Wi-Fi kapcsolat esetén</string>
+</resources>

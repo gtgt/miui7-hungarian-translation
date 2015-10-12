@@ -1,0 +1,27 @@
+{
+    "update_interval": 86400,
+    "quiet_time": "23:00-7:00",
+    "event_list": [
+        {
+            "on_off": true, "event_id": 101, "priority": 1, "eff_time": "", "exp_time": "", "interval": 86400, "time_status": false, "time": "17:00:00|Sun", "accuracy": 3600, "value_1": 0.05, "value_2": 10
+        },
+        {
+            "on_off": true, "event_id": 102, "priority": 2, "eff_time": "", "exp_time": "", "interval": -1, "time_status": false, "time": "17:00:00|Sun", "accuracy": 3600, "value_1": 0.00, "value_2": 0
+        },
+        {
+            "on_off": false, "event_id": 106,"priority": 1,"eff_time": "", "exp_time": "", "interval": -1, "time_status": false, "time": "17:00:00|Sun", "accuracy": 3600, "value_1": 0.0, "value_2": 0
+        },
+        {
+            "on_off": true, "event_id": 107,"priority": 7,"eff_time": "", "exp_time": "", "interval": -1, "time_status": false, "time": "17:00:00|Sun", "accuracy": 3600, "value_1": 0.0, "value_2": 5
+        },
+        {
+            "on_off": true, "event_id": 108,"priority": 8,"eff_time": "", "exp_time": "", "interval": 28800, "time_status": false, "time": "17:00:00|Sun", "accuracy": 3600, "value_1": 0.4, "value_2": 5
+        },
+        {
+            "on_off": true, "event_id": 109,"priority": 9,"eff_time": "", "exp_time": "", "interval": -1, "time_status": true, "time": "08:00:00", "accuracy": 3600, "value_1": 30.0, "value_2": 3
+        },
+        {
+            "on_off": false, "event_id": 110,"priority": 10,"eff_time": "", "exp_time": "", "interval": -1, "time_status": true, "time": "08:00:00", "accuracy": 3600, "value_1": 0.0, "value_2": 0
+        }
+    ]
+}

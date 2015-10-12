@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Parsed by jbart2a -->
+<resources>
+     <string name="cnlive">cnlive</string>
+     <string name="icntv">iCNTV</string>
+     <string name="lekan">Lekan</string>
+     <string name="letv">Letv</string>
+     <string name="pps">PPS</string>
+     <string name="pptv">PPTV</string>
+     <string name="qiyi">iQiyi</string>
+     <string name="tv_cp_info_format">support by %1$s</string>
+     <string name="vp_media_type_unsported">This type of media cannot be supported</string>
+     <string name="vp_mobile_network_using_warning_line_1">Using your mobile data connection to watch videos will increase your data usage.</string>
+     <string name="vp_mobile_network_using_warning_line_2">If you go over your plan’s data usage limit, your carrier could charge you additional fees.</string>
+     <string name="vp_mplayer_error_io">IO operation error</string>
+     <string name="vp_mplayer_error_malformed">Malformed media content</string>
+     <string name="vp_mplayer_error_server_died">Media server died</string>
+     <string name="vp_mplayer_error_timed_out">Operation timed out</string>
+     <string name="vp_play_youku_failed_get_video_info">"Couldn't get video info"</string>
+     <string name="vp_play_youku_time_out">Connection timed out</string>
+     <string name="wasu">Wasu</string>
+     <string name="yinyuetai">YinYueTai</string>
+     <string name="youku">Youku</string>
+</resources>

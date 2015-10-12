@@ -1,44 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
+<!-- Parsed by jbart2a -->
 <resources>
-    <string-array name="google">
-        <item>Google</item>
-        <item>google.com</item>
-        <item>http://www.google.com/favicon.ico</item>
-        <item>http://www.google.com/search?hl={language}&amp;ie={inputEncoding}&amp;source=android-browser&amp;q={searchTerms}</item>
-        <item>UTF-8</item>
-        <item>http://api.bing.com/osjson.aspx?query={searchTerms}&amp;language={language}</item>
-    </string-array>
-    <string-array name="search_engines_rCN">
-        <item>google</item>
-        <item>yahoo</item>
-        <item>bing</item>
-    </string-array>
-    <string-array name="search_bar_search_engines_rCN">
-        <item>google</item>
-        <item>yahoo</item>
-        <item>bing</item>
-    </string-array>
-    <string-array name="menu_theme_setting">
-        <item>Fehér</item>
-        <item>Sárga</item>
-        <item>Szürke</item>
-        <item>Barna</item>
-        <item>Zöld</item>
-        <item>Kék</item>
-    </string-array>
-    <string-array name="bookmarks">
+     <string-array name="bookmarks">
         <item>Google</item>
         <item>http://www.google.hu/</item>
         <item>Index</item>
         <item>http://index.hu/</item>
-        <item>Origo</item>
-        <item>http://www.origo.hu/index.html/</item>
-        <item>Miuiandroid.hu</item>
-        <item>http://miuiandroid.hu/</item>
-        <item>Miuihuforum</item>
-        <item>http://miuiandroid.hu/forum/</item>
-        <item>Xiaomishop.hu</item>
-        <item>http://www.xiaomishop.hu/</item>
+        <item>Átlátszó</item>
+        <item>http://atlatszo.hu</item>
         <item>EN MIUI forum</item>
         <item>http://en.miui.com/forum.php</item>
         <item>Xiaomi.eu</item>
@@ -55,22 +24,53 @@
         <item>http://www.weather.com/</item>
         <item>BBC</item>
         <item>http://www.bbc.co.uk/</item>
-    </string-array>
-    <string-array name="pref_homepage_choices">
+     </string-array>
+     <string-array name="google">
+        <item>Google</item>
+        <item>google.com</item>
+        <item>http://www.google.com/favicon.ico</item>
+        <item>http://www.google.com/search?hl={language}&amp;ie={inputEncoding}&amp;source=android-browser&amp;q={searchTerms}</item>
+        <item>UTF-8</item>
+        <item>http://api.bing.com/osjson.aspx?query={searchTerms}&amp;language={language}</item>
+     </string-array>
+     <string-array name="menu_theme_setting">
+        <item>Fehér</item>
+        <item>Sárga</item>
+        <item>Szürke</item>
+        <item>Barna</item>
+        <item>Zöld</item>
+        <item>Kék</item>
+     </string-array>
+     <string-array name="pref_homepage_choices">
         <item>Alapértelmezett kezdőlap</item>
         <item>Egyéni</item>
-    </string-array>
-    <string-array name="pref_ua_choices">
-        <item>Android</item>
-        <item>Asztali</item>
-        <item>iPhone</item>
-        <item>iPad</item>
-    </string-array>
-    <string-array name="pref_text_zoom_choices">
+     </string-array>
+     <string-array name="pref_text_zoom_choices">
         <item>Apró</item>
         <item>Kicsi</item>
         <item>Normál</item>
         <item>Nagy</item>
         <item>Óriási</item>
-    </string-array>
+     </string-array>
+     <string-array name="pref_ua_choices">
+        <item>Android</item>
+        <item>Asztali</item>
+        <item>iPhone</item>
+        <item>iPad</item>
+     </string-array>
+     <string-array name="search_bar_search_engines_rCN">
+        <item>google</item>
+        <item>yahoo</item>
+        <item>bing</item>
+     </string-array>
+     <string-array name="search_engines_rCN">
+        <item>google</item>
+        <item>yahoo</item>
+        <item>bing</item>
+     </string-array>
+     <string-array name="sm_in_list">
+        <item>search_sm</item>
+        <item>ic_search_engine_sm</item>
+        <item>sm</item>
+     </string-array>
 </resources>

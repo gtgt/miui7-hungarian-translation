@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Parsed by jbart2a -->
+<resources>
+     <string name="passport_login_short">Sign in</string>
+     <string name="provision_skip_login"><u>Skip this step</u></string>
+</resources>

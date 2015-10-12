@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Parsed by jbart2a -->
+<resources>
+     <string name="account_removed">A(z) %1$s fiókkal való bejelentkezést megszakítottuk.</string>
+     <string name="account_switcher_title">Válasszon fiókot</string>
+     <string name="add_account_label">Másik fiók használata</string>
+     <string name="camera_needed">Fotó beállításához kamera- vagy galériaalkalmazás szükséges.</string>
+     <string name="cancel_photo">Mégse</string>
+     <string name="car_dim_screen">Képernyő halványítása</string>
+     <string name="car_frx_android_auto_logo">Android Auto-embléma</string>
+     <string name="car_frx_cancel">Beállítás leállítása</string>
+     <string name="car_frx_exit">Kilépés az Android Auto beállításából</string>
+     <string name="car_frx_google_maps_logo">Google Térkép-embléma</string>
+     <string name="car_frx_google_now_logo">Google Asszisztens-embléma</string>
+     <string name="car_frx_google_play_music_logo">Google Play Zene-embléma</string>
+     <string name="car_frx_ok">Elfogadás, és ugrás a következő beállítási lépésre</string>
+     <string name="car_frx_ok_">Autós csatlakozás engedélyezése, és ugrás a következő beállítási lépésre</string>
+     <string name="car_frx_try_again">Próbálja újra</string>
+     <string name="car_permission_desc_popup_dialogs">Ahhoz szükséges, hogy egy autós alkalmazás előugró párbeszédablakokat jeleníthessen meg telefonján.</string>
+     <string name="car_permission_label_popup_dialogs">előugró ablak megjelenítése</string>
+     <string name="car_select_android_auto_icon">Az Android Auto elindításához válassza ki az ikont autója képernyőjén</string>
+     <string name="car_setup_asking_installing_applications_message">Kérjük, ne induljon el. Alkalmazásának letöltése és beállítása igénybe vesz néhány percet.</string>
+     <string name="car_setup_asking_installing_applications_title">Android Auto alkalmazások letöltése</string>
+     <string name="car_setup_authorizing_car_connection_message">Android-eszközének engedélyre van szüksége az autóhoz való csatlakozáshoz.</string>
+     <string name="car_setup_downloading_message">Android Auto-alkalmazások letöltése</string>
+     <string name="car_setup_error_message">Nem sikerült az Android Auto beállítása. Oldja meg a problémát, és csatlakoztassa újra telefonját az autóhoz.</string>
+     <string name="car_setup_failed_message">Az Android Auto engedélyt kér arra, hogy az autó rendszerét intelligensebbé tegye.</string>
+     <string name="car_setup_failed_title">Útlezáráshoz érkezett</string>
+     <string name="car_setup_install">Telepítés</string>
+     <string name="car_setup_install_cancel_confirm_message">Az Android Auto használatához engedélyeznie kell a Google Térkép, a Google Play Zene és a Google Asszisztens szolgáltatást.</string>
+     <string name="car_setup_install_cancel_confirm_title">Útlezáráshoz érkezett</string>
+     <string name="car_setup_ok">OK</string>
+     <string name="car_setup_try_again">PRÓBÁLJA ÚJRA</string>
+     <string name="choose_photo">Kiválasztás a galériából</string>
+     <string name="consent_accept">Értem</string>
+     <string name="kids_family_app_title">Google a családokért</string>
+     <string name="take_photo">Fotó készítése</string>
+     <string name="wallet_exp_date">HH/ÉÉ</string>
+     <string name="wallet_icon_with_text_content_description">Google Wallet</string>
+</resources>

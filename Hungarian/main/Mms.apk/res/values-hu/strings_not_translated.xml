@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Parsed by jbart2a -->
+<resources>
+     <string name="audio_playing_seconds">%d\"</string>
+     <string name="mx2_type_description">[%s]</string>
+     <string name="mx_b2c_message_desc">Network notifications</string>
+     <string name="prefDefault_vibrateWhen">never</string>
+     <string name="prefDefault_vibrate_false">never</string>
+     <string name="prefDefault_vibrate_true">always</string>
+</resources>

@@ -1,0 +1,39 @@
+{
+    "update_interval": 86400,
+    "quiet_time": "7:00-7:00",
+    "event_list": [
+        {
+            "on_off": true, "event_id": 1, "priority": 1, "eff_time": "", "exp_time": "", "interval": -1, "time_status": false, "time": "17:00:00|Sun", "accuracy": 3600, "value_1": 0.0, "value_2": 0
+        },
+        {
+            "on_off": true, "event_id": 2, "priority": 2, "eff_time": "", "exp_time": "", "interval": -1, "time_status": false, "time": "17:00:00|Sun", "accuracy": 3600, "value_1": 0.0, "value_2": 0
+        },
+        {
+            "on_off": true, "event_id": 3, "priority": 3, "eff_time": "", "exp_time": "", "interval": -1, "time_status": false, "time": "17:00:00|Sun", "accuracy": 3600, "value_1": 0.1, "value_2": 0
+        },
+        {
+            "on_off": true, "event_id": 4, "priority": 4, "eff_time": "", "exp_time": "", "interval": -1, "time_status": false, "time": "17:00:00|Sun", "accuracy": 3600, "value_1": 0.2, "value_2": 0
+        },
+        {
+            "on_off": true, "event_id": 5, "priority": 5, "eff_time": "", "exp_time": "", "interval": -1, "time_status": false, "time": "17:00:00|Sun", "accuracy": 3600, "value_1": 0.1, "value_2": 0
+        },
+        {
+            "on_off": true, "event_id": 6, "priority": 6, "eff_time": "", "exp_time": "", "interval": -1, "time_status": false, "time": "17:00:00|Sun", "accuracy": 3600, "value_1": 0.0, "value_2": 0
+        },
+        {
+            "on_off": true, "event_id": 7, "priority": 7, "eff_time": "", "exp_time": "", "interval": -1, "time_status": false, "time": "17:00:00|Sun", "accuracy": 3600, "value_1": 0.0, "value_2": 0
+        },
+        {
+            "on_off": true, "event_id": 8, "priority": 8, "eff_time": "", "exp_time": "", "interval": -1, "time_status": false, "time": "17:00:00|Sun", "accuracy": 3600, "value_1": 0.1, "value_2": 0
+        },
+        {
+            "on_off": true, "event_id": 9, "priority": 9, "eff_time": "", "exp_time": "", "interval": -1, "time_status": false, "time": "17:00:00|Sun", "accuracy": 3600, "value_1": 0.2, "value_2": 0
+        },
+        {
+            "on_off": true, "event_id": 10,"priority": 11,"eff_time": "", "exp_time": "", "interval": -1, "time_status": false, "time": "17:00:00|Sun", "accuracy": 3600, "value_1": 0.0, "value_2": 0
+        },
+        {
+            "on_off": true, "event_id": 11,"priority": 10,"eff_time": "", "exp_time": "", "interval": -1, "time_status": false, "time": "17:00:00|Sun", "accuracy": 3600, "value_1": 0.0, "value_2": 0
+        }
+    ]
+}

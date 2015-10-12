@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Parsed by jbart2a -->
+<resources>
+     <string name="atmd_copyright_info">Streaming service is provided by Ultimate Inc.</string>
+     <string name="atmd_mail">service1@ultimobi.com</string>
+     <string name="dialog_delete_descript">Törli %s?</string>
+     <string name="dialog_hint_network_error">Nem sikerült kapcsolódni a hálózathoz.</string>
+     <string name="dialog_remove_descript">%s eltávolítása?</string>
+     <string name="format_unsupported">A formátum nem támogatott.</string>
+     <string name="impunity_declaration">Az alkalmazáshoz internetkapcsolat szükséges.</string>
+     <string name="my_music">Helyi</string>
+     <string name="network_error">Nincsen hálózati kapcsolat, kérjük ellenőrizze a beállításokat</string>
+     <string name="online_music">Online Zene</string>
+     <string name="quit_warining">A lejátszás le fog állni %d perc múlva</string>
+</resources>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Parsed by jbart2a -->
+<resources>
+     <string name="def_ringtone_slot_1">/system/media/audio/ringtones/MI.ogg</string>
+     <string name="def_ringtone_slot_2">/system/media/audio/ringtones/MI.ogg</string>
+     <string name="def_sms_delivered_sound_slot_1">/system/media/audio/notifications/MessageComplete.ogg</string>
+     <string name="def_sms_delivered_sound_slot_2">/system/media/audio/notifications/MessageComplete.ogg</string>
+     <string name="def_sms_received_sound_slot_1">/system/media/audio/notifications/MessageIncoming.ogg</string>
+     <string name="def_sms_received_sound_slot_2">/system/media/audio/notifications/MessageIncoming.ogg</string>
+</resources>

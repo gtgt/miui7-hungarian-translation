@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Parsed by jbart2a -->
+<resources>
+     <string name="permdesc_handoverStatus">Allows receiving handover transfer status information from Bluetooth.</string>
+     <string name="permlab_handoverStatus">Receive BT handover transfer broadcasts.</string>
+</resources>

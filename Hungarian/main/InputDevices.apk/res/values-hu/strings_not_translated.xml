@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Parsed by jbart2a -->
+<resources>
+     <string name="keyboard_layout_arabic">Arabic</string>
+     <string name="keyboard_layout_greek">Greek</string>
+     <string name="keyboard_layout_hebrew">Hebrew</string>
+     <string name="keyboard_layout_latvian">Latvian</string>
+     <string name="keyboard_layout_lithuanian">Lithuanian</string>
+     <string name="keyboard_layout_spanish_latin">Spanish (Latin)</string>
+</resources>

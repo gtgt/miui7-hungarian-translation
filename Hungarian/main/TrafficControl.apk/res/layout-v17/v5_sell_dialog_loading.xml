@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:gravity="center" android:orientation="horizontal" android:background="@drawable/v5_sell_dialog_bk" android:layout_width="wrap_content" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageView android:layout_gravity="center_vertical" android:id="@id/v5_sell_loading_img" android:layout_width="@dimen/v5_sell_img_size" android:layout_height="@dimen/v5_sell_img_size" android:layout_marginRight="@dimen/v5_sell_img_dialog_margin_hor" android:src="@drawable/spinner_48_inner_holo" android:scaleType="fitXY" android:contentDescription="@null" android:layout_marginEnd="@dimen/v5_sell_img_dialog_margin_hor" />
+    <TextView android:layout_gravity="center_vertical" android:id="@id/v5_sell_content" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/v5_sell_loading" style="@style/v5_sell_sp14_75" />
+</LinearLayout>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Parsed by jbart2a -->
+<resources>
+     <plurals name="alarm_alert_snooze_set">
+        <item quantity="other">Snoozing for %d minutes.</item>
+        <item quantity="one">Snoozing for %d minute.</item>
+     </plurals>
+     <plurals name="auto_silence_summary">
+        <item quantity="other">Alarms will silence after %d minutes</item>
+        <item quantity="one">Alarms will silence after %d minute</item>
+     </plurals>
+</resources>

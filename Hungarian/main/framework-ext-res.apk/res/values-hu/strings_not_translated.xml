@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Parsed by jbart2a -->
+<resources>
+     <string name="reboot_info_auto_boot">Your phone will boot at %s due to auto boot schedule</string>
+     <string name="reboot_info_shutdown_alarm">Your phone will boot and alarm at %s</string>
+     <string name="status_bar_toggle_midrop">Mi Drop</string>
+</resources>

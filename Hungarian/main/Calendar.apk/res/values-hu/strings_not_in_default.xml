@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Parsed by jbart2a -->
+<resources>
+     <string name="done">Visszatérés</string>
+     <string name="holiday_label">Ünnepnap</string>
+     <string name="setting_online_calendar">订阅日历</string>
+</resources>

@@ -1,0 +1,374 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Parsed by jbart2a -->
+<resources>
+     <string name="abc_action_bar_home_description_format">%1$s, %2$s</string>
+     <string name="abc_action_bar_home_subtitle_description_format">%1$s, %2$s, %3$s</string>
+     <string name="abc_search_hint">Search…</string>
+     <string name="abc_toolbar_collapse_description">Collapse</string>
+     <string name="accept">Accept</string>
+     <string name="analytics_service_title">Google Analytics Service</string>
+     <string name="auth_bluetooth_lure_title">Smart Lock</string>
+     <string name="auth_credentials_api_authority">com.google.android.gms.auth.api.credentials</string>
+     <string name="auth_d2d_target_prompt_skip">"Not working? Let's just skip instead."</string>
+     <string name="auth_gls_huddle_subtitle">Messenger</string>
+     <string name="auth_gmail_host_name">\@gmail.com</string>
+     <string name="auth_google_play_services_client_facebook_display_name">Facebook</string>
+     <string name="auth_google_play_services_client_google_display_name">Google</string>
+     <string name="auth_google_trust_agent_title">Smart Lock</string>
+     <string name="auth_googlemail_host_name">\@googlemail.com</string>
+     <string name="auth_login_activity_gmail_domain">Gmail</string>
+     <string name="auth_login_activity_googlemail_domain">Google Mail</string>
+     <string name="auth_personal_unlocking_name">Smart Lock</string>
+     <string name="auth_personal_unlocking_service_name">Smart Lock (Google)</string>
+     <string name="auth_signin_account_picture_description">Your profile picture.</string>
+     <string name="auth_signin_email_error">Please enter valid email.</string>
+     <string name="auth_signin_header_account_link">Welcome back!</string>
+     <string name="auth_signin_header_choose_account">Choose account</string>
+     <string name="auth_signin_header_invalid_credential">Something went wrong...</string>
+     <string name="auth_signin_header_sign_in">Sign in</string>
+     <string name="auth_signin_header_sign_up">Create a new account</string>
+     <string name="auth_signin_header_verify_account">Verify %1$s</string>
+     <string name="auth_signin_hint_choose_name">Choose a name</string>
+     <string name="auth_signin_hint_choose_password">Choose a password</string>
+     <string name="auth_signin_hint_email">e.g. john@company.com</string>
+     <string name="auth_signin_hint_invalid_password">Invalid password. Please try again.</string>
+     <string name="auth_signin_hint_password">Password</string>
+     <string name="auth_signin_hint_password_confirm">Confirm password</string>
+     <string name="auth_signin_hint_sign_in_email">enter your email</string>
+     <string name="auth_signin_idp_account_link_instruction">"You've previously used this email address: &lt;i>%1$s&lt;/i> for this app, but signed in via %2$s."</string>
+     <string name="auth_signin_idp_icon_description">Identity provider icon.</string>
+     <string name="auth_signin_incorrect_password_error">Invalid Password.</string>
+     <string name="auth_signin_invalid_credential_instruction">Your account for %1$s no longer exists.</string>
+     <string name="auth_signin_label_continue">CONTINUE</string>
+     <string name="auth_signin_label_create_account">CREATE ACCOUNT</string>
+     <string name="auth_signin_label_email">Email</string>
+     <string name="auth_signin_label_idp_current_account_info">But just now, you signed in with %1$s.</string>
+     <string name="auth_signin_label_idp_verified_account_info">Previously you signed in with %1$s.</string>
+     <string name="auth_signin_label_idp_verify_account_continue">Continue to %1$s</string>
+     <string name="auth_signin_label_idp_verify_account_instruction">So we need to verify with %1$s that you are the same person.</string>
+     <string name="auth_signin_label_name">Name</string>
+     <string name="auth_signin_label_next">NEXT</string>
+     <string name="auth_signin_label_or">or</string>
+     <string name="auth_signin_label_password">Password</string>
+     <string name="auth_signin_label_password_verified_account_info">Previously you signed in with password.</string>
+     <string name="auth_signin_label_password_verify_account_instruction">So we need to verify that you are the same person by checking your password.</string>
+     <string name="auth_signin_label_sign_in_with">Sign in with %1$s</string>
+     <string name="auth_signin_label_sign_in_with_email">Sign in with Email</string>
+     <string name="auth_signin_label_switch_account">Switch account</string>
+     <string name="auth_signin_label_tos">By clicking Sign Up, you agree to our &lt;a href=\"%1$s\">Terms of Service&lt;/a></string>
+     <string name="auth_signin_label_trouble">Trouble signing in?</string>
+     <string name="auth_signin_name_error">Enter some name.</string>
+     <string name="auth_signin_password_account_link_instruction">"You've previously used this email address: &lt;i>%1$s&lt;/i> for this app, but signed in with a password. Enter you password to remember this account with %2$s."</string>
+     <string name="auth_signin_password_error">Password should contain atleast 6 characters.</string>
+     <string name="auth_signin_title_forgot_password">Reset Password</string>
+     <string name="auth_signin_title_manage_account">Manage Account</string>
+     <string name="auth_trust_agent_notification_title_bluetooth_reenabled">Smart Lock</string>
+     <string name="auth_trust_agent_notification_title_disable_bluetooth">Smart Lock</string>
+     <string name="backup_settings_preference_category_key">backup_settings_preference_category</string>
+     <string name="backup_storage_preference_category_key">upload_size_category</string>
+     <string name="car_app_mode_default">Release</string>
+     <string name="car_app_name">Android Auto</string>
+     <string name="car_fallback_message">"Something's wrong. When it's safe, unplug
+and plug in your phone."</string>
+     <string name="car_feedback_client_service_name">FeedbackSenderService</string>
+     <string name="car_feedback_service_name">FeedbackMarshallerService</string>
+     <string name="car_frx_apps_installation_aborted_message">To use Android Auto, first download these apps to your phone: Android Auto, Google Maps, Google Play Music, Google app.</string>
+     <string name="car_frx_apps_installation_failed_message">"To use Android Auto, you need these apps on your phone: Android Auto, Google Maps, Google Play Music, and Google app. 
+
+Try downloading them again."</string>
+     <string name="car_frx_device_incapable_message">"This device doesn't support Android Auto."</string>
+     <string name="car_frx_device_incapable_title">"Can't support Android Auto"</string>
+     <string name="car_frx_generic_error_message">"Android Auto couldn't finish setting up. 
+
+Make sure you have the most recent versions of Android Auto, Google Maps, Google Play Music, and Google app installed on your phone, and try again."</string>
+     <string name="car_frx_no_connection_message">To finish setting up, Android Auto requires a network connection. Try again when your phone has network access.</string>
+     <string name="car_frx_no_connection_title">No network connection</string>
+     <string name="car_frx_roadblock">Something went wrong</string>
+     <string name="car_permission_desc">"Access your car's information."</string>
+     <string name="car_permission_label">Car information</string>
+     <string name="car_save_mic">Save Microphone Input</string>
+     <string name="car_select_android_auto_icon_message">"Look for the Android Auto button on your car's display to start"</string>
+     <string name="car_select_android_auto_icon_title">Launch Android Auto</string>
+     <string name="car_setup_app_label_gearhead">Android Auto</string>
+     <string name="car_setup_app_label_gmm">Google Maps</string>
+     <string name="car_setup_app_label_gsa">Google app</string>
+     <string name="car_setup_app_label_music">Google Play Music</string>
+     <string name="car_setup_authorizing_car_connection_message_1">Turn on Bluetooth, pair, and sync your contacts with your car</string>
+     <string name="car_setup_authorizing_car_connection_message_2">Allow your car to access and display notifications from your phone. &lt;br/>&lt;a href=https://support.google.com/androidauto/topic/6106806>Learn more.&lt;/a></string>
+     <string name="car_setup_car_moving_title">STOP</string>
+     <string name="car_setup_download_apps_message">"Please remain parked. 
+It may take a few minutes to download and configure your apps."</string>
+     <string name="car_setup_download_apps_title">Download apps</string>
+     <string name="car_setup_download_retry_message">To use Android Auto, first download these apps to your phone: Android Auto, Google Maps, Google Play Music, Google app.</string>
+     <string name="car_setup_downloading_apps_message">Downloading Android Auto apps…</string>
+     <string name="car_setup_never">NEVER</string>
+     <string name="car_setup_never_ask">NEVER ASK</string>
+     <string name="car_setup_never_ask_dialog_message">"Don't ask to use Android Auto when this phone is plugged into this car. This can be changed in Android Auto app on your phone."</string>
+     <string name="car_setup_never_ask_dialog_title">Never ask about this car</string>
+     <string name="car_setup_not_now">NOT NOW</string>
+     <string name="cast_media_route_provider_service">Cast Media Route Provider Service</string>
+     <string name="cast_notification_connected_message">Connected to <g id="name">%1$s</g></string>
+     <string name="cast_notification_connecting_message">Connecting to <g id="name">%1$s</g></string>
+     <string name="cast_notification_disconnect">Disconnect</string>
+     <string name="cast_remote_display_provider_service">Cast Remote Display Provider Service</string>
+     <string name="cast_socket_multiplexer_service">Cast Device Connection Management Service</string>
+     <string name="chromesync_continue_button_text">Continue</string>
+     <string name="chromesync_custom_passphrase_explanation">" Your existing passwords for "<g id="account_name">%1$s</g> were encrypted with your passphrase. If you have forgotten your passphrase, stop and reset sync via <g id="chromesync_dashboard_domain">&lt;a href=%2$s>Google Dashboard&lt;/a></g>". "</string>
+     <string name="chromesync_custom_passphrase_title">ChromeSync passphrase</string>
+     <string name="chromesync_enter_passphrase_hint">Enter passphrase</string>
+     <string name="chromesync_entered_wrong_passphrase">Wrong passphrase</string>
+     <string name="chromesync_sync_adapter_title">ChromeSync</string>
+     <string name="chromesync_sync_authority">com.google.android.gms.chromesync</string>
+     <string name="common_manage_space_activity" />
+     <string name="common_persistent_process">com.google.process.gapps</string>
+     <string name="create_calendar_message">Allow Ad to create a calendar event?</string>
+     <string name="create_calendar_title">Create calendar event</string>
+     <string name="credentials_pref_failed_load">Failed to load credential settings for this account</string>
+     <string name="credentials_pref_failed_remove_never_save">Failed to remove app from never save list</string>
+     <string name="credentials_settings_host">settings</string>
+     <string name="credentials_url_scheme">com.google.android.gms.auth.api.credentials</string>
+     <string name="decline">Decline</string>
+     <string name="def_client_id">android-google</string>
+     <string name="drive_fast_scroll_time_grouper_in_year"><g example="2008" id="year">%s</g></string>
+     <string name="ga_action_create">Create</string>
+     <string name="ga_category_create_reminder">Create reminder</string>
+     <string name="ga_category_post_notification">Post notification</string>
+     <string name="ga_label_count">count</string>
+     <string name="ga_label_latency">latency</string>
+     <string name="ga_notification_client_not_supported">Client not supported</string>
+     <string name="ga_notification_handled_by_client">Handled by client</string>
+     <string name="ga_notification_not_handled_by_client">Not handled by client</string>
+     <string name="games_app_name">Google Play Games</string>
+     <string name="games_required_dialog_go_to_play_store">Install</string>
+     <string name="games_required_dialog_message">This app requires the latest version of the Google Play Games app.</string>
+     <string name="games_required_dialog_not_now">Cancel</string>
+     <string name="games_required_dialog_title">Install Google Play Games</string>
+     <string name="games_sync_label">Game Data</string>
+     <string name="gcm_bootstrap_title">GCM Bootstrap Service</string>
+     <string name="gcm_registration_title">GCM Registration Service</string>
+     <string name="gf_battery_history_days"><g id="days">%1$d</g>d <g id="hours">%2$d</g>h <g id="minutes">%3$d</g>m <g id="seconds">%4$d</g>s</string>
+     <string name="gf_battery_history_hours"><g id="hours">%1$d</g>h <g id="minutes">%2$d</g>m <g id="seconds">%3$d</g>s</string>
+     <string name="gf_battery_history_minutes"><g id="minutes">%1$d</g>m <g id="seconds">%2$d</g>s</string>
+     <string name="gf_battery_history_seconds"><g id="seconds">%1$d</g>s</string>
+     <string name="gf_error_report_battery_usage_percent">Percent of battery used</string>
+     <string name="gf_suggestions_url">/tools/feedback/mobile/__suggestions</string>
+     <string name="gf_test_suggestions_content">https://clients6.google.com/support/v1/renderedObject?component=PCT_TITLE&amp;helpcenter=mail&amp;hl=en&amp;id=8151&amp;page_type=ANSWER</string>
+     <string name="gh_hour_of_daily_sync">0</string>
+     <string name="gh_metric_reporter_callback">mobile_google_help</string>
+     <string name="gh_minute_of_daily_sync">0</string>
+     <string name="gh_play_store_app_path">market://details?id=</string>
+     <string name="gh_play_store_web_path">https://play.google.com/store/apps/details?id=</string>
+     <string name="gh_search_on_web_schema">http://www.google.com/search?hl=%s&amp;query=</string>
+     <string name="identity_service_title">Google Identity</string>
+     <string name="kids_account_removed">Sign-in with <g id="account">%1$s</g> has been cancelled.</string>
+     <string name="kids_accounts_confirm_remove_kid_msg">This kid account &lt;font color=blue> (%1$s) &lt;/font> will be removed from your device.</string>
+     <string name="kids_accounts_confirm_remove_msg">All local data from these accounts will be removed from your device.</string>
+     <string name="kids_accounts_remove_all_msg">Remove All</string>
+     <string name="kids_accounts_remove_desc">Please remove all accounts that %1$s should not access. &lt;font color=blue> Learn More &lt;/font></string>
+     <string name="kids_accounts_remove_kid_title_msg">Remove account</string>
+     <string name="kids_accounts_remove_learn_more_desc">You must remove all Google accounts from this user to continue. Removing accounts will delete their local data from the device.</string>
+     <string name="kids_accounts_remove_msg">Remove accounts</string>
+     <string name="kids_accounts_wait_text">Please wait…</string>
+     <string name="kids_app_disabled_msg">Now disabled</string>
+     <string name="kids_apps_restricted_message">Your device is restricted from using certain apps.</string>
+     <string name="kids_bad_account_state_error_msg">Oops, the device environment is not conducive for %1$s.</string>
+     <string name="kids_bad_account_state_error_title">Bad kid account state</string>
+     <string name="kids_bed_timeout_message">"It's time for bed"</string>
+     <string name="kids_creation_consent_info">Google needs your permission to create accounts on your children’s behalf, so we’ll ask you to sign a digital permission slip by verifying a credit card with a small fee that we donate to charity.</string>
+     <string name="kids_device_restricted_message">Your device is restricted.</string>
+     <string name="kids_generic_timeout_message">"It's time for a break"</string>
+     <string name="kids_location_change_history_off_msg">Your parent turned off location history.</string>
+     <string name="kids_location_change_history_on_msg">Your parent turned on location history.</string>
+     <string name="kids_location_change_kid_control_mode_msg">Now you’re in charge of your location settings.</string>
+     <string name="kids_location_change_mode_off_msg">Your parent turned off your device location.</string>
+     <string name="kids_location_change_mode_on_msg">Your parent turned on your device location.</string>
+     <string name="kids_location_change_multiple_msg">Your parent changed several location settings on your devices.</string>
+     <string name="kids_location_change_parent_control_mode_msg">Your parent is in charge of your location settings.</string>
+     <string name="kids_location_change_reporting_off_msg">Your parent turned off location reporting.</string>
+     <string name="kids_location_change_reporting_on_msg">Your parent turned on location reporting.</string>
+     <string name="kids_location_change_title">Heads up! Your settings changed</string>
+     <string name="kids_location_settings_locked">Sorry, this stuff was locked by your parent.</string>
+     <string name="kids_timeout_end_desc_message">Locked until %1$s.</string>
+     <string name="kids_wip_message">WIP</string>
+     <string name="location_process">com.google.android.gms.persistent</string>
+     <string name="location_sharing_location_reporting_help_url">https://support.google.com/accounts/answer/3118687?hl=en&amp;ref_topic=3100928</string>
+     <string name="location_sharing_location_reporting_redirect_link">location-reporting-settings:</string>
+     <string name="location_sharing_url_param_help_location">plus_location</string>
+     <string name="location_ulr_sync_label">Location Reporting and Location History</string>
+     <string name="manage_data_label">Manage data backup</string>
+     <string name="mr_media_route_controller_pause">Pause</string>
+     <string name="mr_media_route_controller_play">Play</string>
+     <string name="mr_media_route_controller_settings_description">Route settings</string>
+     <string name="mr_media_route_controller_stop">Stop casting</string>
+     <string name="nearby_sharing_app_not_installed_message">PLACEHOLDER</string>
+     <string name="nearby_sharing_app_not_supported_message">PLACEHOLDER</string>
+     <string name="nearby_sharing_cancel_button">PLACEHOLDER</string>
+     <string name="nearby_sharing_drop_hint">PLACEHOLDER</string>
+     <string name="nearby_sharing_google_name">PLACEHOLDER</string>
+     <string name="nearby_sharing_google_nearby_name">PLACEHOLDER</string>
+     <string name="nearby_sharing_no_button">PLACEHOLDER</string>
+     <string name="nearby_sharing_notification_photo_received">PLACEHOLDER</string>
+     <string name="nearby_sharing_notification_photo_sent">PLACEHOLDER</string>
+     <string name="nearby_sharing_notification_receiving_photo">PLACEHOLDER</string>
+     <string name="nearby_sharing_notification_receiving_photo_short">PLACEHOLDER</string>
+     <string name="nearby_sharing_notification_sending_photo">PLACEHOLDER</string>
+     <string name="nearby_sharing_notification_view_photo">PLACEHOLDER</string>
+     <string name="nearby_sharing_open_anyway_button">PLACEHOLDER</string>
+     <string name="nearby_sharing_open_playstore_button">PLACEHOLDER</string>
+     <string name="nearby_sharing_opt_in_page_one_main">PLACEHOLDER</string>
+     <string name="nearby_sharing_opt_in_page_one_sub">PLACEHOLDER</string>
+     <string name="nearby_sharing_received_via_nearby_description">PLACEHOLDER</string>
+     <string name="nearby_sharing_set_up_button">PLACEHOLDER</string>
+     <string name="nearby_sharing_trusted_device_message">PLACEHOLDER</string>
+     <string name="nearby_sharing_trusted_device_title">PLACEHOLDER</string>
+     <string name="nearby_sharing_turn_on">PLACEHOLDER</string>
+     <string name="nearby_sharing_turn_on_button">PLACEHOLDER</string>
+     <string name="nearby_sharing_unable_to_share">PLACEHOLDER</string>
+     <string name="nearby_sharing_yes_button">PLACEHOLDER</string>
+     <string name="nts_bind_permission">Permission that must be required by any client service providing an endpoint to the Gcm Network Scheduler</string>
+     <string name="ocr_cc_sample_number">1111 2222 3333 4444</string>
+     <string name="panorama_cancel_button_text">"  Cancel  "</string>
+     <string name="panorama_cannot_display_pano">Cannot display panorama</string>
+     <string name="panorama_downloading_panorama">Downloading panorama …</string>
+     <string name="panorama_expanding_short_url">Expanding shortened URL …</string>
+     <string name="panorama_image_doesnt_contain_metadata">The image file does not contain the required panorama metadata.</string>
+     <string name="panorama_image_file_could_not_be_read">Image file could not be read.</string>
+     <string name="panorama_ok">OK</string>
+     <string name="panorama_photo_is_not_a_pano">Sorry, this photo is not a usable panorama.</string>
+     <string name="panorama_toggle_compass_mode">Toggle compass mode</string>
+     <string name="panorama_unable_to_load_photo">Sorry, this photo could not be loaded.</string>
+     <string name="panorama_viewer_title">Panorama Viewer</string>
+     <string name="people_export_database">Export people DB</string>
+     <string name="people_force_verbose_log_setting">Force verbose log</string>
+     <string name="people_sync_error_notification_setting">Sync error notification</string>
+     <string name="photo_auto_backup_accounts_preference_key">auto_backup_accounts</string>
+     <string name="photo_buy_quota_preference_key">buy_quota</string>
+     <string name="photo_connection_preference_default_value">WIFI_ONLY</string>
+     <string name="photo_connection_preference_key">photo_connection</string>
+     <string name="photo_learn_more_preference_key">learn_more</string>
+     <string name="photo_on_battery_preference_key">photo_on_battery</string>
+     <string name="photo_preference_about_fmf_key">about_fmf_key</string>
+     <string name="photo_preference_auto_awesome_category_key">auto_awesome_category_key</string>
+     <string name="photo_preference_auto_awesome_key">auto awesome</string>
+     <string name="photo_preference_auto_awesome_movies_key">auto_awesome_movies</string>
+     <string name="photo_preference_auto_enhance_key">auto enhance</string>
+     <string name="photo_preference_find_my_face_key">find my face</string>
+     <string name="photo_preference_folder_list_key">folder_list</string>
+     <string name="photo_preference_get_settings_key">get_settings</string>
+     <string name="photo_preference_google_drive_key">google drive</string>
+     <string name="photo_preference_google_location_key">google_location_key</string>
+     <string name="photo_preference_key">photos</string>
+     <string name="photo_preference_location_key">photo_location</string>
+     <string name="photo_roaming_upload_preference_key">photo_roaming</string>
+     <string name="photo_sync_preference_key">photo_sync</string>
+     <string name="photo_upload_account_preference_key">photo_upload_account</string>
+     <string name="photo_upload_master_toggle_key">photo_upload_master_toggle</string>
+     <string name="photo_upload_size_preference_default_value">FULL</string>
+     <string name="photo_upload_size_preference_key">upload_size</string>
+     <string name="plus_one_count_in_the_millions">" "<g id="Count">%1$s</g>"M "</string>
+     <string name="plus_one_count_in_the_thousands">" "<g id="Count">%1$s</g>"k "</string>
+     <string name="plus_one_count_more_than_a_billion">Lots</string>
+     <string name="plus_oob_field_view_tag_check">check</string>
+     <string name="plus_oob_field_view_tag_hidden_birthday">birthday</string>
+     <string name="plus_oob_field_view_tag_hidden_button">button</string>
+     <string name="plus_oob_field_view_tag_info">info</string>
+     <string name="plus_oob_field_view_tag_string">string</string>
+     <string name="plus_oob_field_view_tag_string_label">string-label</string>
+     <string name="plus_scope_fragment_pacl_label"><g id="scope_description_label">%1$s</g></string>
+     <string name="settings_backup_account_description"><g id="account_name">%s</g></string>
+     <string name="smartdevice_ok_google">Ok Google</string>
+     <string name="smartdevice_setup_google_app_trigger">set up my device</string>
+     <string name="snet_process">:snet</string>
+     <string name="status_bar_notification_info_overflow">999+</string>
+     <string name="store_picture_message">Allow Ad to store image in Picture gallery?</string>
+     <string name="store_picture_title">Save image</string>
+     <string name="task_execution_service_enabled">false</string>
+     <string name="temporary_value_provider_authority">com.google.android.gms.auth.api.credentials.be.persistence.TemporaryValueProvider</string>
+     <string name="temporary_value_provider_label">Temporary Value Provider</string>
+     <string name="video_connection_preference_default_value">WIFI_ONLY</string>
+     <string name="video_connection_preference_key">video_connection</string>
+     <string name="wallet_add_phone_for_billing_and_shipping_title">Add Phone Numbers</string>
+     <string name="wallet_add_phone_for_billing_title">Add Billing Phone</string>
+     <string name="wallet_add_phone_for_shipping_title">Add Shipping Phone</string>
+     <string name="wallet_address_field_address_line_3" />
+     <string name="wallet_amex_disallowed_info_body">American Express is not a selection in this app. Please use another card or enter your Amex directly in the merchant app.</string>
+     <string name="wallet_book_now">Book now</string>
+     <string name="wallet_buy_button_place_holder">Buy with Google</string>
+     <string name="wallet_buy_now">Buy now</string>
+     <string name="wallet_buy_with_android_pay">Buy with ANDROID_PAY</string>
+     <string name="wallet_buy_with_google">Buy with GOOGLE</string>
+     <string name="wallet_cannot_use_card_amex">"Amex isn't available here"</string>
+     <string name="wallet_cannot_use_card_default">Cannot use credit card type</string>
+     <string name="wallet_cannot_use_debit">"Can't use debit card here"</string>
+     <string name="wallet_cannot_use_prepaid">"Can't use prepaid card here"</string>
+     <string name="wallet_collapsing_loyalty_selector">Hiding list of loyalty program options</string>
+     <string name="wallet_content_description_more_information">More information</string>
+     <string name="wallet_debit_disallowed_info_body">"You can't use a debit card with this merchant. Please use another card."</string>
+     <string name="wallet_dialog_required_action_add_new_billing_address">Add new billing address</string>
+     <string name="wallet_dialog_required_action_add_new_payment_method">Add new payment method</string>
+     <string name="wallet_dialog_required_action_add_new_shipping_address">Add new shipping address</string>
+     <string name="wallet_dialog_required_action_assign_billing_address">Assign as my billing address</string>
+     <string name="wallet_dialog_required_action_assign_shipping_address">Assign as my shipping address</string>
+     <string name="wallet_dialog_required_action_complete_billing_address">Complete my billing address</string>
+     <string name="wallet_dialog_required_action_complete_shipping_address">Complete my shipping address</string>
+     <string name="wallet_dialog_required_action_message_accept_tos">Please review and agree to updates to continue with this purchase.</string>
+     <string name="wallet_dialog_required_action_message_alternative_address_required">We cannot retrieve your shipping information. Please select a different address.</string>
+     <string name="wallet_dialog_required_action_message_alternative_card_required">We cannot retrieve your credit card information. Please select another card.</string>
+     <string name="wallet_dialog_required_action_message_full_billing_address">Direct me to billing address form</string>
+     <string name="wallet_dialog_required_action_message_payment_option_required">Direct me to new payment method form</string>
+     <string name="wallet_dialog_required_action_message_shipping_address_required">Direct me to new shipping address form</string>
+     <string name="wallet_dialog_required_action_message_wallet_balance_not_available">"Wallet balance can't be used here. Please confirm your selections."</string>
+     <string name="wallet_dialog_required_action_title_accept_tos">Legal agreement update</string>
+     <string name="wallet_dialog_required_action_title_alternative_address_required">Alternative address required</string>
+     <string name="wallet_dialog_required_action_title_alternative_card_required">Alternative card required</string>
+     <string name="wallet_dialog_required_action_title_debit_disallowed">"Can't use debit card here"</string>
+     <string name="wallet_dialog_required_action_title_full_billing_address">Full billing address required</string>
+     <string name="wallet_dialog_required_action_title_payment_option_required">Payment option required</string>
+     <string name="wallet_dialog_required_action_title_prepaid_disallowed">"Can't use prepaid card here"</string>
+     <string name="wallet_dialog_required_action_title_shipping_address_required">Shipping address required</string>
+     <string name="wallet_dialog_required_action_title_update_payment_information">Update payment information</string>
+     <string name="wallet_dialog_required_action_title_update_shipping_address">Update shipping address</string>
+     <string name="wallet_dialog_required_action_title_wallet_balance_not_available">Wallet balance not available</string>
+     <string name="wallet_dialog_required_action_use_other_payment_method">Use another payment method</string>
+     <string name="wallet_donate_with_android_pay">Donate with ANDROID_PAY</string>
+     <string name="wallet_donate_with_google">Donate with GOOGLE</string>
+     <string name="wallet_dont_share_loyalty_wob_details">"We won't send loyalty info for this transaction"</string>
+     <string name="wallet_dont_share_loyalty_wob_title">"Don't share this"</string>
+     <string name="wallet_empty_string" />
+     <string name="wallet_error_creditcard_amex_disallowed">"Amex isn't available here"</string>
+     <string name="wallet_expand_button_image_content_desc">Expand to see more details</string>
+     <string name="wallet_expand_loyalty_selector">Expand list of loyalty programs</string>
+     <string name="wallet_finished_generating_secure_card">Your Virtual Card is ready</string>
+     <string name="wallet_fragment_change_label">Change</string>
+     <string name="wallet_fragment_payment_method">Payment Method</string>
+     <string name="wallet_fragment_selection_details_not_available">Selection details are not available</string>
+     <string name="wallet_fragment_shipping_address">Shipping Address</string>
+     <string name="wallet_generating_secure_card">Generating Virtual Card</string>
+     <string name="wallet_gift_card_balance">Balance</string>
+     <string name="wallet_instruction_enter_phone_for_billing">Enter the phone number for this billing address</string>
+     <string name="wallet_instruction_enter_phone_for_billing_and_shipping">Enter the phone numbers for these addresses</string>
+     <string name="wallet_instruction_enter_phone_for_shipping">Enter the phone number for this shipping address</string>
+     <string name="wallet_loyalty_selected"><g example="Troposphere Miles" id="loyalty_program">%1$s</g> selected</string>
+     <string name="wallet_loyalty_spinner_label">Loyalty</string>
+     <string name="wallet_loyalty_spinner_subheader">Loyalty program</string>
+     <string name="wallet_make_legacy_google_wallet_my_default_more_info_content">"Google Wallet will speed you through checkout by using the payment method info and addresses (billing and shipping) you've selected here for future purchases with this merchant.&lt;br>&lt;br> &lt;a href=http://support.google.com/wallet/bin/answer.py?answer=2822457>Learn more&lt;/a> about managing your Google Wallet permissions."</string>
+     <string name="wallet_make_selected_info_my_default">Use selected info for purchases from this app</string>
+     <string name="wallet_make_selected_info_my_default_more_info_content">Speed through checkout in future purchases with this merchant by using the billing and shipping info you selected here.&lt;br>&lt;br> &lt;a href=http://support.google.com/wallet/bin/answer.py?answer=2822457>Learn more&lt;/a> about managing your permissions</string>
+     <string name="wallet_more_information">More information</string>
+     <string name="wallet_prepaid_disallowed_info_body">"You can't use a prepaid card with this merchant. Please use another card."</string>
+     <string name="wallet_privacy_policy_link">https://wallet.google.com/files/privacy.html</string>
+     <string name="wallet_test_mode_disclosure">Unrecognized app. Please make sure you trust this app before proceeding</string>
+     <string name="wallet_tos_activity_title">Terms of Service</string>
+     <string name="wallet_tos_read_and_accept">By clicking \"Continue\" you agree to the &lt;a href=wallet_tos_activity>Google Payments Terms of Service, Privacy Notice and Virtual One Time Card Terms of Use.&lt;/a></string>
+     <string name="wallet_tos_read_and_accept_legacy_google_wallet">By clicking \"Continue\" you agree to the &lt;a href=wallet_tos_activity>Google Wallet Terms of Service, Privacy Notice and Virtual One Time Card Terms of Use.&lt;/a></string>
+     <string name="wallet_uic_address_field_address_line_3" />
+     <string name="wallet_use_wallet_balance">Use Wallet Balance first (<g example="$54.03" id="currency">%1$s</g>)</string>
+     <string name="wallet_verify_phone_for_billing_and_shipping_title">Verify Phone Numbers</string>
+     <string name="wallet_verify_phone_for_billing_title">Verify Billing Phone</string>
+     <string name="wallet_verify_phone_for_shipping_title">Verify Shipping Phone</string>
+     <string name="wallet_wallet_balance_loading">&lt;loading>loading...&lt;/loading></string>
+     <string name="wallet_wallet_balance_payment_description_same_line"><g example="Visa - 1111" id="card">%1$s</g> &amp; Wallet Balance</string>
+     <string name="wallet_wallet_balance_payment_description_two_lines">and Google Wallet Balance</string>
+     <string name="web_view_accept_language_header"><g example="en" id="language">%1$s</g>-<g example="US" id="variant">%2$s</g></string>
+     <string name="youtube_app_name">YouTube</string>
+</resources>

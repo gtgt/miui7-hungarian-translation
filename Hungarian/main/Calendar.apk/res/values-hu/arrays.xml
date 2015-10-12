@@ -1,40 +1,72 @@
 <?xml version="1.0" encoding="utf-8"?>
+<!-- Parsed by jbart2a -->
 <resources>
-    <string-array name="reminder_methods_labels">
-        <item>Értesítés</item>
-        <item>E-mail</item>
-        <item>SMS</item>
-        <item>Riasztás</item>
-    </string-array>
-    <string-array name="reminder_minutes_labels">
-        <item>Soha</item>
+     <string-array name="availability">
+        <item>Elfoglalt</item>
+        <item>Elérhető</item>
+        <item>Tentative</item>
+     </string-array>
+     <string-array name="buttons_list">
+        <item>nap</item>
+        <item>hét</item>
+        <item>Hónap</item>
+        <item>Napirend</item>
+     </string-array>
+     <string-array name="change_response_labels">
+        <item>Csak erre az alkalomra</item>
+        <item>A sorozat összes eseményére</item>
+     </string-array>
+     <string-array name="delete_repeating_labels">
+        <item>Csak a jelenlegi esemény</item>
+        <item>A jelen és a további események</item>
+        <item>Összes esemény</item>
+     </string-array>
+     <string-array name="delete_repeating_labels_no_selected">
+        <item>A jelenlegi és a további események</item>
+        <item>Összes esemény</item>
+     </string-array>
+     <string-array name="miui_preferences_default_reminder_labels">
+        <item>Nincs emlékeztető</item>
         <item>0 perc</item>
         <item>5 perc</item>
         <item>10 perc</item>
         <item>15 perc</item>
         <item>30 perc</item>
         <item>1 óra</item>
-        <item>12 óra</item>
         <item>1 nap</item>
         <item>2 nap</item>
         <item>1 hét</item>
-        <item>2 hét</item>
-    </string-array>
-    <integer-array name="reminder_minutes_values">
-        <item>-1</item>
-        <item>0</item>
-        <item>5</item>
-        <item>10</item>
-        <item>15</item>
-        <item>30</item>
-        <item>60</item>
-        <item>720</item>
-        <item>1440</item>
-        <item>2880</item>
-        <item>10080</item>
-        <item>20160</item>
-    </integer-array>
-    <string-array name="preferences_default_reminder_labels">
+     </string-array>
+     <string-array name="miui_reminder_minutes_labels">
+        <item>Nincs emlékeztető</item>
+        <item>0 perc</item>
+        <item>5 perc</item>
+        <item>10 perc</item>
+        <item>15 perc</item>
+        <item>30 perc</item>
+        <item>1 óra</item>
+        <item>1 nap</item>
+        <item>2 nap</item>
+        <item>1 hét</item>
+     </string-array>
+     <string-array name="ordinal_labels">
+        <item>első</item>
+        <item>második</item>
+        <item>harmadik</item>
+        <item>negyedik</item>
+        <item>utolsó</item>
+     </string-array>
+     <string-array name="prefEntries_alerts_vibrateWhen">
+        <item>Mindig</item>
+        <item>Csak néma üzemmódban</item>
+        <item>Soha</item>
+     </string-array>
+     <string-array name="prefValues_alerts_vibrateWhen">
+        <item>always</item>
+        <item>silent</item>
+        <item>never</item>
+     </string-array>
+     <string-array name="preferences_default_reminder_labels">
         <item>Nincs</item>
         <item>0 perc</item>
         <item>5 perc</item>
@@ -47,8 +79,8 @@
         <item>2 nap</item>
         <item>1 hét</item>
         <item>2 hét</item>
-    </string-array>
-    <string-array name="preferences_default_reminder_values">
+     </string-array>
+     <string-array name="preferences_default_reminder_values">
         <item>-1</item>
         <item>0</item>
         <item>5</item>
@@ -61,14 +93,139 @@
         <item>2880</item>
         <item>10080</item>
         <item>20160</item>
-    </string-array>
-    <string-array name="preferences_week_start_day_labels">
+     </string-array>
+     <string-array name="preferences_week_start_day_labels">
         <item>Helyi alapértelmezett</item>
         <item>Szombat</item>
         <item>Vasárnap</item>
         <item>Hétfő</item>
-    </string-array>
-    <string-array name="timezone_labels">
+     </string-array>
+     <string-array name="quick_response_defaults">
+        <item>Rohanok,csak pár percet kések.</item>
+        <item>Kb.10 perc múlva ott leszek.</item>
+        <item>Indulj el nélkülem.</item>
+        <item>Sajnálom,nem tudok elmenni.Egyeztetünk egy új időpontot.</item>
+     </string-array>
+     <string-array name="reminder_methods_labels">
+        <item>Értesítés</item>
+        <item>E-mail</item>
+        <item>SMS</item>
+        <item>Riasztás</item>
+     </string-array>
+     <string-array name="reminder_minutes_labels">
+        <item>Soha</item>
+        <item>0 perc</item>
+        <item>5 perc</item>
+        <item>10 perc</item>
+        <item>15 perc</item>
+        <item>30 perc</item>
+        <item>1 óra</item>
+        <item>12 óra</item>
+        <item>1 nap</item>
+        <item>2 nap</item>
+        <item>1 hét</item>
+        <item>2 hét</item>
+     </string-array>
+     <integer-array name="reminder_minutes_values">
+        <item>-1</item>
+        <item>0</item>
+        <item>5</item>
+        <item>10</item>
+        <item>15</item>
+        <item>30</item>
+        <item>60</item>
+        <item>720</item>
+        <item>1440</item>
+        <item>2880</item>
+        <item>10080</item>
+        <item>20160</item>
+     </integer-array>
+     <string-array name="repeat_choose_day">
+        <item>1.-jén</item>
+        <item>2.-án</item>
+        <item>3.-án</item>
+        <item>4.-én</item>
+        <item>5.-án</item>
+        <item>6.-án</item>
+        <item>7.-én</item>
+        <item>8.-án</item>
+        <item>9.-én</item>
+        <item>10.-én</item>
+        <item>11.-én</item>
+        <item>12.-én</item>
+        <item>13.-án</item>
+        <item>14.-én</item>
+        <item>15.-én</item>
+        <item>16.-én</item>
+        <item>17.-én</item>
+        <item>18.-én</item>
+        <item>19.-én</item>
+        <item>20.-án</item>
+        <item>21.-én</item>
+        <item>22.-én</item>
+        <item>23.-án</item>
+        <item>24.-én</item>
+        <item>25.-én</item>
+        <item>26.-án</item>
+        <item>27.-én</item>
+        <item>28.-án</item>
+        <item>29.-én</item>
+        <item>30.-án</item>
+        <item>31.-én</item>
+     </string-array>
+     <string-array name="repeat_choose_end">
+        <item>Nincs</item>
+        <item>Időszakos</item>
+        <item>Ismétlődő</item>
+     </string-array>
+     <string-array name="repeat_choose_month">
+        <item>Jan</item>
+        <item>Feb</item>
+        <item>Már</item>
+        <item>Ápr</item>
+        <item>Máj</item>
+        <item>Jún</item>
+        <item>Júl</item>
+        <item>Aug</item>
+        <item>Sze</item>
+        <item>Okt</item>
+        <item>Nov</item>
+        <item>Dec</item>
+     </string-array>
+     <string-array name="repeat_choose_week_left">
+        <item>első</item>
+        <item>második</item>
+        <item>harmadik</item>
+        <item>negyedik</item>
+        <item>utolsó</item>
+     </string-array>
+     <string-array name="repeat_choose_week_right">
+        <item>Hétfőtől - Péntekig</item>
+        <item>Hétvégén</item>
+        <item>Egész héten</item>
+     </string-array>
+     <string-array name="repeat_choose_weekday">
+        <item>Hétfő</item>
+        <item>Kedd</item>
+        <item>Szerda</item>
+        <item>Csütörtök</item>
+        <item>Péntek</item>
+        <item>Szombat</item>
+        <item>Vasárnap</item>
+     </string-array>
+     <string-array name="repeat_frequency_spinner">
+        <item>nap</item>
+        <item>hét</item>
+        <item>hónap</item>
+        <item>év</item>
+     </string-array>
+     <string-array name="response_labels1">
+        <item>Nincs válasz</item>
+        <item>Igen</item>
+        <item>Lehet</item>
+        <item>Nem</item>
+     </string-array>
+     <string-array name="timezone_labels">
         <item>Marshall-szigetek</item>
         <item>Midway-szigetek</item>
         <item>Hawaii</item>
@@ -153,172 +310,114 @@
         <item>Auckland</item>
         <item>Fidzsi-szigetek</item>
         <item>Tonga</item>
-    </string-array>
-    <string-array name="availability">
-        <item>Elfoglalt</item>
-        <item>Elérhető</item>
-        <item>Tentative</item>
-    </string-array>
-    <string-array name="visibility">
-        <item>Alapértelm.</item>
-        <item>Magán</item>
-        <item>Publikus</item>
-    </string-array>
-    <string-array name="ordinal_labels">
-        <item>első</item>
-        <item>második</item>
-        <item>harmadik</item>
-        <item>negyedik</item>
-        <item>utolsó</item>
-    </string-array>
-    <string-array name="response_labels1">
-        <item>Nincs válasz</item>
-        <item>Igen</item>
-        <item>Lehet</item>
-        <item>Nem</item>
-    </string-array>
-    <string-array name="delete_repeating_labels">
-        <item>Csak a jelenlegi esemény</item>
-        <item>A jelen és a további események</item>
-        <item>Összes esemény</item>
-    </string-array>
-    <string-array name="delete_repeating_labels_no_selected">
-        <item>A jelenlegi és a további események</item>
-        <item>Összes esemény</item>
-    </string-array>
-    <string-array name="change_response_labels">
-        <item>Csak erre az alkalomra</item>
-        <item>A sorozat összes eseményére</item>
-    </string-array>
-    <string-array name="buttons_list">
-        <item>nap</item>
-        <item>hét</item>
-        <item>Hónap</item>
-        <item>Napirend</item>
-    </string-array>
-    <string-array name="quick_response_defaults">
-        <item>Rohanok,csak pár percet kések.</item>
-        <item>Kb.10 perc múlva ott leszek.</item>
-        <item>Indulj el nélkülem.</item>
-        <item>Sajnálom,nem tudok elmenni.Egyeztetünk egy új időpontot.</item>
-    </string-array>
-    <string-array name="prefEntries_alerts_vibrateWhen">
-        <item>Mindig</item>
-        <item>Csak néma üzemmódban</item>
-        <item>Soha</item>
-    </string-array>
-    <string-array name="widget_style_list">
-        <item>Átlátszó</item>
-        <item>Fehér háttér</item>
-    </string-array>
-    <string-array name="miui_reminder_minutes_labels">
-        <item>Nincs emlékeztető</item>
-        <item>0 perc</item>
-        <item>5 perc</item>
-        <item>10 perc</item>
-        <item>15 perc</item>
-        <item>30 perc</item>
-        <item>1 óra</item>
-        <item>1 nap</item>
-        <item>2 nap</item>
-        <item>1 hét</item>
-    </string-array>
-    <string-array name="miui_preferences_default_reminder_labels">
-        <item>Nincs emlékeztető</item>
-        <item>0 perc</item>
-        <item>5 perc</item>
-        <item>10 perc</item>
-        <item>15 perc</item>
-        <item>30 perc</item>
-        <item>1 óra</item>
-        <item>1 nap</item>
-        <item>2 nap</item>
-        <item>1 hét</item>
-    </string-array>
-    <string-array name="travel_reminder_minutes_labels">
+     </string-array>
+     <string-array name="timezone_values">
+        <item>Pacific/Majuro</item>
+        <item>Pacific/Midway</item>
+        <item>Pacific/Honolulu</item>
+        <item>America/Anchorage</item>
+        <item>America/Los_Angeles</item>
+        <item>America/Tijuana</item>
+        <item>America/Phoenix</item>
+        <item>America/Chihuahua</item>
+        <item>America/Denver</item>
+        <item>America/Costa_Rica</item>
+        <item>America/Chicago</item>
+        <item>America/Mexico_City</item>
+        <item>America/Regina</item>
+        <item>America/Bogota</item>
+        <item>America/New_York</item>
+        <item>America/Caracas</item>
+        <item>America/Barbados</item>
+        <item>America/Halifax</item>
+        <item>America/Manaus</item>
+        <item>America/Santiago</item>
+        <item>America/St_Johns</item>
+        <item>America/Sao_Paulo</item>
+        <item>America/Argentina/Buenos_Aires</item>
+        <item>America/Godthab</item>
+        <item>America/Montevideo</item>
+        <item>Atlantic/South_Georgia</item>
+        <item>Atlantic/Azores</item>
+        <item>Atlantic/Cape_Verde</item>
+        <item>Africa/Casablanca</item>
+        <item>Europe/London</item>
+        <item>Europe/Amsterdam</item>
+        <item>Europe/Belgrade</item>
+        <item>Europe/Brussels</item>
+        <item>Europe/Sarajevo</item>
+        <item>Africa/Windhoek</item>
+        <item>Africa/Brazzaville</item>
+        <item>Asia/Amman</item>
+        <item>Europe/Athens</item>
+        <item>Asia/Beirut</item>
+        <item>Africa/Cairo</item>
+        <item>Europe/Helsinki</item>
+        <item>Asia/Jerusalem</item>
+        <item>Europe/Minsk</item>
+        <item>Africa/Harare</item>
+        <item>Asia/Baghdad</item>
+        <item>Europe/Moscow</item>
+        <item>Asia/Kuwait</item>
+        <item>Africa/Nairobi</item>
+        <item>Asia/Tehran</item>
+        <item>Asia/Baku</item>
+        <item>Asia/Tbilisi</item>
+        <item>Asia/Yerevan</item>
+        <item>Asia/Dubai</item>
+        <item>Asia/Kabul</item>
+        <item>Asia/Karachi</item>
+        <item>Asia/Oral</item>
+        <item>Asia/Yekaterinburg</item>
+        <item>Asia/Calcutta</item>
+        <item>Asia/Colombo</item>
+        <item>Asia/Katmandu</item>
+        <item>Asia/Almaty</item>
+        <item>Asia/Rangoon</item>
+        <item>Asia/Krasnoyarsk</item>
+        <item>Asia/Bangkok</item>
+        <item>Asia/Shanghai</item>
+        <item>Asia/Hong_Kong</item>
+        <item>Asia/Irkutsk</item>
+        <item>Asia/Kuala_Lumpur</item>
+        <item>Australia/Perth</item>
+        <item>Asia/Taipei</item>
+        <item>Asia/Seoul</item>
+        <item>Asia/Tokyo</item>
+        <item>Asia/Yakutsk</item>
+        <item>Australia/Adelaide</item>
+        <item>Australia/Darwin</item>
+        <item>Australia/Brisbane</item>
+        <item>Australia/Hobart</item>
+        <item>Australia/Sydney</item>
+        <item>Asia/Vladivostok</item>
+        <item>Pacific/Guam</item>
+        <item>Asia/Magadan</item>
+        <item>Pacific/Auckland</item>
+        <item>Pacific/Fiji</item>
+        <item>Pacific/Tongatapu</item>
+     </string-array>
+     <string-array name="travel_reminder_minutes_labels">
         <item>3 óra</item>
         <item>4 óra</item>
         <item>5 óra</item>
         <item>6 óra</item>
         <item>1 nap</item>
-    </string-array>
-    <string-array name="repeat_frequency_spinner">
-        <item>nap</item>
-        <item>hét</item>
-        <item>hónap</item>
-        <item>év</item>
-    </string-array>
-    <string-array name="repeat_choose_day">
-        <item>1.-jén</item>
-        <item>2.-án</item>
-        <item>3.-án</item>
-        <item>4.-én</item>
-        <item>5.-án</item>
-        <item>6.-án</item>
-        <item>7.-én</item>
-        <item>8.-án</item>
-        <item>9.-én</item>
-        <item>10.-én</item>
-        <item>11.-én</item>
-        <item>12.-én</item>
-        <item>13.-án</item>
-        <item>14.-én</item>
-        <item>15.-én</item>
-        <item>16.-én</item>
-        <item>17.-én</item>
-        <item>18.-én</item>
-        <item>19.-én</item>
-        <item>20.-án</item>
-        <item>21.-én</item>
-        <item>22.-én</item>
-        <item>23.-án</item>
-        <item>24.-én</item>
-        <item>25.-én</item>
-        <item>26.-án</item>
-        <item>27.-én</item>
-        <item>28.-án</item>
-        <item>29.-én</item>
-        <item>30.-án</item>
-        <item>31.-én</item>
-    </string-array>
-    <string-array name="repeat_choose_weekday">
-        <item>Hétfő</item>
-        <item>Kedd</item>
-        <item>Szerda</item>
-        <item>Csütörtök</item>
-        <item>Péntek</item>
-        <item>Szombat</item>
-        <item>Vasárnap</item>
-    </string-array>
-    <string-array name="repeat_choose_month">
-        <item>Jan</item>
-        <item>Feb</item>
-        <item>Már</item>
-        <item>Ápr</item>
-        <item>Máj</item>
-        <item>Jún</item>
-        <item>Júl</item>
-        <item>Aug</item>
-        <item>Sze</item>
-        <item>Okt</item>
-        <item>Nov</item>
-        <item>Dec</item>
-    </string-array>
-    <string-array name="repeat_choose_week_left">
-        <item>első</item>
-        <item>második</item>
-        <item>harmadik</item>
-        <item>negyedik</item>
-        <item>utolsó</item>
-    </string-array>
-    <string-array name="repeat_choose_week_right">
-        <item>Hétfőtől - Péntekig</item>
-        <item>Hétvégén</item>
-        <item>Egész héten</item>
-    </string-array>
-    <string-array name="repeat_choose_end">
-        <item>Nincs</item>
-        <item>Időszakos</item>
-        <item>Ismétlődő</item>
-    </string-array>
+     </string-array>
+     <integer-array name="travel_reminder_minutes_values">
+        <item>180</item>
+        <item>240</item>
+        <item>300</item>
+        <item>360</item>
+        <item>1440</item>
+     </integer-array>
+     <string-array name="visibility">
+        <item>Alapértelm.</item>
+        <item>Magán</item>
+        <item>Publikus</item>
+     </string-array>
+     <string-array name="widget_style_list">
+        <item>Átlátszó</item>
+        <item>Fehér háttér</item>
+     </string-array>
 </resources>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:gravity="center" android:layout_gravity="center" android:orientation="vertical" android:id="@id/frame_home_center_on" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:opera="http://schemas.android.com/apk/res-auto">
+    <RelativeLayout android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <LinearLayout android:orientation="vertical" android:id="@id/frame_center" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_centerHorizontal="true">
+            <TextView android:textSize="@dimen/v5_home_page_center_saved_label_text_size" android:textColor="@color/v5_home_page_center_text_color" android:layout_gravity="left" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="本月节省" />
+            <com.opera.max.ui.v5.DataUsageView android:textSize="96.0sp" android:textStyle="bold|italic" android:gravity="center_horizontal" android:id="@id/duv_large_value" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="10.0dip" android:fontFamily="sans-serif-thin" opera:duvTimeSpan="thisMonth" opera:duvShowUnit="false" opera:duvShowValue="true" opera:ttcColor="color_7" />
+        </LinearLayout>
+        <LinearLayout android:gravity="center_horizontal" android:orientation="vertical" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="30.0dip" android:layout_toRightOf="@id/frame_center">
+            <com.opera.max.ui.v5.DataUsageView android:textSize="20.0sp" android:textStyle="bold|italic" android:layout_gravity="top" android:id="@id/duv_small_unit" android:padding="0.0dip" android:layout_width="wrap_content" android:layout_height="wrap_content" android:fontFamily="sans-serif-light" opera:duvTimeSpan="thisMonth" opera:duvShowUnit="true" opera:duvShowValue="false" opera:ttcColor="color_7" />
+            <ImageView android:layout_gravity="bottom" android:layout_width="7.0dip" android:layout_height="11.0dip" android:layout_marginLeft="4.0dip" android:layout_marginTop="40.0dip" android:src="@drawable/v5_home_center_arror_right" />
+        </LinearLayout>
+    </RelativeLayout>
+    <com.opera.max.ui.v5.theme.ThmBgLinearlayout android:gravity="center" android:layout_gravity="center_horizontal" android:paddingLeft="24.0dip" android:paddingRight="24.0dip" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="10.0dip" opera:tbcDrawable="bg_10">
+        <TextView android:textSize="13.0sp" android:textColor="#7fffffff" android:id="@id/tv_msg" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="正在为您努力省流量" android:drawableLeft="@drawable/v5_home_center_check_tag" android:drawablePadding="5.0dip" />
+    </com.opera.max.ui.v5.theme.ThmBgLinearlayout>
+</LinearLayout>

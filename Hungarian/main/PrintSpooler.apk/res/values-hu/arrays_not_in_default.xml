@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Parsed by jbart2a -->
+<resources>
+     <string-array name="page_options_labels">
+        <item>Összes</item>
+        <item>Tartomány</item>
+     </string-array>
+</resources>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Parsed by jbart2a -->
+<resources>
+     <string-array name="emergency_tone_entries">
+        <item>Ki</item>
+        <item>Riasztás</item>
+        <item>Rezgés</item>
+     </string-array>
+     <string-array name="install_non_market_app_contents">
+        <item>Rákérdez</item>
+        <item>Engedélyez</item>
+     </string-array>
+     <string-array name="install_non_market_app_entries">
+        <item>Rákérdez kockázatos alkalmazásoknál</item>
+        <item>Engedélyez</item>
+     </string-array>
+     <string-array name="pink_panel_led_color_entries">
+        <item>Lila</item>
+        <item>Rubin</item>
+        <item>Narancs</item>
+        <item>Zöld</item>
+        <item>Magenta</item>
+     </string-array>
+     <string-array name="pink_panel_led_color_values">
+        <item>blue</item>
+        <item>red</item>
+        <item>yellow</item>
+        <item>green</item>
+        <item>\#FFAA00AA</item>
+     </string-array>
+     <string-array name="select_runtime_summaries">
+        <item>A Dalvik használata</item>
+        <item>Az ART használata</item>
+        <item>Az ART hibakeresési verziójának használata</item>
+     </string-array>
+     <string-array name="select_runtime_titles">
+        <item>Dalvik</item>
+        <item>ART</item>
+        <item>ART (hibakeresési)</item>
+     </string-array>
+     <string-array name="special_locale_names">
+        <item>中文 (简体)</item>
+        <item>中文 (繁體)</item>
+     </string-array>
+</resources>

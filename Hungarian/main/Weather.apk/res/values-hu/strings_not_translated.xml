@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Parsed by jbart2a -->
+<resources>
+     <string name="accuweather_default_url">http://www.accuweather.com</string>
+     <string name="accuweather_tag">accu</string>
+     <string name="act_weather_find_city_china" />
+     <string name="activity_alert_detail_title" />
+     <string name="activity_main_alert" />
+     <string name="activity_main_one_alert" />
+     <string name="activity_weather_main_null_data">- -</string>
+     <string name="data_source_timezone">GMT%1$s</string>
+     <string name="edit_alert_city_title" />
+     <string name="view_aqi_detail_item_null">--</string>
+     <string name="view_aqi_detail_no2">NO<sub><small>2</small></sub></string>
+     <string name="view_aqi_detail_pm10">PM10</string>
+     <string name="view_aqi_detail_pm25">PM2.5</string>
+     <string name="view_aqi_detail_so2">SO<sub><small>2</small></sub></string>
+     <string name="viewsun_time_format">HH:mm</string>
+     <string name="weatherchina_default_url">http://weather.com.cn</string>
+     <string name="weatherchina_tag">weather.com.cn</string>
+</resources>

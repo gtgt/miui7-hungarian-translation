@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Parsed by jbart2a -->
+<resources>
+     <string name="giveup">Give up</string>
+     <string name="hello">Hello</string>
+     <string name="validity_unknown">Expiration unknown</string>
+</resources>

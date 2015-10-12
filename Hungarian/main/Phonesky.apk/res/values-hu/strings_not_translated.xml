@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Parsed by jbart2a -->
+<resources>
+     <string name="abc_action_bar_home_description_format">%1$s, %2$s</string>
+     <string name="abc_action_bar_home_subtitle_description_format">%1$s, %2$s, %3$s</string>
+     <string name="abc_search_hint">Search…</string>
+     <string name="abc_toolbar_collapse_description">Collapse</string>
+     <string name="adr_microformat_newline_replacement">", "</string>
+     <string name="create_calendar_message">Allow Ad to create a calendar event?</string>
+     <string name="create_calendar_title">Create calendar event</string>
+     <string name="debug_carrier_override_summary">Set the carrier override</string>
+     <string name="debug_carrier_override_title">Carrier override</string>
+     <string name="debug_clear_cache_summary">Clear cache and restart</string>
+     <string name="debug_clear_cache_title">Clear cache and quit</string>
+     <string name="debug_environment_action_bar_title">Environment indicator</string>
+     <string name="debug_environments_summary">Change your backend environment</string>
+     <string name="debug_environments_title">Environment</string>
+     <string name="debug_export_library_summary">Export the library and asset store databases to external storage</string>
+     <string name="debug_export_library_title">Export library databases</string>
+     <string name="debug_image_debugging_summary">Display size of downloaded images</string>
+     <string name="debug_image_debugging_title">Toggle image debugging</string>
+     <string name="debug_play_country_override_current">Current Play Country override: %1$s</string>
+     <string name="debug_play_country_override_entry_prompt">Enter a valid two character country code:</string>
+     <string name="debug_play_country_override_failure">Failed to retrieve playCountryOverride from the DFE. Ensure you are using an authorized debug account.</string>
+     <string name="debug_play_country_override_none">No override</string>
+     <string name="debug_play_country_override_summary">Set the Play Country override</string>
+     <string name="debug_play_country_override_title">Play Country override</string>
+     <string name="debug_play_country_override_update_failed">Unable to update your Play Country override</string>
+     <string name="debug_play_country_override_update_success">"Your new Play Country: %1$s
+
+The app will now restart."</string>
+     <string name="debug_reset">Reset</string>
+     <string name="debug_reset_all_summary">Reset all debug options</string>
+     <string name="debug_reset_all_title">Reset all</string>
+     <string name="debug_skip_all_caches">Skip all caches</string>
+     <string name="debug_skip_all_caches_off">Caches will not be skipped</string>
+     <string name="debug_skip_all_caches_on">Caches will be skipped</string>
+     <string name="debug_volley_logging_off">Verbose logging is disabled</string>
+     <string name="debug_volley_logging_on">Verbose logging is enabled</string>
+     <string name="debug_volley_logging_title">Volley logging state</string>
+     <string name="details_secondary_action_plus_one_icon_text">+<g id="number">%1$s</g></string>
+     <string name="disable_personalization">Disable personalization</string>
+     <string name="download_progress_percentage"><g id="percent">^1%</g></string>
+     <string name="dump_library_state_summary">Dumps library state to logcat</string>
+     <string name="dump_library_state_title">Dump library state</string>
+     <string name="expando_hero">expando_hero</string>
+     <string name="expando_splash">expando_splash</string>
+     <string name="fake_item_rater_off">Fake item rater is disabled</string>
+     <string name="fake_item_rater_on">Fake item rater is enabled</string>
+     <string name="fake_item_rater_title">Fake item rater</string>
+     <string name="header_list_layout_background">header_list_layout_background</string>
+     <string name="header_list_layout_tabbar">header_list_layout_tabbar</string>
+     <string name="header_list_layout_toolbar">header_list_layout_toolbar</string>
+     <string name="menu_debug_settings">Debug options</string>
+     <string name="notification_update_1"><g id="apptitle1">%1$s</g></string>
+     <string name="personalization_disabled">Personalization disabled</string>
+     <string name="personalization_enabled">Personalization enabled</string>
+     <string name="play_onboard_interstitial_grid_cell">grid_cell</string>
+     <string name="plusone_sign">+1</string>
+     <string name="rotten_tomatoes_percent">%</string>
+     <string name="search_result_title"><g id="search_term">%1$s</g></string>
+     <string name="select_carrier">Select carrier</string>
+     <string name="select_environment">Select environment</string>
+     <string name="setup_wizard_ellipse_double">‥</string>
+     <string name="setup_wizard_ellipse_single">․</string>
+     <string name="setup_wizard_ellipse_triple">…</string>
+     <string name="show_staging_data_off">Prod data currently shown</string>
+     <string name="show_staging_data_on">Staging data currently shown</string>
+     <string name="show_staging_data_title">Show staging promo data</string>
+     <string name="store_picture_message">Allow Ad to store image in Picture gallery?</string>
+     <string name="store_picture_title">Save image</string>
+     <string name="survey_answer_neutral">Neither satisfied nor dissatisfied</string>
+     <string name="survey_answer_somewhat_dissatisfiled">Somewhat dissatisfied</string>
+     <string name="survey_answer_somewhat_satisfiled">Somewhat satisfied</string>
+     <string name="survey_answer_very_dissatisfiled">Very dissatisfied</string>
+     <string name="survey_answer_very_satisfiled">Very satisfied</string>
+     <string name="survey_question_overall_store_happiness">How satisfied are you with Play Store?</string>
+     <string name="wallet_uic_address_field_address_line_3" />
+</resources>

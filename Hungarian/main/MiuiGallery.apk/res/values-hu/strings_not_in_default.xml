@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Parsed by jbart2a -->
+<resources>
+     <string name="baby_lock_wallpaper_at_least_one_selected">Válasszon egy albumot</string>
+     <string name="confirm_delete_this_video">Törölni szeretné a kiválasztott videót?</string>
+     <string name="pick_with_limited_upper_bound_title">%d elem választható</string>
+     <string name="set_image">Kép beállítása</string>
+     <string name="sync_ok">Szinkronizálás</string>
+</resources>

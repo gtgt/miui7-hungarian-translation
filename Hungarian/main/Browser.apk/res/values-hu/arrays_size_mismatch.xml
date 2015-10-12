@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Parsed by jbart2a -->
+<resources>
+     <!-- Size mismatch! Translated: 3, Original: 4 -->
+     <string-array name="search_bar_search_engines_rCN">
+        <item>baidu</item>
+        <item>sogou</item>
+        <item>sm</item>
+        <item>google</item>
+     </string-array>
+     <!-- Size mismatch! Translated: 3, Original: 4 -->
+     <string-array name="search_engines_rCN">
+        <item>baidu</item>
+        <item>sogou</item>
+        <item>sm</item>
+        <item>google</item>
+     </string-array>
+</resources>

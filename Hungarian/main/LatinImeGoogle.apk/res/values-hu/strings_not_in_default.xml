@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Parsed by jbart2a -->
+<resources>
+     <string name="subtype_generic_cyrillic">%s (cirill)</string>
+     <string name="subtype_generic_latin">%s (latin)</string>
+</resources>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Parsed by jbart2a -->
+<resources>
+     <string name="calibrate_altitude">Kalibrálás</string>
+     <string name="getting_location">Helymeghatározás...</string>
+     <string name="menu_calibrate">Iránytű kalibrálása</string>
+</resources>

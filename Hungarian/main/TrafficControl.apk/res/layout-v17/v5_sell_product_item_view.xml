@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:gravity="center" android:orientation="vertical" android:background="@drawable/v5_sell_product_view_bk" android:paddingTop="12.0dip" android:paddingBottom="12.0dip" android:focusable="true" android:clickable="true" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView android:id="@id/v5_sell_product_package_name" android:duplicateParentState="true" android:layout_width="wrap_content" android:layout_height="wrap_content" android:singleLine="true" style="@style/v5_sell_product_title" />
+    <LinearLayout android:gravity="center_horizontal" android:orientation="horizontal" android:duplicateParentState="true" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="10.0dip">
+        <TextView android:gravity="end|center" android:id="@id/v5_sell_product_discount_price" android:paddingRight="2.0dip" android:duplicateParentState="true" android:layout_width="wrap_content" android:layout_height="wrap_content" android:singleLine="true" android:paddingEnd="2.0dip" style="@style/v5_sell_product_sub_title" />
+        <com.opera.max.ui.v5.trafficsell.SellDiscountTextView android:id="@id/v5_sell_product_original_price" android:paddingLeft="2.0dip" android:duplicateParentState="true" android:layout_width="wrap_content" android:layout_height="wrap_content" android:singleLine="true" android:paddingStart="2.0dip" style="@style/v5_sell_product_sub_ori" />
+    </LinearLayout>
+</LinearLayout>

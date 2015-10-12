@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Parsed by jbart2a -->
+<resources>
+     <string name="firewall_network_restrict_notify_mobile">Mobile data</string>
+     <string name="mi_service_framework_pkg">com.xiaomi.xmsf</string>
+     <string name="package_change_notification_summary">Tap to learn more.</string>
+     <string name="package_change_notification_title">Adjust data limit automatically</string>
+     <string name="package_setted_error_notification_summary">Tap to view data usage details.</string>
+     <string name="package_setted_error_notification_titile">"Couldn't set data plan"</string>
+     <string name="pref_key_new_installed_app_firewall_mobile">pref_key_new_installed_app_firewall_mobile</string>
+     <string name="pref_key_new_installed_app_firewall_wifi">pref_key_new_installed_app_firewall_wifi</string>
+</resources>

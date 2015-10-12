@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Parsed by jbart2a -->
+<resources>
+     <string name="timer_alarm_alert_pad">%s</string>
+     <string name="timer_alarm_cancel_pad">Tap on the screen to stop ringing</string>
+</resources>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <CheckBoxPreference android:title="@string/svi_enable_title" android:key="svi_enable" android:defaultValue="true" android:summaryOn="@string/svi_enable_summary_on" android:summaryOff="@string/svi_enable_summary_off" />
+    <Preference android:title="@string/svi_version_title" android:key="svi_version" android:summary="@string/svi_info_default" style="?android:preferenceInformationStyle" />
+</PreferenceScreen>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <RelativeLayout android:background="@color/sell_theme" android:layout_width="fill_parent" android:layout_height="@dimen/v5_sell_actionbar_height">
+        <TextView android:gravity="center_vertical" android:id="@id/v5_sale_action_back" android:background="@drawable/v5_sell_actionbar_left_bk" android:paddingLeft="@dimen/v5_sell_actionbar_padding" android:paddingRight="@dimen/v5_sell_actionbar_padding" android:layout_width="wrap_content" android:layout_height="fill_parent" android:text="@string/v5_sell_traffic_sell" android:drawableLeft="@drawable/v5_left_arrow" android:drawablePadding="@dimen/v5_sell_actionbar_padding" android:drawableStart="@drawable/v5_left_arrow" android:paddingStart="@dimen/v5_sell_actionbar_padding" android:paddingEnd="@dimen/v5_sell_actionbar_padding" style="@style/v5_sell_sp18_ff" />
+        <TextView android:gravity="center_vertical" android:id="@id/v5_sale_right_menu" android:background="@drawable/v5_sell_actionbar_left_bk" android:paddingLeft="@dimen/v5_sell_actionbar_padding" android:paddingRight="@dimen/v5_sell_actionbar_end_padding" android:layout_width="wrap_content" android:layout_height="fill_parent" android:text="@string/v5_sell_order_record" android:layout_alignParentRight="true" android:paddingStart="@dimen/v5_sell_actionbar_padding" android:paddingEnd="@dimen/v5_sell_actionbar_end_padding" android:layout_alignParentEnd="true" style="@style/v5_sell_sp16_ff" />
+    </RelativeLayout>
+    <FrameLayout android:id="@id/v5_sale_fragment_container" android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <fragment android:id="@id/v5_main_fragment" android:layout_width="fill_parent" android:layout_height="fill_parent" class="com.opera.max.ui.v5.trafficsell.SellMainFragment" />
+    </FrameLayout>
+</LinearLayout>

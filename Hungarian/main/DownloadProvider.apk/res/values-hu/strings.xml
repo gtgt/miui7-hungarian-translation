@@ -1,75 +1,83 @@
 <?xml version="1.0" encoding="utf-8"?>
+<!-- Parsed by jbart2a -->
 <resources>
-    <string name="dialog_insufficient_space_on_external">Nincs elég szabad hely a külső tárhelyen</string>
-    <string name="dialog_insufficient_space_on_cache">Nincs elég szabad hely a belső tárhelyen</string>
-    <string name="auto_restart_under_wifi">Wi-Fi csatlakozáskor automatikusan letölti ezt a fájlt</string>
-    <string name="task_already_exist">Már van ilyen feladat</string>
-    <string name="privacy_tip_title">Xunlei Letöltőmotor használata</string>
-    <string name="privacy_tip_content">Szeretné használni a Xunlei Letöltőmotor a gyorsabb letöltéshez? A letöltés URL címe fel lesz töltve a Xunlei szerverére. A Mi fiók adatai szintén feltöltésre kerülnek a későbbi aktív szolgáltatások ellenőrzése céljából.</string>
-    <string name="privacy_tip_cancel">Nem</string>
-    <string name="privacy_tip_ok">Igen</string>
-    <string name="privacy_notif_title">Xunlei Letöltőmotor be van kapcsolva</string>
-    <string name="privacy_notif_content">Kattintson a részletek megtekintéséhez.</string>
-    <string name="notif_text_engine_on">Bekapcsolás…</string>
-    <string name="notif_text_engine_off">Xunlei letöltőmotor kikapcsolva.</string>
-    <string name="notif_title_single_downloading">%1$s letöltése</string>
-    <string name="notif_title_multiple_downloading">%1$d fájl letöltése</string>
-    <string name="notif_title_file_size">Összesen %1$d fájl</string>
-    <string name="paused_waiting_for_network">Hálózatra vár</string>
-    <string name="warning_tip_title">Adatforgalmi figyelmeztetés</string>
-    <string name="warning_tip_content">Nem Wi-Fi hálózathoz csatlakozik. A mobil adatkapcsolat használatával történő letöltés növeli az adatforgalmat. Ha túllépi a havi adatforgalmazási értéket, a szolgáltató további költségeket számolhat fel.</string>
-    <string name="warning_tip_cancel">Letöltés</string>
-    <string name="warning_tip_ok">Szünet</string>
-    <string name="dialog_not_show_again">Ne jelenjen meg újra</string>
-    <string name="notification_download_complete">A letöltés befejeződött.</string>
-    <string name="notification_download_failed">A letöltés nem sikerült.</string>
-    <string name="notification_download_success_more">%1$d fájl letöltve</string>
-    <string name="notification_download_failed_more">Nem sikerült %1$d fájl letöltése</string>
-    <string name="recommended_file_one_in_mobile">Ennek a fájlnak (%s ) mobil adatkacsolattal történő letöltése növeli az adatforgalmat.</string>
-    <string name="recommended_file_more_in_mobile" formatted="false">Ennek a %s fájlnak (%s ) mobil adatkacsolattal történő letöltése növeli az adatforgalmat.</string>
-    <string name="recommended_file_size_download_in_mobile" formatted="false">"Jelenleg nem Wi-Fi hálózathoz csatlakozik. %s
+     <string name="app_label">Letöltéskezelő</string>
+     <string name="auto_restart_under_wifi">Wi-Fi csatlakozáskor automatikusan letölti ezt a fájlt</string>
+     <string name="button_cancel_download">Mégse</string>
+     <string name="button_download_now">Letöltés</string>
+     <string name="button_queue_for_wifi">Várólista</string>
+     <string name="button_start_now">Letöltés most</string>
+     <string name="button_wait_for_wifi">Várakozás</string>
+     <string name="dialog_insufficient_space_on_cache">Nincs elég szabad hely a belső tárhelyen</string>
+     <string name="dialog_insufficient_space_on_external">Nincs elég szabad hely a külső tárhelyen</string>
+     <string name="dialog_not_show_again">Ne jelenjen meg újra</string>
+     <string name="download_error">Sikertelen</string>
+     <string name="download_no_application_title">A fájlt nem lehet megnyitni.</string>
+     <string name="download_percent">%d%%</string>
+     <string name="download_queued">Várólistán</string>
+     <string name="download_remaining">%s van hátra</string>
+     <string name="download_running">Folyamatban</string>
+     <string name="download_running_percent">Folyamatban: %d%%</string>
+     <string name="download_unknown_title">&lt;Névtelen></string>
+     <string name="enter_garbage_clean">Belső tárhely megtisztítása.</string>
+     <string name="insufficient_space">Nincs elég szabad hely a belső tárolón</string>
+     <string name="mobile_recommended_title">Mobile data usage</string>
+     <string name="notif_text_engine_off">Xunlei letöltőmotor kikapcsolva.</string>
+     <string name="notif_text_engine_on">Bekapcsolás…</string>
+     <string name="notif_title_file_size">Összesen %1$d fájl</string>
+     <string name="notif_title_multiple_downloading">%1$d fájl letöltése</string>
+     <string name="notif_title_single_downloading">%1$s letöltése</string>
+     <string name="notification_download_complete">A letöltés befejeződött.</string>
+     <string name="notification_download_failed">A letöltés nem sikerült.</string>
+     <string name="notification_download_failed_more">Nem sikerült %1$d fájl letöltése</string>
+     <string name="notification_download_success_more">%1$d fájl letöltve</string>
+     <string name="notification_need_wifi_for_size">A letöltéshez Wi-Fi szükséges</string>
+     <string name="notification_paused_in_background">Szünetel a háttérben.</string>
+     <string name="paused_waiting_for_network">Hálózatra vár</string>
+     <string name="permdesc_accessAllDownloads">Az alkalmazás megnézheti és módosíthatja a rendszer bármelyik alkalmazása által kezdeményezett letöltést.</string>
+     <string name="permdesc_downloadCacheNonPurgeable">Az alkalmazás letölthet fájlokat a letöltési gyorsítótárba, amelyeket a letöltéskezelő nem törölhet automatikusan, ha helyre van szüksége.</string>
+     <string name="permdesc_downloadCompletedIntent">Lehetővé teszi az alkalmazás számára, hogy értesítést küldjön a befejezett letöltésekről. A rosszindulatú alkalmazások kihasználhatják ezt más, fájlokat letöltő alkalmazások megzavarására.</string>
+     <string name="permdesc_downloadManager">Lehetővé teszi az alkalmazás számára a letöltéskezelő elérését fájlok letöltéséhez. A rosszindulatú alkalmazások kihasználhatják ezt a letöltések megzavarására és személyes adatok elérésére.</string>
+     <string name="permdesc_downloadManagerAdvanced">Lehetővé teszi az alkalmazás számára a letöltéskezelő speciális funkcióinak elérését. A rosszindulatú alkalmazások kihasználhatják ezt a letöltések megzavarására és személyes adatok elérésére.</string>
+     <string name="permdesc_downloadWithoutNotification">Az alkalmazások letölthetnek fájlokat a letöltéskezelő segítségével anélkül, hogy értesítenék róla a felhasználót.</string>
+     <string name="permdesc_seeAllExternal">Lehetővé teszi az alkalmazás számára az SD-kártyán található összes letöltés megtekintését, függetlenül attól, hogy melyik alkalmazás töltötte le azokat.</string>
+     <string name="permlab_accessAllDownloads">Hozzáférés a rendszer összes letöltéséhez</string>
+     <string name="permlab_downloadCacheNonPurgeable">Hely lefoglalása a letöltési gyorsítótárban</string>
+     <string name="permlab_downloadCompletedIntent">Letöltési értesítések küldése.</string>
+     <string name="permlab_downloadManager">Hozzáférés a letöltéskezelőhöz.</string>
+     <string name="permlab_downloadManagerAdvanced">Speciális letöltéskezelő-funkciók.</string>
+     <string name="permlab_downloadWithoutNotification">fájlok letöltése értesítés nélkül</string>
+     <string name="permlab_seeAllExternal">USB-tár letöltéseit látja</string>
+     <string name="privacy_notif_content">Kattintson a részletek megtekintéséhez.</string>
+     <string name="privacy_notif_title">Xunlei Letöltőmotor be van kapcsolva</string>
+     <string name="privacy_tip_cancel">Nem</string>
+     <string name="privacy_tip_content">Szeretné használni a Xunlei Letöltőmotor a gyorsabb letöltéshez? A letöltés URL címe fel lesz töltve a Xunlei szerverére. A Mi fiók adatai szintén feltöltésre kerülnek a későbbi aktív szolgáltatások ellenőrzése céljából.</string>
+     <string name="privacy_tip_ok">Igen</string>
+     <string name="privacy_tip_title">Xunlei Letöltőmotor használata</string>
+     <!-- MNPS mismatch found! Translated: 3 Original: 1
+	%s: 3 Original: 1
+	%d: 0 Original: 0 -->
+     <!-- Original string: Use %s of mobile data to download this file? -->
+     <string name="recommended_file_size_download_in_mobile" formatted="false">"Jelenleg nem Wi-Fi hálózathoz csatlakozik. %s
 
 A fájl mérete nem kérhető le. A fájl mobil adatkapcsolaton történő letöltéséhez érintse meg %s. A fájl letöltésének Wi-Fi hálózathoz váló csatlakozásáig érintse meg %s."</string>
-    <string name="recommended_no_file_size_download_in_mobile" formatted="false">A fájl mérete nem kérhető le. A fájl mobil adatkapcsolaton történő letöltéséhez érintse meg %s. A fájl letöltésének Wi-Fi hálózathoz váló csatlakozásáig érintse meg %s.</string>
-    <string name="button_wait_for_wifi">Várakozás</string>
-    <string name="button_download_now">Letöltés</string>
-    <string name="insufficient_space">Nincs elég szabad hely a belső tárolón</string>
-    <string name="enter_garbage_clean">Belső tárhely megtisztítása.</string>
-    <string name="app_label">Letöltéskezelő</string>
-    <string name="permlab_downloadManager">Hozzáférés a letöltéskezelőhöz.</string>
-    <string name="permdesc_downloadManager">Lehetővé teszi az alkalmazás számára a letöltéskezelő elérését fájlok letöltéséhez. A rosszindulatú alkalmazások kihasználhatják ezt a letöltések megzavarására és személyes adatok elérésére.</string>
-    <string name="permlab_downloadManagerAdvanced">Speciális letöltéskezelő-funkciók.</string>
-    <string name="permdesc_downloadManagerAdvanced">Lehetővé teszi az alkalmazás számára a letöltéskezelő speciális funkcióinak elérését. A rosszindulatú alkalmazások kihasználhatják ezt a letöltések megzavarására és személyes adatok elérésére.</string>
-    <string name="permlab_downloadCompletedIntent">Letöltési értesítések küldése.</string>
-    <string name="permdesc_downloadCompletedIntent">Lehetővé teszi az alkalmazás számára, hogy értesítést küldjön a befejezett letöltésekről. A rosszindulatú alkalmazások kihasználhatják ezt más, fájlokat letöltő alkalmazások megzavarására.</string>
-    <string name="permlab_seeAllExternal">USB-tár letöltéseit látja</string>
-    <string name="permdesc_seeAllExternal">Lehetővé teszi az alkalmazás számára az SD-kártyán található összes letöltés megtekintését, függetlenül attól, hogy melyik alkalmazás töltötte le azokat.</string>
-    <string name="permlab_downloadCacheNonPurgeable">Hely lefoglalása a letöltési gyorsítótárban</string>
-    <string name="permdesc_downloadCacheNonPurgeable">Az alkalmazás letölthet fájlokat a letöltési gyorsítótárba, amelyeket a letöltéskezelő nem törölhet automatikusan, ha helyre van szüksége.</string>
-    <string name="permlab_downloadWithoutNotification">fájlok letöltése értesítés nélkül</string>
-    <string name="permdesc_downloadWithoutNotification">Az alkalmazások letölthetnek fájlokat a letöltéskezelő segítségével anélkül, hogy értesítenék róla a felhasználót.</string>
-    <string name="permlab_accessAllDownloads">Hozzáférés a rendszer összes letöltéséhez</string>
-    <string name="permdesc_accessAllDownloads">Az alkalmazás megnézheti és módosíthatja a rendszer bármelyik alkalmazása által kezdeményezett letöltést.</string>
-    <string name="download_unknown_title">&lt;Névtelen></string>
-    <string name="notification_need_wifi_for_size">A letöltéshez Wi-Fi szükséges</string>
-    <string name="notification_paused_in_background">Szünetel a háttérben.</string>
-    <string name="wifi_required_title">A letöltés túl nagy a szolgáltató hálózatához</string>
-    <string name="wifi_required_body" formatted="false">"Wi-Fi szükséges a letöltés (%s ) befejezéséhez. 
-
-Érintse meg a(z) %s  lehetőséget a letöltés elindításához, ha majd Wi-Fi hálózathoz csatlakozik."</string>
-    <string name="wifi_recommended_title">Várólistára teszi későbbi letöltés céljából?</string>
-    <string name="wifi_recommended_body" formatted="false">"%s letöltés indításával megnőhet az adathasználat, így előfizetésétől függően egyéb költségei lehetnek.
+     <!-- MNPS mismatch found! Translated: 2 Original: 0
+	%s: 2 Original: 0
+	%d: 0 Original: 0 -->
+     <!-- Original string: Use your mobile data connection to download this file? -->
+     <string name="recommended_no_file_size_download_in_mobile" formatted="false">A fájl mérete nem kérhető le. A fájl mobil adatkapcsolaton történő letöltéséhez érintse meg %s. A fájl letöltésének Wi-Fi hálózathoz váló csatlakozásáig érintse meg %s.</string>
+     <string name="root_downloads">Letöltések</string>
+     <string name="task_already_exist">Már van ilyen feladat</string>
+     <string name="warning_tip_cancel">Letöltés</string>
+     <string name="warning_tip_content">Nem Wi-Fi hálózathoz csatlakozik. A mobil adatkapcsolat használatával történő letöltés növeli az adatforgalmat. Ha túllépi a havi adatforgalmazási értéket, a szolgáltató további költségeket számolhat fel.</string>
+     <string name="warning_tip_ok">Szünet</string>
+     <string name="warning_tip_title">Adatforgalmi figyelmeztetés</string>
+     <string name="wifi_recommended_body" formatted="false">"%s letöltés indításával megnőhet az adathasználat, így előfizetésétől függően egyéb költségei lehetnek.
 
 Érintse meg a(z) %s lehetőséget, és következő Wi-Fi hálózathoz való csatlakozáskor letöltésre kerül."</string>
-    <string name="button_queue_for_wifi">Várólista</string>
-    <string name="button_cancel_download">Mégse</string>
-    <string name="button_start_now">Letöltés most</string>
-    <string name="download_percent">%d%%</string>
-    <string name="download_remaining">%s van hátra</string>
-    <string name="download_no_application_title">A fájlt nem lehet megnyitni.</string>
-    <string name="root_downloads">Letöltések</string>
-    <string name="download_queued">Várólistán</string>
-    <string name="download_running">Folyamatban</string>
-    <string name="download_error">Sikertelen</string>
-    <string name="download_running_percent">Folyamatban: %d%%</string>
+     <string name="wifi_recommended_title">Várólistára teszi későbbi letöltés céljából?</string>
+     <string name="wifi_required_body" formatted="false">"Wi-Fi szükséges a letöltés (%s ) befejezéséhez. 
+
+Érintse meg a(z) %s  lehetőséget a letöltés elindításához, ha majd Wi-Fi hálózathoz csatlakozik."</string>
+     <string name="wifi_required_title">A letöltés túl nagy a szolgáltató hálózatához</string>
 </resources>

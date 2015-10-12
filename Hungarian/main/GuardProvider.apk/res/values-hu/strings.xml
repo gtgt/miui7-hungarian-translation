@@ -1,18 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
+<!-- Parsed by jbart2a -->
 <resources>
-    <string name="default_sdcard_volume_path" />
-    <string name="app_name">com.securitycore.miui_t</string>
-    <string name="hello_world">Helló világ!</string>
-    <string name="menu_settings">Beállítások</string>
-    <string name="title_activity_main">MainActivity</string>
-    <string name="tencent_dialog_title">Tencent Adatvédelmi Nyilatkozata</string>
-    <string name="tencent_dialog_header">Ez a funkció titkosítja és deltölti az eszköz azonosítóját a Tencent szerverére (%s).</string>
-    <string name="tencent_dialog_policy">Adatvédelmi Nyilatkozat megtekintése</string>
-    <string name="tencent_dialog_cloudscan">Alkalmazás neveinek és adatatok keresése és feltöltése az online adatbázis használatával.</string>
-    <string name="tencent_dialog_dbupdate">Automatikus vírus adatbázis frissítés</string>
-    <string name="avl_dialog_title">AVL Adatvédelmi Nyilatkozata</string>
-    <string name="avl_dialog_header">Ez a funkció titkosítja és deltölti az eszköz azonosítóját az AVL szerverére(%s).</string>
-    <string name="avl_dialog_policy">Adatvédelmi Nyilatkozat megtekintése</string>
-    <string name="avl_dialog_cloudscan" />
-    <string name="avl_dialog_dbupdate" />
+     <string name="AVL">AVL</string>
+     <string name="DesAVL">AVL</string>
+     <string name="DesMi">Mi</string>
+     <string name="DesTencent">Tencent</string>
+     <string name="Mi">Mi</string>
+     <string name="Tencent">Tencent</string>
+     <string name="app_name">com.securitycore.miui_t</string>
+     <string name="avl_dialog_cloudscan" />
+     <string name="avl_dialog_dbupdate" />
+     <string name="avl_dialog_header">Ez a funkció titkosítja és deltölti az eszköz azonosítóját az AVL szerverére(%s).</string>
+     <string name="avl_dialog_policy">Adatvédelmi Nyilatkozat megtekintése</string>
+     <string name="avl_dialog_title">AVL Adatvédelmi Nyilatkozata</string>
+     <string name="avl_dialog_url">http://api.sec.miui.com/policy/proxy?p=antiy&amp;l=en_US</string>
+     <string name="default_sdcard_volume_path" />
+     <string name="hello_world">Helló világ!</string>
+     <string name="menu_settings">Beállítások</string>
+     <string name="tencent_dialog_cloudscan">Alkalmazás neveinek és adatatok keresése és feltöltése az online adatbázis használatával.</string>
+     <string name="tencent_dialog_dbupdate">Automatikus vírus adatbázis frissítés</string>
+     <string name="tencent_dialog_header">Ez a funkció titkosítja és deltölti az eszköz azonosítóját a Tencent szerverére (%s).</string>
+     <string name="tencent_dialog_policy">Adatvédelmi Nyilatkozat megtekintése</string>
+     <string name="tencent_dialog_title">Tencent Adatvédelmi Nyilatkozata</string>
+     <string name="tencent_dialog_url">http://api.sec.miui.com/policy/proxy?p=tencent&amp;l=en_US</string>
+     <string name="title_activity_main">MainActivity</string>
 </resources>

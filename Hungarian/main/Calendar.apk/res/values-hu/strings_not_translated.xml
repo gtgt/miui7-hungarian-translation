@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Parsed by jbart2a -->
+<resources>
+     <string name="add_topic_unsuccess">订阅\"%s\"失败</string>
+     <string name="anniversary_metric" />
+     <string name="anniversary_term">anniversary</string>
+     <string name="birthday_event_description_detail_leap" />
+     <string name="birthday_event_description_detail_smart" />
+     <string name="birthday_metric" />
+     <string name="birthday_notice_message">生日详情需要连接网络方可查看。您是否同意？</string>
+     <string name="birthday_notification_age_term" />
+     <string name="birthday_notification_type_term_lunar" />
+     <string name="date_time_fmt" formatted="false">%s, %s</string>
+     <string name="deleting_calendar">退订中</string>
+     <string name="not_exist_topic_list">无法获取订阅日历列表</string>
+     <string name="notice_button_ok_and_go_on">同意并继续</string>
+     <string name="notice_title_agreement">声明与条款</string>
+     <string name="online_notice_message">订阅日历需要您同意%1$s和%2$s方可使用。订阅日历在使用中需要连接网络。您是否同意？</string>
+     <string name="prefDefault_alerts_vibrateWhen">never</string>
+     <string name="prefDefault_alerts_vibrate_false">never</string>
+     <string name="prefDefault_alerts_vibrate_true">always</string>
+     <string name="repeat_lunar_yearly" />
+     <string name="topic_dialog_title">退订订阅</string>
+</resources>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Parsed by jbart2a -->
+<resources>
+     <string name="record_quliaty_preference_title">Recording quality</string>
+     <string name="xiaomi_account_type">com.xiaomi</string>
+</resources>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Parsed by jbart2a -->
+<resources>
+     <string name="act_aqi_src_port">"%1$s%2$s  %3$s"</string>
+     <string name="act_weather_cycle_link_china">WeatherChina</string>
+     <string name="act_weather_find_city_connect_net">Ellenőrizze a hálózati kapcsolatot és próbálja újra.</string>
+     <string name="activity_main_refresh_time">Utolsó frissítés %1$s</string>
+     <string name="application_screenorientation">álló</string>
+     <string name="loading_weather">Időjárás betöltése...</string>
+     <string name="location_allow_err">Helymeghatározás sikertelen</string>
+     <string name="menu_add">Új város</string>
+     <string name="menu_more">Részletek</string>
+     <string name="view_aqi_time_format">yyyy/MM/dd HH:mm</string>
+     <string name="weather_unit_middle">~</string>
+     <string name="weather_unit_with_c">°C</string>
+</resources>

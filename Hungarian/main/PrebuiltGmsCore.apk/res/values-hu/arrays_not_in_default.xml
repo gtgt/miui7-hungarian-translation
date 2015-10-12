@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Parsed by jbart2a -->
+<resources>
+     <string-array name="auth_gls_security_questions">
+        <item>Válasszon egy biztonsági kérdést</item>
+        <item>Első telefonszáma?</item>
+        <item>Mi gyermekkori legjobb barátja neve?</item>
+        <item>Első tanárának neve?</item>
+        <item>Főnöke neve az első munkahelyén?</item>
+        <item>Járműve rendszáma?</item>
+     </string-array>
+</resources>

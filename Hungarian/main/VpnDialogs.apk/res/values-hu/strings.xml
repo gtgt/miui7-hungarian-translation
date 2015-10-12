@@ -1,14 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
+<!-- Parsed by jbart2a -->
 <resources>
-    <string name="prompt">A(z) %s megpróbál létrehozni egy VPN-kapcsolatot.</string>
-    <string name="warning">A folytatással engedélyt ad az alkalmazásnak a hálózati adatforgalom elfogására.</string>
-    <string name="legacy_title">A VPN csatlakoztatva van</string>
-    <string name="configure">Konfigurálás</string>
-    <string name="disconnect">Kapcsolat bontása</string>
-    <string name="session">Munkamenet:</string>
-    <string name="duration">Időtartam:</string>
-    <string name="data_transmitted">Elküldve:</string>
-    <string name="data_received">Érkezett:</string>
-    <string name="data_value_format">%1$s bájt / %2$s adatcsomag</string>
-    <string name="accept">Megbízom az alkalmazásban.</string>
+     <string name="configure">Konfigurálás</string>
+     <string name="data_received">Érkezett:</string>
+     <string name="data_transmitted">Elküldve:</string>
+     <string name="data_value_format">%1$s bájt / %2$s adatcsomag</string>
+     <string name="disconnect">Kapcsolat bontása</string>
+     <string name="duration">Időtartam:</string>
+     <string name="legacy_title">A VPN csatlakoztatva van</string>
+     <!-- MNPS mismatch found! Translated: 1 Original: 0
+	%s: 1 Original: 0
+	%d: 0 Original: 0 -->
+     <!-- Original string: Connection request -->
+     <string name="prompt">A(z) %s megpróbál létrehozni egy VPN-kapcsolatot.</string>
+     <string name="session">Munkamenet:</string>
+     <!-- MNPS mismatch found! Translated: 0 Original: 1
+	%s: 0 Original: 1
+	%d: 0 Original: 0 -->
+     <!-- Original string: %s wants to set up a VPN connection that allows it to monitor network traffic. Only accept if you trust the source. &lt;br /> &lt;br /> &lt;img src=vpn_icon /> appears at the top of your screen when VPN is active. -->
+     <string name="warning">A folytatással engedélyt ad az alkalmazásnak a hálózati adatforgalom elfogására.</string>
 </resources>

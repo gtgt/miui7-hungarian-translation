@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Parsed by jbart2a -->
+<resources>
+     <string name="passport_app_name">Mi fiók</string>
+     <string name="passport_dspt_provision">Használja a Mi fiókot a MiCloud, MIUI Téma Áruház és egyéb Mi szolgálatatások eléréséhez.</string>
+     <string name="passport_dspt_provision2">Bővebb információ</string>
+     <string name="passport_provision_skip_login">Átugrás</string>
+     <string name="passport_welcome_skip_login">Átugrás</string>
+</resources>
