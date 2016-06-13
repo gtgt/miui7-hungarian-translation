@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Parsed by jbart2a -->
+<!-- Parsed by jbart3h -->
 <resources>
      <string name="abort_backup_confirm">"A mentés még nem fejeződött be. Mégis  leállítja?"</string>
      <string name="account_contact_backup_info">Gmail, Email és Mi fiókok adatai</string>
@@ -28,16 +28,19 @@
      <string name="backup_delete">Mentés törlése:</string>
      <string name="backup_empty">Nincs mentés</string>
      <string name="backup_empty_info">Adatok, programok és beállítások biztonsági mentése</string>
+     <string name="backup_empty_info_onpad">" Adatok, beállítások és alkalmazások mentése"</string>
      <string name="backup_error">A mentés nem sikerült</string>
      <string name="backup_failed">A mentés sikertelen</string>
      <string name="backup_file_error">Hiba a biztonsági mentésben, a művelet érvénytelen.</string>
      <string name="backup_finished">A mentés befejeződött</string>
      <string name="backup_hint">Ne kapcsolja ki, mert hiba léphet fel!</string>
+     <string name="backup_hint_onpad">Hagyja az eszközt bekapcsolva</string>
      <string name="backup_is_running">Eszköz mentése</string>
      <string name="backup_items_app_tailer">" Alkalmazás fájl "</string>
      <string name="backup_items_sysdata_tailer">" Rendszerfájl "</string>
      <string name="backup_new">Új mentés</string>
      <string name="backup_progress">Mentés folyamatban...</string>
+     <string name="backup_recently">(Legutolsó)</string>
      <string name="backup_report">Mentési jelentés</string>
      <string name="backup_update">Mentés módosítása</string>
      <string name="batch_delete_backup_confirm">Biztos, hogy törli a kiválasztott mentést?</string>
@@ -48,11 +51,13 @@
      <string name="button_next">Következő</string>
      <string name="button_ok">OK</string>
      <string name="button_return">Vissza</string>
+     <string name="button_send">Küldés</string>
      <string name="call_title">Hívásnapló</string>
-     <string name="camera_summary">Kamera beállítások (nem tartalmazza a féynképeket)</string>
+     <string name="camera_summary">Kamera beállítások (nem tartalmazza a fényképeket)</string>
      <string name="cancel">Mégsem</string>
      <string name="cancel_backup">Mentés megszakítása</string>
      <string name="cancel_restore">Megszakítás</string>
+     <string name="click_to_view">Megtekintés</string>
      <string name="cloud_app_name">Online mentés</string>
      <string name="cloud_backup_hint">Jelentkezzen be a biztonsági mentés eléréséhez</string>
      <string name="cloud_backup_login">Jelentkezzen be a Mi fiókba</string>
@@ -69,6 +74,7 @@
      <string name="compute_delete_contact_info">Névjegyek keresése...</string>
      <string name="contact_title">Névjegyek</string>
      <string name="current_account">Bejelentkezve mint: %s</string>
+     <string name="current_pad_location">Tablet</string>
      <string name="current_phone_location">Telefon</string>
      <string name="current_sim">SIM kártya</string>
      <string name="custom_progress">%d elem</string>
@@ -93,24 +99,27 @@
      <string name="enable_encrypt_xiaomi_account">A mentést készítette %1$s, kérem törölje jelenlegi fiókját, és %2$s jelentkezzen be, adatai visszaállításához.</string>
      <string name="err_authentication_failed">A hitelesítés sikertelen</string>
      <string name="err_bakfile_broken">Ez a mentés nem használható.</string>
-     <string name="err_filesystem_mount">"Can't access router storage"</string>
+     <string name="err_filesystem_mount">Nem lehet elérni a router tárolót</string>
      <string name="err_low_storage">Nincs elég szabad hely</string>
-     <string name="err_router_disconnected">"Check your router's connection and try again."</string>
-     <string name="err_router_files_delete">"Couldn't delete backup files on router"</string>
+     <string name="err_router_disconnected">Ellenőrizze a router csatlakozást és próbálja újra.</string>
+     <string name="err_router_files_delete">Nem lehet letörölni a roterenen lévő mentési fájlokat</string>
      <string name="err_unknown">Ismeretlen hiba</string>
      <string name="err_version_too_old">A mentésfájl túl régi.</string>
      <string name="err_version_unsupported">A mentés verzió nem támogatott.</string>
      <string name="every_day">Mindennap</string>
      <string name="exchange_account">Exchange fiók</string>
      <string name="fail">Sikertelen</string>
-     <string name="feature_title_account">Fiók</string>
+     <string name="feature_title_account">Mi fiók</string>
      <string name="feature_title_call_log">Hívásnapló</string>
      <string name="feature_title_mms">MMS</string>
      <string name="file_uploading">Feltöltés…</string>
+     <string name="files_backup_info">Minden fájl az SD kártyán (tartalmazza a fényképeket, dalokat, videókat, alkalmazás adatokat, stb.)</string>
      <string name="findlost_contact">Névjegy keresése</string>
      <string name="findlost_contact_online">Névjegy keresése online</string>
-     <string name="guarded_mode_dialog_message">Nem lehetséges a mentés/visszaállítás védett módban</string>
+     <string name="guarded_mode_dialog_backup_message">A mentés nem engedélyezettt Vendég módban.</string>
+     <string name="guarded_mode_dialog_message">Nem lehetséges a mentés/visszaállítás Vendég módban</string>
      <string name="guarded_mode_dialog_title">Védett mód</string>
+     <string name="guarded_mode_dialog_transfer_message">"Can't use Mi Mover in Guest mode."</string>
      <string name="import_from_xiaomi_account_hint1">1.Telepítse a MiTalk-ot és jelentkezzen be.http://www.miliao.com 3. Lépjen a MiTalk beállításaiba és válassza a ”Névjegyek mentése a Mi fiókba”</string>
      <string name="import_from_xiaomi_account_hint2">Megjegyzés: Lépjen tovább ha a mentés befejeződött</string>
      <string name="import_from_xiaomi_account_hint_title">Használja a MiTalk-ot névjegyek mentéséhez.</string>
@@ -120,12 +129,19 @@
      <string name="local_no_backup">Nincs helyi mentés</string>
      <string name="local_restore_window_title">Helyi adat-visszaállítás</string>
      <string name="local_select_account_contact">Fiókok és névjegyzék</string>
+     <string name="local_select_audio">Hang fájlok</string>
+     <string name="local_select_doc">Dokumentumok</string>
+     <string name="local_select_files">SD kártya</string>
+     <string name="local_select_image">Képek</string>
      <string name="local_select_sysdata">Rendszer adatai</string>
-     <string name="local_select_userapp">Alkalmazások és adatok</string>
+     <string name="local_select_userapp">Alkalmazások</string>
+     <string name="local_select_video">Videók</string>
      <string name="miliao_account_guide">Használja a Mi fiókot a MiCloudba való bejelentkezéshez, a MIUI Téma Áruházhoz és egyéb Mi szolgáltatásokhoz.</string>
      <string name="miliao_account_login">Bejelentkezés MiTalkkal</string>
      <string name="mms_title">Multimédiás Üzenetek</string>
      <string name="multi_select_title">%1$s elem kijelölve</string>
+     <string name="multi_user_mode_dialog_message">Nem lehet használni az Átköltözést Többfelhasználós módban. A folytatáshoz kapcsolja ki a többfelhasználós módot.</string>
+     <string name="multi_user_mode_dialog_title">Többfelhasználós módban van</string>
      <string name="never">Soha</string>
      <string name="new_backup">Mentés</string>
      <string name="no_encrypt_password">Nincs a titkosításhoz jelszó</string>
@@ -138,6 +154,8 @@
      <string name="notif_restore_complete_title">A visszaállítás befejeződött.</string>
      <string name="notif_restore_content">Felhasználói adatok visszaállítása</string>
      <string name="notif_restore_title">Adatok visszaállítása</string>
+     <string name="notif_trans_receiving_completed">Adatok fogadva</string>
+     <string name="notif_trans_sending_completed">Adatok elküldve</string>
      <string name="page_loading">Egy pillanat…</string>
      <string name="progress_backup_hint">Mentés folyamatban...</string>
      <string name="progress_restore_hint">Visszaállítás...</string>
@@ -146,6 +164,7 @@
      <string name="prompt_writing">Írás...</string>
      <string name="read_encrypt_fail">Titkosítás olvasása sikertelen</string>
      <string name="refresh">Frissítés</string>
+     <string name="remote_receive">Fogadás</string>
      <string name="restore">Visszaállítás</string>
      <string name="restore_backup">Visszaállítás</string>
      <string name="restore_contact">Névjegyek visszaállítása</string>
@@ -182,18 +201,17 @@
      <string name="select_storage_location">Mentés helyének kiválasztása</string>
      <string name="service_stoped">Folyamat megállítva</string>
      <string name="settings_summary">Telefon és üzenet beállítások</string>
+     <string name="size_byte">B</string>
+     <string name="size_giga_byte">GB</string>
+     <string name="size_kilo_byte">KB</string>
+     <string name="size_mega_byte">MB</string>
      <string name="sms_title">Üzenetek</string>
      <string name="software_backup_info">Alkalmazások és alkalmazásadatok mentése</string>
-     <string name="st_antispam_mode_blacklist_state">11112121</string>
-     <string name="st_antispam_mode_only_all_deny_state">10000000</string>
-     <string name="st_antispam_mode_only_contacts_state">11110000</string>
-     <string name="st_antispam_mode_only_whitelist_state">11000000</string>
-     <string name="st_antispam_mode_smart_state">11111111</string>
      <string name="start_backup">Mentés</string>
      <string name="start_restore">Visszaállítás</string>
-     <string name="state_mounting">Accessing router storage…</string>
+     <string name="state_mounting">Router tároló felcsatolása…</string>
      <string name="state_waiting">Egy pillanat…</string>
-     <string name="succeed">A mentés sikeres.</string>
+     <string name="succeed">Kész.</string>
      <string name="summary_err_backup_encrypting">Jelentkezzen be a Mi fiókba.</string>
      <string name="summary_err_backup_no_network">Nem sikerült csatlakozni a hálózathoz</string>
      <string name="summary_err_restore_encrypting">A visszaállítás nem sikerült. Győződjön meg róla, hogy a mentés a Mi fiókja használatával készült.</string>
@@ -228,11 +246,109 @@
      <string name="task_service_not_launched">A mentési folyamat nem indult el, kérem várjon!</string>
      <string name="task_stopped_exception">Feladat megszakítva</string>
      <string name="total_num">"%d tétel, "</string>
+     <string name="trans_backingup">Mentés …</string>
+     <string name="trans_backingup_no_items">Szinkronizálás…</string>
+     <string name="trans_calculating">Számítás…</string>
+     <string name="trans_calculating_app_sd_size">Méret számítása: %s</string>
+     <string name="trans_calculating_base_size">Alkalamzás méretének számítása</string>
+     <string name="trans_cancel_confirm">Az átköltözés folyamatban, megszakítja?</string>
+     <string name="trans_cancelling">Megszakítás…</string>
+     <string name="trans_connect_failed_message">Csatlakozás sikertelen, indítsa újra a készüléket majd indítsa el a Mi Movert vagy lépjen be a Beállítások > Rendszer > Átköltözés, Érintse meg az [Én vagyok a küldő] menüt, vagy futtassa újra az Átköltözést az újraindítás után</string>
+     <string name="trans_connect_failed_title">Csatlakozás sikertelen</string>
+     <string name="trans_connect_failed_toast">Nem sikerült a kapcsolódás</string>
+     <string name="trans_connecting_toast">Kapcsolódás…</string>
+     <string name="trans_connection_failed">Device disconnected</string>
+     <string name="trans_detail_category_account">Fiókok és névjegyek</string>
+     <string name="trans_detail_category_files">Fájlok</string>
+     <string name="trans_detail_category_sysdata">Rendszeradatok</string>
+     <string name="trans_detail_category_userdata">Alkalmazás</string>
+     <string name="trans_device_disconnected">Az eszköz leválasztva</string>
+     <string name="trans_generate_qr_code_failed">A QR-kód generálása sikertelen</string>
+     <string name="trans_main_tutor">Névjegyek, hívásnapló, üzenetek, képernyő elrendezés, alkalmazások, beállítások, stb. átköltözésre új eszközre</string>
+     <string name="trans_my_device">Készülékem</string>
+     <string name="trans_native_no_space">"Nincs elég szabad hely
+Szabadítson fel legalább %s tárhelyet"</string>
+     <string name="trans_one_key_migrate">Átköltözés</string>
+     <string name="trans_operate_func_one">A módszer</string>
+     <string name="trans_operate_func_two">B módszer</string>
+     <string name="trans_operate_new_phone_tips">"Lépjen be a Beállítások > Rendszer > Átköltözés menüpontba
+QR-kód generálásához érintse meg az [Én vagyok a fogadó] gombot"</string>
+     <string name="trans_operate_old_phone_tips1">"1. Telepítse a Transfer alkalmazást a régi készülékre
+2. Nyissa meg az alkalmazást és érintse meg a Start gombot
+3. Olvassa be a QR kódot a régi eszközével"</string>
+     <string name="trans_operate_old_phone_tips2">2.Lépjen be a Beállítások > Rendszer > Átköltözés menüpontba, Érintse meg az [Én vagyok a küldő] gombot</string>
+     <string name="trans_please_waiting">Egy pillanat…</string>
+     <string name="trans_progress_subdescript_br_receiver">%1$s fogadása, %2$s kész</string>
+     <string name="trans_progress_subdescript_br_sender">%1$s mentése, %2$s kész</string>
+     <string name="trans_progress_subdescript_br_sender_finish">%s mentve, küldésre vár…</string>
+     <!-- MNPS mismatch found! Translated: 1 Original: 2
+	%s: 1 Original: 2
+	%d: 0 Original: 0 -->
+     <!-- Original string: Receiving %1$s, %2$s completed -->
+     <string name="trans_progress_subdescript_transing_receiver">%s fogadása</string>
+     <string name="trans_progress_subdescript_transing_receiver_finish">%s fogadva, visszaállításra vár…</string>
+     <string name="trans_progress_subdescript_transing_sender">%1$s küldése, %2$s kész</string>
+     <string name="trans_progress_subdescript_transingsd_receiver">Fájlok fogadása, %s kész</string>
+     <string name="trans_progress_subdescript_transingsd_sender">Fájlok küldése, %s kész</string>
+     <string name="trans_progress_subdescript_transingsddata_receiver">%1$s SD kártya adatának fogadása, %2$s befejezve</string>
+     <string name="trans_progress_subdescript_transingsddata_sender">%1$s SD kártya adatának küldése, %2$s befejezve</string>
+     <string name="trans_progress_subdescript_waiting">Várakozás %s küldésére</string>
+     <string name="trans_receiver">Én vagyok a fogadó</string>
+     <string name="trans_receiver_time_remained">"%s van hátra.
+A készülék legyen feltöltve.
+Ne kapcsolja ki a Hotszpot-ot."</string>
+     <string name="trans_receiving_completed">Adatok fogadva</string>
+     <string name="trans_restoring">Visszaállítás…</string>
+     <string name="trans_restoring_no_items">Szinkronizálás</string>
+     <string name="trans_retry">Próbálja újra</string>
+     <string name="trans_scan_invalid_qrcode">Hibás QR-kód</string>
+     <string name="trans_scan_qr_code_tips">QR-kód olvasás az új készüléken</string>
+     <string name="trans_select_data">Adatok kiválasztása</string>
+     <string name="trans_select_data_no_space">"Nincs elég szabad hely az új készüléken.
+Válassza ki újra a fájlokat vagy szabadítson fel %s tárhelyet"</string>
+     <string name="trans_select_data_tips">"Válasszon elemeket az átköltözéshez
+A készüléken lévő hasonó fájlok az új eszközön felülíródnak"</string>
+     <string name="trans_select_device_receive">Válasszon egy eszközt az adatok fogadásához.</string>
+     <string name="trans_select_device_send">Válasszon egy eszközt az adatok átköltözéséshez.</string>
+     <string name="trans_sender">Én vagyok a küldő</string>
+     <string name="trans_sender_connectting">Megerősítés az új eszközön</string>
+     <string name="trans_sender_searching">Új eszközök keresése</string>
+     <string name="trans_sender_searching_ensurance">"Ellenőrizze, hogy a régi eszköz be van kapcsolva
+Várakozás a régi eszköz csatlakozására…"</string>
+     <string name="trans_sender_time_remained">"%s van hátra. A készülék legyen feltöltve.
+Ne kapcsolja ki a Wi-Fi-t."</string>
+     <string name="trans_sending_completed">Adatok elküldve</string>
+     <string name="trans_show_qr_code_label">Régi készülék csatlakozása</string>
+     <string name="trans_show_qr_code_tips">QR-kód olvasás a régi eszközzel</string>
+     <string name="trans_start_failed_message">Indítás sikertelen, próbálja újra vagy indítsa újra a készüléket</string>
+     <string name="trans_start_failed_title">Indítás sikertelen</string>
+     <string name="trans_time_format_second">Kevesebb, mint egy perce</string>
+     <string name="trans_time_remained">, készen áll</string>
+     <string name="trans_time_spent">"
+Eltöltött idő %s"</string>
+     <string name="trans_wait_trans_data">"Csatlakozás a régi eszközhöz.
+Várakozás az átköltözésre…"</string>
+     <string name="trans_waiting_ensurance">"Ellenőrizze, hogy a régi eszköz be van kapcsolva
+és az átköltözés engedélyezve van"</string>
+     <string name="trans_waiting_for_sender">Várakozás a régi eszköz csatlakozására…</string>
      <string name="unit_byte">byte</string>
      <string name="unit_piece">" db"</string>
      <string name="unknown_hint">Ismeretlen</string>
+     <string name="user_notice_declaration_ignore">Ne jelenlen meg újra</string>
+     <string name="user_notice_message">Néhány funkció megfelelő működéséhez internetkapcsolat szükséges.</string>
+     <string name="user_notice_title">Figyelmeztetés</string>
      <string name="wifi_title">Wi-Fi beállítások</string>
      <string name="xiaomi_account_type">com.xiaomi</string>
+     <string name="xiaomi_bytes_unit">%1$sB</string>
+     <string name="xiaomi_connect_download_manager_fail">A csatlakozás a letöltéskezelőhöz nem sikerült, ellenőrizze a Letöltéskezelő állapotát az Alkalmazáskezelésben.</string>
+     <string name="xiaomi_external_storage_unavailable">Tárhely nem elérhető, ellenőrizze az SD kártyát.</string>
+     <string name="xiaomi_kilobytes_unit">%1$sKB</string>
+     <string name="xiaomi_megabytes_unit">%1$sMB</string>
      <string name="xiaomi_router">Mi Router</string>
      <string name="xiaomi_router_location">Mi Router %s</string>
+     <string name="xiaomi_update_dialog_message">"Verzió %1$s
+Méret: %2$s"</string>
+     <string name="xiaomi_update_dialog_message_diff">"Verzió %1$s
+Frissítés mérete: %2$s"</string>
+     <string name="xiaomi_update_dialog_title">Új verzió elérhető!</string>
 </resources>

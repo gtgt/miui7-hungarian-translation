@@ -1,51 +1,73 @@
 <?xml version="1.0" encoding="utf-8"?>
+<!-- Parsed by jbart3h -->
 <resources>
-    <string-array name="cache_sort_type">
-        <item>Méret</item>
-        <item>Név</item>
-    </string-array>
-    <string-array name="large_file_sort_type">
-        <item>Méret</item>
-        <item>Név</item>
-    </string-array>
-    <string-array name="installed_app_sort_type">
-        <item>Gyakran használt</item>
-        <item>Méret</item>
-    </string-array>
-    <string-array name="auto_clean_time">
-        <item>Mindennap</item>
-        <item>3 naponta</item>
-        <item>Hetente</item>
-    </string-array>
-    <string-array name="auto_clean_size">
+     <string-array name="apk_clean_menu">
+        <item>Tisztítás</item>
+        <item>Alkalmazás telepítése</item>
+        <item>Megtekintés mappában</item>
+        <item>Kivételekhez adás</item>
+     </string-array>
+     <string-array name="app_clean_menu">
+        <item>Eltávolítás</item>
+     </string-array>
+     <string-array name="auto_alert_apps_time">
+        <item>7 naponta</item>
+        <item>15 naponta</item>
+        <item>30 naponta</item>
+     </string-array>
+     <string-array name="auto_clean_size">
         <item>100MB</item>
         <item>300MB</item>
         <item>500MB</item>
         <item>1GB</item>
-    </string-array>
-    <string-array name="auto_process_mode">
+     </string-array>
+     <string-array name="auto_clean_time">
+        <item>Mindennap</item>
+        <item>3 naponta</item>
+        <item>Hetente</item>
+     </string-array>
+     <string-array name="auto_process_mode">
         <item>Mutassa</item>
-        <item>Ne mutassaTisztítás a háttérben</item>
-        <item>Ut ána mutassa</item>
-    </string-array>
-    <string-array name="cache_clean_menu">
+        <item>Ne mutassa</item>
+        <item>Utána mutassa</item>
+     </string-array>
+     <string-array name="cache_clean_menu">
         <item>Tisztítás</item>
         <item>Fájl</item>
-        <item>Kivétel</item>
-    </string-array>
-    <string-array name="empty_floder_clean_menu">
+     </string-array>
+     <string-array name="cache_sort_type">
+        <item>Méret</item>
+        <item>Név</item>
+     </string-array>
+     <string-array name="empty_floder_clean_menu">
         <item>Tisztítás</item>
-    </string-array>
-    <string-array name="apk_clean_menu">
+     </string-array>
+     <string-array name="installed_app_sort_type">
+        <item>Gyakran használt</item>
+        <item>Méret</item>
+     </string-array>
+     <string-array name="large_file_sort_type">
+        <item>Méret</item>
+        <item>Név</item>
+     </string-array>
+     <string-array name="long_add_app_menu">
+        <item>Alkalmazás hozzáadása a kivételekhez</item>
+     </string-array>
+     <string-array name="long_add_menu">
+        <item>Kivételekhez adás</item>
+     </string-array>
+     <string-array name="scan_engine">
+        <item>Clean Master</item>
+        <item>Tencent</item>
+     </string-array>
+     <string-array name="trash_clean_menu">
         <item>Tisztítás</item>
         <item>Fájl</item>
-        <item>Kivétel</item>
-        <item>Telepítés</item>
-    </string-array>
-    <string-array name="app_clean_menu">
-        <item>Részletek</item>
-        <item>Fájl</item>
-        <item>Mentés és eltávolítás</item>
-        <item>Eltávolítás</item>
-    </string-array>
+        <item>Fájl hozzáadása a kivételekhez</item>
+     </string-array>
+     <string-array name="video_clean_menu">
+        <item>Fájl törlése</item>
+        <item>Megnyitás</item>
+        <item>Fájl kivételekhez adása</item>
+     </string-array>
 </resources>

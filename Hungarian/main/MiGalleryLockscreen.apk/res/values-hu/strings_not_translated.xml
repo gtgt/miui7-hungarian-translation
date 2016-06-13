@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Parsed by jbart3h -->
+<resources>
+     <string name="at_least_one">Choose at least one category</string>
+     <string name="auto_interval">Auto</string>
+     <string name="summary">"By using this feature, you're agreeing to our &lt;a href ='http://www.miui.com/res/doc/eula.html?lang=en_US'>User Agreement&lt;/a> and &lt;a href='http://www.miui.com/res/doc/privacy/en.html'>Privacy Policy&lt;/a>. This feature needs to connect to the internet to work normally."</string>
+</resources>

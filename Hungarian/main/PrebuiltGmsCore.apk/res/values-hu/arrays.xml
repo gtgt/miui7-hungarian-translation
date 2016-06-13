@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Parsed by jbart2a -->
+<!-- Parsed by jbart3h -->
 <resources>
      <string-array name="add_a_place_categories">
         <item>Bár</item>
@@ -29,6 +29,36 @@
         <item>grocery_or_supermarket</item>
         <item>other</item>
      </string-array>
+     <string-array name="auth_device_management_download_description">
+        <item>@string/auth_device_management_download_description</item>
+        <item>@string/auth_device_management_download_description</item>
+        <item>@string/auth_device_management_download_description_kids</item>
+     </string-array>
+     <string-array name="auth_device_management_download_failed_message">
+        <item>@string/auth_device_management_download_failed_message</item>
+        <item>@string/auth_device_management_download_failed_message_nonskippable</item>
+        <item>@string/auth_device_management_download_failed_message_nonskippable</item>
+     </string-array>
+     <string-array name="auth_device_management_download_skip_confirm">
+        <item>@string/auth_device_management_download_skip_confirm</item>
+        <item>@string/auth_device_management_download_skip_nonskippable</item>
+        <item>@string/auth_device_management_download_skip_nonskippable</item>
+     </string-array>
+     <string-array name="auth_device_management_download_skip_message">
+        <item>@string/auth_device_management_download_skip_message</item>
+        <item>@string/auth_device_management_download_skip_message_nonskippable</item>
+        <item>@string/auth_device_management_download_skip_message_nonskippable</item>
+     </string-array>
+     <string-array name="auth_device_management_start_description">
+        <item>@string/auth_device_management_start_description</item>
+        <item>@string/auth_device_management_start_description</item>
+        <item>@string/auth_device_management_start_description_kids</item>
+     </string-array>
+     <string-array name="auth_device_management_update_description">
+        <item>@string/auth_device_management_update_description</item>
+        <item>@string/auth_device_management_update_description</item>
+        <item>@string/auth_device_management_update_description_kids</item>
+     </string-array>
      <string-array name="auth_gls_passwordStrength">
         <item>gyenge</item>
         <item>közepes</item>
@@ -41,6 +71,14 @@
         <item>#ff6699ff</item>
         <item>#ff99cc00</item>
      </array>
+     <string-array name="auth_gls_security_questions">
+        <item>Válasszon egy biztonsági kérdést</item>
+        <item>Első telefonszáma?</item>
+        <item>Mi gyermekkori legjobb barátja neve?</item>
+        <item>Első tanárának neve?</item>
+        <item>Főnöke neve az első munkahelyén?</item>
+        <item>Járműve rendszáma?</item>
+     </string-array>
      <string-array name="auth_google_play_email_opt_in">
         <item>be</item>
         <item>bg</item>
@@ -84,22 +122,52 @@
      <string-array name="auth_setup_wizard_services_agreement">
         <item>@string/auth_setup_wizard_services_agreement</item>
         <item>@string/auth_kids_setup_wizard_services_agreement</item>
+        <item>@string/auth_setup_wizard_services_agreement</item>
      </string-array>
      <string-array name="auth_setup_wizard_services_backup">
         <item>@string/auth_setup_wizard_services_backup</item>
         <item>@string/auth_kids_setup_wizard_services_backup</item>
+        <item>@string/auth_sw_setup_wizard_services_backup</item>
+     </string-array>
+     <string-array name="auth_setup_wizard_services_backup_dialog_text">
+        <item>@string/auth_setup_wizard_services_backup_dialog_text</item>
+        <item>@string/auth_kids_setup_wizard_services_backup_dialog_text</item>
+        <item>@string/auth_sw_setup_wizard_services_backup_dialog_text</item>
      </string-array>
      <string-array name="auth_setup_wizard_services_description">
         <item>@string/auth_setup_wizard_services_description</item>
         <item>@string/auth_kids_setup_wizard_services_description</item>
+        <item>@string/auth_setup_wizard_services_description</item>
      </string-array>
      <string-array name="auth_setup_wizard_services_description_account">
         <item>@string/auth_setup_wizard_services_description_account</item>
         <item>@string/auth_kids_setup_wizard_services_description_account</item>
+        <item>@string/auth_setup_wizard_services_description_account</item>
+     </string-array>
+     <string-array name="auth_setup_wizard_services_location_sharing">
+        <item>@string/auth_setup_wizard_services_location_sharing</item>
+        <item>@string/auth_kids_setup_wizard_services_location_sharing</item>
+        <item>@string/auth_setup_wizard_services_location_sharing</item>
+     </string-array>
+     <string-array name="auth_setup_wizard_services_location_sharing_dialog_text">
+        <item>@string/auth_setup_wizard_services_location_sharing_dialog_text</item>
+        <item>@string/auth_kids_setup_wizard_services_location_sharing_dialog_text</item>
+        <item>@string/auth_setup_wizard_services_location_sharing_dialog_text</item>
+     </string-array>
+     <string-array name="auth_setup_wizard_services_play">
+        <item>@string/auth_setup_wizard_services_play</item>
+        <item>@string/auth_setup_wizard_services_play</item>
+        <item>@string/auth_sw_setup_wizard_services_play</item>
      </string-array>
      <string-array name="auth_setup_wizard_services_usage_reporting">
         <item>@string/auth_setup_wizard_services_usage_reporting</item>
         <item>@string/auth_kids_setup_wizard_services_usage_reporting</item>
+        <item>@string/auth_setup_wizard_services_usage_reporting</item>
+     </string-array>
+     <string-array name="auth_setup_wizard_services_usage_reporting_dialog_text">
+        <item>@string/auth_setup_wizard_services_usage_reporting_dialog_text</item>
+        <item>@string/auth_kids_setup_wizard_services_usage_reporting_dialog_text</item>
+        <item>@string/auth_setup_wizard_services_usage_reporting_dialog_text</item>
      </string-array>
      <string-array name="auth_trust_agent_trusted_devices_add_device_options_no_bt">
         <item>NFC</item>
@@ -110,6 +178,7 @@
      <string-array name="car_app_mode_labels">
         <item>Kiadásra</item>
         <item>Fejlesztői</item>
+        <item>Kiskereskedelem</item>
         <item>Demó</item>
      </string-array>
      <string-array name="car_app_mode_values">
@@ -119,17 +188,21 @@
         <item>Demo</item>
      </string-array>
      <string-array name="car_error_user_friendly">
-        <item>A telefon és az autó egymással nem kompatibilis szoftvereket futtat. Frissítse mindkettőt a legújabb verzióra.</item>
+        <item>A telefon és az autó egymással nem kompatibilis szoftvereket futtat. A részletekkel kapcsolatban nyissa meg a következő webhelyet: &lt;a href="android.com/auto">android.com/auto&lt;/a></item>
         <item>Az autó helytelen hang- és/vagy videobeállítási készletet hirdetett meg.</item>
-        <item>Az USB-kapcsolat meghibásodott. Ellenőrizze, hogy a vezeték szorosan illeszkedik-e mindkét végén, illetve próbáljon másik vezetéket használni. Ellenőrizze azt is, hogy helyesen állította-e be a dátumot és időt a fejegységen és a telefonján.</item>
-        <item>A fejegység kérelmezte a munkamenet megszüntetését.</item>
-        <item>A munkamenet a kérés szerint megszüntetve.</item>
-        <item>Az autó váratlan üzenetet küldött. A fejegység szoftvere elavult lehet.</item>
-        <item>Úgy tűnik, hogy egy jogosulatlan fejegységet próbált csatlakoztatni.</item>
-        <item>Az autó szerint Ön nem rendelkezik jogosultsággal. Kérjük, ellenőrizze fejegységén a dátumot és időt. Arról is győződjön meg, hogy a kód legfrissebb verzióját futtatja.</item>
+        <item>"Az USB-kapcsolat nem működik megfelelően. Próbálkozzon a következőkkel: 
+
+• Győződjön meg róla, hogy a kábel mindkét vége jól van bedugva. 
+•Győződjön meg róla, hogy adatátvitelre szolgáló USB-kábelt használ. 
+•Győződjön meg róla, hogy a dátum és az idő az autón és a telefonján is helyesen van beállítva."</item>
+        <item>Az autó leállította az Android Auto futtatását.</item>
+        <item>Az Android Auto-munkamenet – kérésének megfelelően – leállt.</item>
+        <item>Előfordulhat, hogy az autó szoftvere elavult. Részletes információkért és ügyfélszolgálati támogatásért forduljon a gyártóhoz.</item>
+        <item>Autója szoftvere nem felelt meg az Android Auto biztonsági ellenőrzésén. Részletes információkért és ügyfélszolgálati támogatásért forduljon a gyártóhoz.</item>
+        <item>Autója szoftvere nem felelt meg az Android Auto biztonsági ellenőrzésén. Győződjön meg róla, hogy az autón helyesen van beállítva a dátum és az idő, továbbá hogy az Android Auto frissítve van.</item>
         <item>Egy művelet időtúllépést ért el. Egy hibajelentést és egy visszajelző fájlt kell kapnia.</item>
         <item>Úgy tűnik, hogy Önnél nincs telepítve indító. Helyesek a telefonja beállításai?</item>
-        <item>A grafikus adatcsatorna éppen szétesett. Egy hibajelentést és egy visszajelző fájlt kell kapnia.</item>
+        <item>A grafikus adatcsatorna szétesett. Egy hibajelentést és egy visszajelző fájlt kell kapnia.</item>
         <item>Az autó nem reagál a telefontól érkező üzenetekre. Lehetséges, hogy az autó nem a megfelelő állapotban van.</item>
      </string-array>
      <string-array name="cast_mime_types">
@@ -457,21 +530,24 @@
         <item>260,ZM</item>
         <item>263,ZW</item>
      </string-array>
-     <string-array name="gh_google_play_package_names">
-        <item>com.android.vending</item>
+     <string-array name="location_sharing_edit_share_duration_array">
+        <item>Megosztás megszüntetése</item>
+        <item>15 perc</item>
+        <item>30 perc</item>
+        <item>1 óra</item>
+        <item>Határozatlan</item>
+     </string-array>
+     <string-array name="location_sharing_link_edit_share_duration_array">
+        <item>Megosztás megszüntetése</item>
+        <item>15 perc</item>
+        <item>30 perc</item>
+        <item>1 óra</item>
      </string-array>
      <string-array name="location_sharing_minutes_array">
         <item>0</item>
         <item>15</item>
         <item>30</item>
         <item>45</item>
-     </string-array>
-     <string-array name="location_sharing_share_duration_array">
-        <item>15 perc</item>
-        <item>30 perc</item>
-        <item>1 óra</item>
-        <item>8 óra</item>
-        <item>Határozatlan</item>
      </string-array>
      <string-array name="photo_connection_preference_entry_labels">
         <item>@string/photo_connection_wifi_and_mobile</item>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Parsed by jbart2a -->
+<!-- Parsed by jbart3h -->
 <resources>
      <string name="abc_action_bar_home_description">Ugrás a főoldalra</string>
      <string name="abc_action_bar_home_description_format">%1$s, %2$s</string>
@@ -9,6 +9,9 @@
      <string name="abc_action_mode_done">Kész</string>
      <string name="abc_activity_chooser_view_see_all">Összes megtekintése</string>
      <string name="abc_activitychooserview_choose_application">Válasszon ki egy alkalmazást</string>
+     <string name="abc_capital_off">KI</string>
+     <string name="abc_capital_on">BE</string>
+     <string name="abc_search_hint">Keresés…</string>
      <string name="abc_searchview_description_clear">Lekérdezés törlése</string>
      <string name="abc_searchview_description_query">Keresési lekérdezés</string>
      <string name="abc_searchview_description_search">Keresés</string>
@@ -16,9 +19,9 @@
      <string name="abc_searchview_description_voice">Hangalapú keresés</string>
      <string name="abc_shareactionprovider_share_with">Megosztás a következővel:</string>
      <string name="abc_shareactionprovider_share_with_application">Megosztás a következővel: %s</string>
-     <string name="abc_toolbar_collapse_description">Collapse</string>
+     <string name="abc_toolbar_collapse_description">Összecsukás</string>
      <string name="accept">Elfogadás</string>
-     <string name="account_item">Váltás erre a fiókra: %1$s</string>
+     <string name="account_item">Váltás erre: %1$s</string>
      <string name="account_label">Fiók</string>
      <string name="account_list">Fióklista</string>
      <string name="acl_list_title">Kinek van hozzáférése</string>
@@ -29,6 +32,7 @@
      <string name="acl_public_share_note">Megjegyzés: azok a személyek, akikkel megosztotta ezt a nyomtatót, a nyomtató nyilvános felhasználói lesznek – ha később magánnyomtatóként állítja be, ismét meg kell majd osztania velük.</string>
      <string name="acl_role_description_manager">Kezelheti</string>
      <string name="acl_role_description_none">Nincs hozzáférés</string>
+     <string name="acl_role_description_owner">Tulajdonos</string>
      <string name="acl_role_description_user">Nyomtathat</string>
      <string name="add_account">Fiók hozzáadása</string>
      <string name="add_people_acl_entry_hint">Személyek hozzáadása…</string>
@@ -39,6 +43,8 @@
      <string name="adding_printer">Nyomtató hozzáadása…</string>
      <string name="app_name">Cloud Print</string>
      <string name="apply">Alkalmaz</string>
+     <string name="auth_google_play_services_client_facebook_display_name">Facebook</string>
+     <string name="auth_google_play_services_client_google_display_name">Google</string>
      <string name="cancel">Mégse</string>
      <string name="cdd_collate">Leválogatás</string>
      <string name="cdd_color">Színes</string>
@@ -63,9 +69,12 @@
      <string name="cdd_option_fit_to_page_grow">Oldalhoz nagyítás</string>
      <string name="cdd_option_fit_to_page_none">Egy sem</string>
      <string name="cdd_option_fit_to_page_shrink">Oldalhoz kicsinyítés</string>
+     <string name="cdd_option_margin_borderless">Szegély nélküli</string>
      <string name="cdd_option_margin_bottom">Alulra</string>
+     <string name="cdd_option_margin_custom">Egyéni</string>
      <string name="cdd_option_margin_left">Balra</string>
      <string name="cdd_option_margin_right">Jobbra</string>
+     <string name="cdd_option_margin_standard">Normál</string>
      <string name="cdd_option_margin_top">Az oldal tetejére</string>
      <string name="cdd_option_media_size">%1$dx%2$d mm</string>
      <string name="cdd_option_orientation_auto">Automatikus</string>
@@ -75,31 +84,35 @@
      <string name="cdd_page_range">Oldaltartomány</string>
      <string name="cdd_reverse">Fordított sorrend</string>
      <string name="close">Bezárás</string>
-     <string name="common_android_wear_notification_needs_update_text">Egy alkalmazás az Android Wear-alkalmazás frissítését igényli.</string>
-     <string name="common_android_wear_update_text">Ez az alkalmazás nem működik, amíg nem frissíti az Android Wear-alkalmazást.</string>
+     <string name="common_android_wear_notification_needs_update_text">A(z) %1$s alkalmazás az Android Wear alkalmazás frissítését igényli.</string>
+     <string name="common_android_wear_update_text">A(z) %1$s alkalmazás csak az Android Wear alkalmazás frissítését követően fog működni.</string>
      <string name="common_android_wear_update_title">Az Android Wear frissítése</string>
+     <string name="common_google_play_services_api_unavailable_text">A(z) %1$s alkalmazásnak szüksége van egy vagy több, jelenleg nem elérhető Google Play-szolgáltatásra. További segítségért vegye fel a kapcsolatot a fejlesztővel.</string>
      <string name="common_google_play_services_enable_button">Play-szolgáltatások aktiválása</string>
-     <string name="common_google_play_services_enable_text">Az alkalmazás csak akkor fog működni, ha engedélyezi a Google Play-szolgáltatásokat.</string>
+     <string name="common_google_play_services_enable_text">A(z) %1$s alkalmazás csak akkor működik, ha Ön engedélyezi a Google Play-szolgáltatásokat.</string>
      <string name="common_google_play_services_enable_title">Google Play-szolgáltatások aktiválása</string>
      <string name="common_google_play_services_error_notification_requested_by_msg">A(z) %1$s kérésére</string>
      <string name="common_google_play_services_install_button">Play-szolgáltatások telepítése</string>
-     <string name="common_google_play_services_install_text_phone">Az alkalmazás működéséhez a Google Play-szolgáltatások szükségesek, ezek nincsenek telepítve a telefonon.</string>
-     <string name="common_google_play_services_install_text_tablet">Az alkalmazás működéséhez a Google Play-szolgáltatások szükségesek, ezek nincsenek telepítve a táblagépen.</string>
+     <string name="common_google_play_services_install_text_phone">A(z) %1$s alkalmazás nem fut a Google Play-szolgáltatások nélkül, amelyek hiányoznak a telefonjáról.</string>
+     <string name="common_google_play_services_install_text_tablet">A(z) %1$s alkalmazás nem fut a Google Play-szolgáltatások nélkül, amelyek hiányoznak a táblagépéről.</string>
      <string name="common_google_play_services_install_title">Play-szolgáltatások telepítése</string>
      <string name="common_google_play_services_invalid_account_text">A megadott fiók nem létezik ezen az eszközön. Kérjük, válasszon másik fiókot.</string>
      <string name="common_google_play_services_invalid_account_title">Érvénytelen fiók</string>
      <string name="common_google_play_services_needs_enabling_title">Egy alkalmazás Google Play-szolgáltatások engedélyezését kéri.</string>
      <string name="common_google_play_services_network_error_text">A Google Play-szolgáltatásokhoz történő kapcsolódáshoz adatkapcsolat szükséges.</string>
      <string name="common_google_play_services_network_error_title">Hálózati hiba</string>
-     <string name="common_google_play_services_notification_needs_installation_title">Egy alkalmazás Google Play-szolgáltatások telepítését kéri.</string>
      <string name="common_google_play_services_notification_needs_update_title">Egy alkalmazás Google Play-szolgáltatások frissítését kéri.</string>
      <string name="common_google_play_services_notification_ticker">Google Play-szolgáltatások – hiba</string>
+     <string name="common_google_play_services_sign_in_failed_text">Hiba a megadott fiókba való bejelentkezéskor. Kérjük, válasszon egy másik fiókot.</string>
+     <string name="common_google_play_services_sign_in_failed_title">Sikertelen bejelentkezés</string>
      <string name="common_google_play_services_unknown_issue">Ismeretlen hiba a Google Play-szolgáltatásokban.</string>
-     <string name="common_google_play_services_unsupported_text">A Google Play-szolgáltatásokat, amelyre egyes alkalmazások támaszkodnak, nem támogatja az eszköz. Segítségért forduljon az eszköz gyártójához.</string>
+     <string name="common_google_play_services_unsupported_text">A(z) %1$s használatához olyan Google Play-szolgáltatásokra lesz szüksége, amelyeket eszköze nem támogat. Ha segítségre van szüksége, lépjen kapcsolatba a gyártóval.</string>
      <string name="common_google_play_services_unsupported_title">Google Play-szolgáltatások</string>
      <string name="common_google_play_services_update_button">Frissítés</string>
-     <string name="common_google_play_services_update_text">Az alkalmazás csak akkor fog működni, ha frissíti a Google Play-szolgáltatásokat.</string>
+     <string name="common_google_play_services_update_text">A(z) %1$s alkalmazás csak akkor fog működni, ha frissíti a Google Play-szolgáltatásokat.</string>
      <string name="common_google_play_services_update_title">Play-szolgáltatások frissítése</string>
+     <string name="common_google_play_services_updating_text">A(z) %1$s alkalmazás nem fut a Google Play-szolgáltatások nélkül, amelyek éppen frissülnek.</string>
+     <string name="common_google_play_services_updating_title">A Google Play-szolgáltatások frissülnek</string>
      <string name="common_open_on_phone">Megnyitás a telefonon</string>
      <string name="common_signin_button_text">Belépés</string>
      <string name="common_signin_button_text_long">Google-bejelentkezés</string>
@@ -114,8 +127,6 @@
      <string name="could_not_resolve_content_type">Nem sikerült elindítani a Cloud Print szolgáltatást: ismeretlen fájltípus</string>
      <string name="could_not_start">Nem sikerült elindítani a Cloud Print szolgáltatást.</string>
      <string name="could_not_start_unknown_intent">Nem sikerült elindítani a Cloud Print szolgáltatást: ismeretlen művelet</string>
-     <string name="create_calendar_message">Allow Ad to create a calendar event?</string>
-     <string name="create_calendar_title">Create calendar event</string>
      <string name="currently_offline">Jelenleg offline</string>
      <string name="decline">Elutasítás</string>
      <string name="default_document_title">Névtelen</string>
@@ -158,8 +169,10 @@ Hiba: %1$s"</string>
 Hiba: %2$s"</string>
      <string name="failure_msg_format_printer_update">"Nem sikerült frissíteni a nyomtatót. 
 Hiba: %1$s"</string>
+     <string name="failure_msg_insufficient_memory">Nincs elég memória a dokumentum feldolgozásához. Próbálja meg kisebb felbontással kinyomtatni.</string>
      <string name="failure_msg_internal_error">Belső alkalmazáshiba</string>
      <string name="failure_msg_out_of_memory">Nincs elég memória</string>
+     <string name="failure_msg_print_document_conversion">Nem sikerült átalakítani a dokumentumot nyomtatható formátumba.</string>
      <string name="failure_msg_printer_lookup">Nem sikerült betölteni a nyomtatófunkciókat</string>
      <string name="failure_msg_printer_missing">A nyomtató hiányzik</string>
      <string name="failure_msg_privet_register_pending_user_action">Függőben lévő felhasználói művelet</string>
@@ -179,17 +192,20 @@ Hiba: %1$s"</string>
      <string name="invitation_processing_failed">A meghívót nem tudtuk feldolgozni</string>
      <string name="invitation_will_be_processed_in_background">Meghívás feldolgozása</string>
      <string name="invitations_load_failure">Nem sikerült betölteni a meghívók listáját.</string>
+     <string name="invited_by_label">A meghívót küldte:</string>
      <string name="job_section_held">Nyomtatásra kész</string>
      <string name="job_section_other">Egyéb</string>
      <string name="local_device_registration_title">Eszközregisztráció</string>
      <string name="local_discovery">Helyi keresés</string>
      <string name="local_discovery_off_message">Kapcsolódjon Wi-Fi-hálózathoz a bekapcsolásához</string>
+     <string name="local_printer_display_name_format">%s (local)</string>
      <string name="long_desc_virtual_print_queue_feature">Dokumentumait elmentheti, és később kinyomtathatja azokat mobiljáról. Ha bekapcsolja a Bluetooth-keresést, a nyomtatáshoz elég, ha megközelít egy nyomtatót.</string>
      <string name="manage_accounts">Fiókok kezelése</string>
      <string name="manage_acl_permission">Engedélyek kezelése</string>
      <string name="menu_hint_search_printers">Nyomtatók keresése</string>
      <string name="no_accounts_message">A Cloud Print használatához adjon hozzá eszközéhez egy Google-fiókot</string>
-     <string name="no_devices_to_add">Nincs hozzáadható nyomtató</string>
+     <string name="no_advanced_options_message_title">Nincsenek speciális beállítások</string>
+     <string name="no_devices_to_add">Nincs hozzáadható</string>
      <string name="offline_more_than_a_month">Több mint egy hónapja offline</string>
      <string name="offline_more_than_a_week">Több mint egy hete offline</string>
      <string name="offline_more_than_a_year">Több mint egy éve offline</string>
@@ -198,19 +214,21 @@ Hiba: %1$s"</string>
      <string name="page_2">2</string>
      <string name="play_store_description">"Töltse le a hivatalos Google Cloud Print alkalmazás legújabb kiadását. Az androidos Cloud Print alkalmazással: 
 
-– Bármely kompatibilis Android-eszközzel nyomtathat a Google Cloud Print szolgáltatáshoz csatlakoztatott nyomtatókra 
-– Közvetlenül oszthat meg az alkalmazásokból – például a Galériából – képet vagy dokumentumot a Cloud Print szolgáltatással 
-– Nyomon követheti nyomtatási feladatok állapotát 
-– Feldolgozhatja a nyomtatómeghívókat. Az e-mailben érkező meghívólinkeket a Cloud Print szolgáltatásban nyithatja meg 
-– Új Cloud-kompatibilis nyomtatókat kereshet és regisztrálhat a helyi hálózaton* 
+– Bármely kompatibilis Android-eszközzel nyomtathat a Google Cloud Print szolgáltatáshoz csatlakoztatott nyomtatókra. 
+– Közvetlenül oszthat meg az alkalmazásokból – például a Galériából – képet vagy dokumentumot a Cloud Print szolgáltatással. 
+– Nyomon követheti a nyomtatási feladatok állapotát. 
+– Feldolgozhatja a nyomtatómeghívókat. Az e-mailben érkező meghívólinkeket a Cloud Print szolgáltatásban nyithatja meg. 
+– Új Cloud-kompatibilis nyomtatókat kereshet és regisztrálhat a helyi hálózaton.* 
 
  Még soha nem volt ilyen könnyű az Android-eszközökről való nyomtatás. 
 
- A Google Cloud Print alkalmazás az Android KitKat verzió esetében nyomtató plug-in, az Android korábbi verziói esetében pedig önálló alkalmazás. Ha KitKat rendszerűre frissíti eszközét, előfordulhat, hogy manuálisan kell eltávolítania az ikont. 
-*Nem mindegyik modell támogatja a helyi keresést: a részletesebb információkkal kapcsolatban tájékozódjon nyomtatója telepítési útmutatójából"</string>
-     <string name="play_store_tagline">Nyomtathat androidos táblagépekről vagy okostelefonokról, bárhol is legyen.</string>
+ A Google Cloud Print alkalmazás az Android KitKat verzió esetében egy beépülő modul, az Android korábbi verziói esetében pedig önálló alkalmazás. Ha a KitKat rendszerre frissíti eszközét, előfordulhat, hogy manuálisan kell eltávolítania az ikont. 
+*Nem mindegyik modell támogatja a helyi keresést: a részletesebb információkkal kapcsolatban tájékozódjon nyomtatója telepítési útmutatójából."</string>
+     <string name="play_store_tagline">Bárhonnan nyomtathat androidos táblagépről vagy okostelefonról.</string>
      <string name="play_store_whats_new">"
-– Hibajavítás"</string>
+– Támogatást nyújt a Google Cloud Print 2.0-val kompatibilis nyomtatók számára (illesztőprogram nélküli helyi nyomtatás, egyszerű beállítás) 
+– Nyomtatástámogatási funkciókat biztosít (Beállítások > Nyomtatás > Cloud Print > „Beállítások” menü > Nyomtatók kezelése) 
+– Hibajavítások és kezelőfelületi fejlesztések"</string>
      <string name="please_confirm_registration_on_device">Regisztráció megerősítése az eszközön</string>
      <string name="pref_about">Névjegy</string>
      <string name="pref_about_url">http://www.google.com/cloudprint/learn</string>
@@ -247,7 +265,7 @@ Hiba: %1$s"</string>
      <string name="print">Nyomtatás</string>
      <string name="print_job_deleted">%1$s törölve</string>
      <string name="print_job_deleted_multiple">%1$d nyomtatási feladat törölve</string>
-     <string name="print_queue_empty">Nincs nyomtatási feladat</string>
+     <string name="print_queue_empty">Nincs feladat</string>
      <string name="print_queue_load_failure">Nem sikerült betölteni a nyomtatási feladatokat.</string>
      <string name="printer_added_format">Hozzáadva a következő: %1$s</string>
      <string name="printer_available_to_everyone">Bárki számára elérhető</string>
@@ -307,11 +325,12 @@ Hiba: %1$s"</string>
      <string name="save">Mentés</string>
      <string name="search">Keresés</string>
      <string name="select_file">Fájl kiválasztása</string>
-     <string name="selected_account">Bejelentkezve ide: %1$s</string>
+     <string name="selected_account">Bejelentkezve ebbe: %1$s</string>
      <string name="share_public_url">A nyomtató URL-jének megosztása</string>
      <string name="sharing_toast">Megosztás…</string>
      <string name="show_account_list">Fiókok megjelenítése</string>
      <string name="sign_in">Bejelentkezés</string>
+     <string name="status_bar_notification_info_overflow">999+</string>
      <string name="status_done">Nyomtatva</string>
      <string name="status_error">Hiba</string>
      <string name="status_expired">Lejárt</string>
@@ -320,12 +339,11 @@ Hiba: %1$s"</string>
      <string name="status_queued">Sorba állítva</string>
      <string name="status_sending">Küldés...</string>
      <string name="status_submitted">Elküldve</string>
-     <string name="store_picture_message">Allow Ad to store image in Picture gallery?</string>
-     <string name="store_picture_title">Save image</string>
      <string name="subtitle_print_preview_multiple_documents">Több dokumentum</string>
      <string name="success_msg">Sikeres</string>
      <string name="text_learn_more">&lt;a href=\"http://goto.google.com/on-the-go\">További információ&lt;/a></string>
      <string name="title_add_printer">Nyomtató hozzáadása</string>
+     <string name="title_advanced_print_options">Speciális nyomtatási beállítások</string>
      <string name="title_invitations">Meghívók</string>
      <string name="title_manage_printer">Nyomtató kezelése</string>
      <string name="title_manage_printers">Nyomtatók kezelése</string>
@@ -349,5 +367,4 @@ Hiba: %1$s"</string>
      <string name="virtual_print_queue_notification_select_printer_button_text">A nyomtatáshoz válasszon egy nyomtatót</string>
      <string name="virtual_print_queue_notification_short_description_multiple_jobs">%1$d dokumentum várakozik</string>
      <string name="virtual_print_queue_notification_short_description_single_job">1 dokumentum várakozik</string>
-     <string name="wallet_buy_button_place_holder">Buy with Google</string>
 </resources>

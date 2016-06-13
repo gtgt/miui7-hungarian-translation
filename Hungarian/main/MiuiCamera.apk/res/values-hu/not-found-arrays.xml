@@ -7,7 +7,7 @@
         <item>@string/pref_video_quality_entry_480p</item>
     </string-array>
     <string-array name="pref_video_quality_entryvalues">
-        <item>12</item>
+        <item>@string/pref_video_quality_entry_value_4kuhd</item>
         <item>6</item>
         <item>5</item>
         <item>4</item>
@@ -127,6 +127,16 @@
         <item>@string/pref_camera_jpegquality_value_high</item>
         <item>@string/pref_camera_jpegquality_value_normal</item>
         <item>@string/pref_camera_jpegquality_value_low</item>
+    </string-array>
+    <string-array name="pref_camera_snap_entries">
+        <item>@string/pref_camera_snap_entry_take_picture</item>
+        <item>@string/pref_camera_snap_entry_take_movie</item>
+        <item>@string/pref_camera_snap_entry_off</item>
+    </string-array>
+    <string-array name="pref_camera_snap_entryvalues">
+        <item>@string/pref_camera_snap_value_take_picture</item>
+        <item>@string/pref_camera_snap_value_take_movie</item>
+        <item>@string/pref_camera_snap_value_off</item>
     </string-array>
     <string-array name="pref_camera_focusmode_entries">
         <item>@string/pref_camera_focusmode_entry_auto</item>
@@ -272,9 +282,13 @@
         <item>touch-off</item>
     </string-array>
     <string-array name="pref_camera_contrast_entries">
+        <item>@string/pref_camera_multilevel_entry_lowest</item>
+        <item>@string/pref_camera_multilevel_entry_lower</item>
         <item>@string/pref_camera_multilevel_entry_low</item>
-        <item>@string/pref_camera_multilevel_entry_middle</item>
+        <item>@string/pref_camera_multilevel_entry_normal</item>
         <item>@string/pref_camera_multilevel_entry_high</item>
+        <item>@string/pref_camera_multilevel_entry_higher</item>
+        <item>@string/pref_camera_multilevel_entry_highest</item>
     </string-array>
     <string-array name="pref_mtk_camera_contrast_entries">
         <item>@string/pref_camera_multilevel_entry_low</item>
@@ -282,14 +296,22 @@
         <item>@string/pref_camera_multilevel_entry_high</item>
     </string-array>
     <string-array name="pref_camera_contrast_entryvalues">
-        <item>low</item>
-        <item>middle</item>
-        <item>high</item>
+        <item>0</item>
+        <item>2</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>8</item>
+        <item>10</item>
     </string-array>
     <string-array name="pref_camera_saturation_entries">
+        <item>@string/pref_camera_multilevel_entry_lowest</item>
+        <item>@string/pref_camera_multilevel_entry_lower</item>
         <item>@string/pref_camera_multilevel_entry_low</item>
-        <item>@string/pref_camera_multilevel_entry_middle</item>
+        <item>@string/pref_camera_multilevel_entry_normal</item>
         <item>@string/pref_camera_multilevel_entry_high</item>
+        <item>@string/pref_camera_multilevel_entry_higher</item>
+        <item>@string/pref_camera_multilevel_entry_highest</item>
     </string-array>
     <string-array name="pref_mtk_camera_saturation_entries">
         <item>@string/pref_camera_multilevel_entry_low</item>
@@ -297,14 +319,22 @@
         <item>@string/pref_camera_multilevel_entry_high</item>
     </string-array>
     <string-array name="pref_camera_saturation_entryvalues">
-        <item>low</item>
-        <item>middle</item>
-        <item>high</item>
+        <item>0</item>
+        <item>2</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>8</item>
+        <item>10</item>
     </string-array>
     <string-array name="pref_camera_sharpness_entries">
+        <item>@string/pref_camera_multilevel_entry_lowest</item>
+        <item>@string/pref_camera_multilevel_entry_lower</item>
         <item>@string/pref_camera_multilevel_entry_low</item>
-        <item>@string/pref_camera_multilevel_entry_middle</item>
+        <item>@string/pref_camera_multilevel_entry_normal</item>
         <item>@string/pref_camera_multilevel_entry_high</item>
+        <item>@string/pref_camera_multilevel_entry_higher</item>
+        <item>@string/pref_camera_multilevel_entry_highest</item>
     </string-array>
     <string-array name="pref_mtk_camera_sharpness_entries">
         <item>@string/pref_camera_multilevel_entry_low</item>
@@ -312,9 +342,13 @@
         <item>@string/pref_camera_multilevel_entry_high</item>
     </string-array>
     <string-array name="pref_camera_sharpness_entryvalues">
-        <item>low</item>
-        <item>middle</item>
-        <item>high</item>
+        <item>0</item>
+        <item>3</item>
+        <item>6</item>
+        <item>12</item>
+        <item>18</item>
+        <item>24</item>
+        <item>36</item>
     </string-array>
     <string-array name="pref_mtk_camera_contrast_entryvalues">
         <item>low</item>
@@ -458,18 +492,6 @@
         <item>@string/pref_camera_histogram_value_enable</item>
         <item>@string/pref_camera_histogram_value_disable</item>
     </string-array>
-    <string-array name="pref_video_effect_entryvalues">
-        <item>@string/pref_video_effect_default</item>
-        <item>goofy_face/squeeze</item>
-        <item>goofy_face/big_eyes</item>
-        <item>goofy_face/big_mouth</item>
-        <item>goofy_face/small_mouth</item>
-        <item>goofy_face/big_nose</item>
-        <item>goofy_face/small_eyes</item>
-        <item>backdropper/file:///system/media/video/AndroidInSpace.480p.mp4</item>
-        <item>backdropper/file:///system/media/video/Sunset.480p.mp4</item>
-        <item>backdropper/gallery</item>
-    </string-array>
     <string-array name="pref_camera_autoexposure_entries">
         <item>@string/pref_camera_autoexposure_entry_frameaverage</item>
         <item>@string/pref_camera_autoexposure_entry_centerweighted</item>
@@ -599,6 +621,14 @@
         <item>@string/face_beauty_age_alias_female_31_44</item>
         <item>@string/face_beauty_age_alias_female_45_60</item>
         <item>@string/face_beauty_age_alias_female_60_m</item>
+    </string-array>
+    <string-array name="pref_camera_show_age_reports">
+        <item>@string/face_beauty_age_alias_0_7</item>
+        <item>@string/face_beauty_age_alias_8_17</item>
+        <item>@string/face_beauty_age_alias_18_30</item>
+        <item>@string/face_beauty_age_alias_31_44</item>
+        <item>@string/face_beauty_age_alias_45_60</item>
+        <item>@string/face_beauty_age_alias_60_m</item>
     </string-array>
     <string-array name="pref_camera_setting_switch_entryvalues">
         <item>@string/pref_camera_setting_switch_entryvalue_off</item>

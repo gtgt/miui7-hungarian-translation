@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Parsed by jbart2a -->
+<!-- Parsed by jbart3h -->
 <resources>
-     <string name="mobile_recommended_title">Mobile data usage</string>
+     <string name="xl_speedup_experience_notify_context">"Speed is boosted for every download when you're a Xunlei member"</string>
+     <string name="xl_speedup_experience_notify_title">Xunlei membership</string>
+     <string name="xl_speedup_notify_button_experience">Try for free</string>
+     <string name="xl_speedup_notify_button_member">Become a member</string>
 </resources>

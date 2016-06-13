@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Parsed by jbart3h -->
+<resources>
+     <string name="alert_reminder_interval_summary" />
+     <string name="alert_sound_duration_summary" />
+</resources>

@@ -18,40 +18,12 @@
         <item>@string/auto_correction_threshold_mode_aggressive</item>
         <item>@string/auto_correction_threshold_mode_very_aggressive</item>
     </string-array>
-    <string-array name="important_notice_title_array">
-        <item></item>
-        <item>@string/important_notice_title</item>
+    <string-array name="keyboard_switcher_emoji">
+        <item>57,16</item>
     </string-array>
-    <string-array name="important_notice_contents_array">
-        <item></item>
-        <item>@string/important_notice_contents</item>
+    <string-array name="keyboard_switcher_symbols_shifted">
+        <item>58,32</item>
     </string-array>
-    <integer-array name="text_decorator_add_to_dictionary_indicator_path">
-        <item>380</item>
-        <item>260</item>
-        <item>260</item>
-        <item>260</item>
-        <item>260</item>
-        <item>380</item>
-        <item>220</item>
-        <item>380</item>
-        <item>220</item>
-        <item>260</item>
-        <item>100</item>
-        <item>260</item>
-        <item>100</item>
-        <item>220</item>
-        <item>220</item>
-        <item>220</item>
-        <item>220</item>
-        <item>100</item>
-        <item>260</item>
-        <item>100</item>
-        <item>260</item>
-        <item>220</item>
-        <item>380</item>
-        <item>220</item>
-    </integer-array>
     <string-array name="subtype_locale_exception_keys">
         <item>en_US</item>
         <item>en_GB</item>

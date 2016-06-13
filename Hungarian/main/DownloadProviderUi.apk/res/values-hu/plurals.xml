@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="numberOfItemsAvailable">
+        <item quantity="other">Törli ezt a(z) %d tételt?</item>
+        <item quantity="one">Törli ezt a tételt?</item>
+    </plurals>
+</resources>

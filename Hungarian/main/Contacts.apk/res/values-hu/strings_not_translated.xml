@@ -1,26 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Parsed by jbart2a -->
+<!-- Parsed by jbart3h -->
 <resources>
      <string name="call_type_and_date">%1$s %2$s</string>
-     <string name="config_export_dir">/mnt/sdcard</string>
-     <string name="config_export_extensions_to_consider" />
-     <string name="config_export_file_extension">vcf</string>
-     <string name="config_export_file_prefix" />
-     <string name="config_export_file_suffix" />
-     <string name="config_export_vcard_type">v30_generic</string>
-     <string name="config_import_vcard_type">default</string>
-     <string name="config_prohibited_phone_number_regexp" />
-     <string name="emergency_number_label">Emergency number</string>
+     <string name="group_detail_label_placeholder"> </string>
      <string name="help_url_people_add" />
      <string name="help_url_people_edit" />
      <string name="help_url_people_main" />
-     <string name="in_call_show_preview_reshoot">Retry</string>
      <string name="lunar_calendar">农历</string>
      <string name="lunar_leap">闰</string>
      <string name="lunar_yue">月</string>
+     <string name="miprofile_nick_name_divider">"  |  "</string>
      <string name="percent_sign">%</string>
      <string name="percentage">%s%%</string>
      <string name="sina_weibo">Sina Weibo</string>
      <string name="solar_calendar">公历</string>
-     <string name="success_message_import_from_account">Import done</string>
 </resources>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Parsed by jbart2a -->
+<!-- Parsed by jbart3h -->
 <resources>
      <plurals name="shutdown_countdown_text">
         <item quantity="other">Shutting down in %d seconds…</item>

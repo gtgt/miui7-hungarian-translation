@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Parsed by jbart2a -->
+<!-- Parsed by jbart3h -->
 <resources>
      <string name="accept">Accept</string>
      <string name="account_already_has_gmail">Ennél a fióknál már be van állítva a Gmail</string>
@@ -37,10 +37,10 @@ You can activate your mobile data service later in "<b>System settings > Wireles
      <string name="activation_canceled_title">Activation canceled</string>
      <string name="activation_continue_skip_label">Continue</string>
      <string name="activation_default_network_name">mobile network</string>
-     <string name="activation_failure_text">"Try again in a minute, or restart your tablet if this continues to happen.
+     <string name="activation_failure_text">"Try again in a minute, or restart your phone if this continues to happen.
 
-If you prefer to skip now, be sure to activate later in System settings. Until you activate, your tablet won't have a cellular data connection."</string>
-     <string name="activation_failure_text_gen">"Your mobile data service couldn't be activated. This may be a temporary problem, and may be solved by restarting the tablet."</string>
+If you prefer to skip now, be sure to activate later in System settings. Until you activate, your phone won't have a cellular data connection."</string>
+     <string name="activation_failure_text_gen">"Your mobile data service couldn't be activated. This may be a temporary problem, and may be solved by restarting the phone."</string>
      <string name="activation_failure_text_standalone">"Couldn't activate mobile data service. To try activation again touch "<b>Try again</b>".
 
 You can activate your mobile data service later in "<b>System settings > Wireless &amp; networks > Mobile networks</b></string>
@@ -50,17 +50,17 @@ You can activate your mobile data service later in "<b>System settings > Wireles
      <string name="activation_progress_before_connect">Touch <b>Skip</b> to complete setup using a Wi-Fi connection instead.</string>
      <string name="activation_progress_before_connect_standalone">Activation can take a few minutes.</string>
      <string name="activation_progress_gen">This can take up to 5 minutes</string>
-     <string name="activation_progress_mobile_data">"The tablet is activating your mobile data service.
+     <string name="activation_progress_mobile_data">"The phone is activating your mobile data service.
 
 This can take up to 5 minutes."</string>
      <string name="activation_progress_standalone">Activation can take a few minutes.</string>
-     <string name="activation_skip_confirmation">"Until you activate your mobile data service, most of your tablet's features won't work.
+     <string name="activation_skip_confirmation">"Until you activate your mobile data service, most of your phone's features won't work.
 
 If you prefer to skip now, you can activate later in System settings."</string>
-     <string name="activation_skip_text">"If you skip activation, be sure to activate later in Settings. Until you activate, your tablet won't have a cellular data connection."</string>
-     <string name="activation_spc_failure_text">There was an error that requires shutting down and restarting your tablet before you can make another activation attempt. Your tablet will shut down automatically in 60 seconds, or you can touch <b>Shut down now</b>".
+     <string name="activation_skip_text">"If you skip activation, be sure to activate later in Settings. Until you activate, your phone won't have a cellular data connection."</string>
+     <string name="activation_spc_failure_text">There was an error that requires shutting down and restarting your phone before you can make another activation attempt. Your phone will shut down automatically in 60 seconds, or you can touch <b>Shut down now</b>".
 
-Once your tablet is shut down, press the Power button to restart it. Activation will start up automatically."</string>
+Once your phone is shut down, press the Power button to restart it. Activation will start up automatically."</string>
      <string name="activation_success_text">Touch <b>Next</b> to continue with setup.</string>
      <string name="activation_success_text_gen">Your device needs to restart to complete activation.</string>
      <string name="activation_success_text_standalone">Touch <b>Next</b>" to continue.
@@ -69,7 +69,7 @@ Activation successful, but it may take a few minutes for the mobile data network
      <string name="activation_success_title">Activation complete</string>
      <string name="activation_text">Touch <b>Activate</b>" to activate your mobile service now. (It may take a couple of minutes.)
 
-Or touch "<b>Skip</b> to set up your tablet using a Wi-Fi connection instead.</string>
+Or touch "<b>Skip</b> to set up your phone using a Wi-Fi connection instead.</string>
      <string name="activation_text_standalone">Touch <b>Activate</b> to activate your mobile service now. (It may take a couple of minutes.)</string>
      <string name="activation_title">Activating cellular service…</string>
      <string name="activation_title_activating">Activating cellular service…</string>
@@ -83,8 +83,8 @@ Or touch "<b>Skip</b> to set up your tablet using a Wi-Fi connection instead.</s
      <string name="answer">" "<b>Válasz</b></string>
      <string name="app_label">Fiókkezelő</string>
      <string name="audit_logging_summary">Az eszköz esemény- és diagnosztikai adatainak automatikus elküldése a Google részére termékeink tökéletesítése és eszközének védelme érdekében.</string>
-     <string name="backup_assistant_prompt">Start Verizon Backup Assistant to restore contacts from another Verizon tablet.</string>
-     <string name="backup_consent_message">"Google Fiókja segítségével készítsen biztonsági másolatokat alkalmazásairól, beállításairól (pl. könyvjelzők, Wi-Fi jelszavak) és egyéb adatairól. Ha korábban már készített biztonsági másolatot fiókjáról, most visszaállíthatja azt erre a táblagépre.
+     <string name="backup_assistant_prompt">Start Verizon Backup Assistant to restore contacts from another Verizon phone.</string>
+     <string name="backup_consent_message">"Google Fiókja segítségével készítsen biztonsági másolatokat alkalmazásairól, beállításairól (pl. könyvjelzők, Wi-Fi jelszavak) és egyéb adatairól. Ha korábban már készített biztonsági másolatot fiókjáról, most visszaállíthatja azt erre a telefonra.
 
 Bármikor módosíthatja biztonsági mentési beállításait a Beállítások menüpont alatt."</string>
      <string name="backup_consent_message_no_restore">"Google Fiókja segítségével készítsen biztonsági másolatokat alkalmazásairól, beállításairól (pl. könyvjelzők, Wi-Fi jelszavak) és egyéb adatairól.
@@ -108,7 +108,7 @@ Bármikor módosíthatja biztonsági mentési beállításait a Beállítások m
      <string name="captcha_instructions">Írja be az itt látható szöveget:</string>
      <string name="captcha_title">Meg kell adni a CAPTCHA-képet</string>
      <string name="checking_account">Elérhetőség ellenőrzése...</string>
-     <string name="checking_username_message">"A táblagép felveszi a kapcsolatot a Google rendszerével, hogy ellenőrizze a kívánt felhasználónév elérhetőségét.
+     <string name="checking_username_message">"A telefon felveszi a kapcsolatot a Google rendszerével, hogy ellenőrizze a kívánt felhasználónév elérhetőségét.
 
 Ez eltarthat pár percig."</string>
      <string name="choose_a_password">Jelszó</string>
@@ -120,32 +120,32 @@ Ez eltarthat pár percig."</string>
      <string name="common_android_wear_notification_needs_update_text">Egy alkalmazás az Android Wear-alkalmazás frissítését igényli.</string>
      <string name="common_android_wear_update_text">Ez az alkalmazás nem működik, amíg nem frissíti az Android Wear-alkalmazást.</string>
      <string name="common_android_wear_update_title">Az Android Wear frissítése</string>
-     <string name="common_google_play_services_enable_button">Play-szolgáltatások aktiválása</string>
-     <string name="common_google_play_services_enable_text">Az alkalmazás csak akkor fog működni, ha engedélyezi a Google Play-szolgáltatásokat.</string>
-     <string name="common_google_play_services_enable_title">Google Play-szolgáltatások aktiválása</string>
+     <string name="common_google_play_services_enable_button">Play Szolgáltatások aktiválása</string>
+     <string name="common_google_play_services_enable_text">Az alkalmazás csak akkor fog működni, ha engedélyezi a Google Play Szolgáltatásokat.</string>
+     <string name="common_google_play_services_enable_title">Google Play Szolgáltatások aktiválása</string>
      <string name="common_google_play_services_error_notification_requested_by_msg">A(z) %1$s kérésére</string>
-     <string name="common_google_play_services_install_button">Play-szolgáltatások telepítése</string>
-     <string name="common_google_play_services_install_text_phone">Az alkalmazás működéséhez a Google Play-szolgáltatások szükségesek, ezek nincsenek telepítve a telefonon.</string>
-     <string name="common_google_play_services_install_text_tablet">Az alkalmazás működéséhez a Google Play-szolgáltatások szükségesek, ezek nincsenek telepítve a táblagépen.</string>
-     <string name="common_google_play_services_install_title">Play-szolgáltatások telepítése</string>
+     <string name="common_google_play_services_install_button">Play Szolgáltatások telepítése</string>
+     <string name="common_google_play_services_install_text_phone">Az alkalmazás működéséhez a Google Play Szolgáltatások szükségesek, ezek nincsenek telepítve a telefonon.</string>
+     <string name="common_google_play_services_install_text_tablet">Az alkalmazás működéséhez a Google Play Szolgáltatások szükségesek, ezek nincsenek telepítve a táblagépen.</string>
+     <string name="common_google_play_services_install_title">Play Szolgáltatások telepítése</string>
      <string name="common_google_play_services_invalid_account_text">A megadott fiók nem létezik ezen az eszközön. Kérjük, válasszon másik fiókot.</string>
      <string name="common_google_play_services_invalid_account_title">Érvénytelen fiók</string>
      <string name="common_google_play_services_needs_enabling_title">Egy alkalmazás Google Play-szolgáltatások engedélyezését kéri.</string>
-     <string name="common_google_play_services_network_error_text">A Google Play-szolgáltatásokhoz történő kapcsolódáshoz adatkapcsolat szükséges.</string>
+     <string name="common_google_play_services_network_error_text">A Google Play Szolgáltatásokhoz történő kapcsolódáshoz adatkapcsolat szükséges.</string>
      <string name="common_google_play_services_network_error_title">Hálózati hiba</string>
      <string name="common_google_play_services_notification_needs_installation_title">Egy alkalmazás Google Play-szolgáltatások telepítését kéri.</string>
      <string name="common_google_play_services_notification_needs_update_title">Egy alkalmazás Google Play-szolgáltatások frissítését kéri.</string>
-     <string name="common_google_play_services_notification_ticker">Google Play-szolgáltatások – hiba</string>
-     <string name="common_google_play_services_unknown_issue">Ismeretlen hiba a Google Play-szolgáltatásokban.</string>
-     <string name="common_google_play_services_unsupported_text">A Google Play-szolgáltatásokat, amelyre egyes alkalmazások támaszkodnak, nem támogatja az eszköz. Segítségért forduljon az eszköz gyártójához.</string>
-     <string name="common_google_play_services_unsupported_title">Google Play-szolgáltatások</string>
+     <string name="common_google_play_services_notification_ticker">Google Play szolgáltatások – hiba</string>
+     <string name="common_google_play_services_unknown_issue">Ismeretlen hiba a Google Play Szolgáltatásokban.</string>
+     <string name="common_google_play_services_unsupported_text">A Google Play Szolgáltatásokat, amelyre egyes alkalmazások támaszkodnak, nem támogatja az eszköz. Segítségért forduljon az eszköz gyártójához.</string>
+     <string name="common_google_play_services_unsupported_title">Google Play Szolgáltatások</string>
      <string name="common_google_play_services_update_button">Frissítés</string>
-     <string name="common_google_play_services_update_text">Az alkalmazás csak akkor fog működni, ha frissíti a Google Play-szolgáltatásokat.</string>
-     <string name="common_google_play_services_update_title">Play-szolgáltatások frissítése</string>
+     <string name="common_google_play_services_update_text">Az alkalmazás csak akkor fog működni, ha frissíti a Google Play Szolgáltatásokat.</string>
+     <string name="common_google_play_services_update_title">Play Szolgáltatások frissítése</string>
      <string name="common_open_on_phone">Megnyitás a telefonon</string>
      <string name="common_signin_button_text">Belépés</string>
      <string name="common_signin_button_text_long">Google-bejelentkezés</string>
-     <string name="communicating_message">Táblagépe kapcsolatba lép a Google-lal azért, hogy információkat mentsen a fiókjába. Ez akár 5 percig is eltarthat.</string>
+     <string name="communicating_message">Telefonja kapcsolatba lép a Google-lal azért, hogy információkat mentsen a fiókjába. Ez akár 5 percig is eltarthat.</string>
      <string name="confirm_password">Írja be újra a jelszót</string>
      <string name="continue_for_a11y">Continue touching the screen until you hear a beep to enable Accessibility mode.</string>
      <string name="country_invalid">Ez az ország nem engedélyezett</string>
@@ -219,7 +219,7 @@ Fiókjának  helyreállításához látogasson el a google.com/accounts/recovery
      <string name="gls_ui_add_account_title">Fiók beállítása</string>
      <string name="gmail_host_name">\@gmail.com</string>
      <string name="google_legal_title">Google legal</string>
-     <string name="google_play_opt_in">Szeretném megkapni a Google Play legfrissebb híreit és ajánlatait.</string>
+     <string name="google_play_opt_in">Naprakész szeretnék lenni a Google Play híreivel és ajánlataival kapcsolatban.</string>
      <string name="google_play_tos_title">A Google Play Ált. Szerződési Feltételei</string>
      <string name="google_plus_privacy_policy_title">Google Plusz -- Adatvédelmi irányelvek</string>
      <string name="google_privacy_policy_title">A Google adatvédelmi irányelvei</string>
@@ -284,10 +284,10 @@ számokat és pontokat tartalmazhat."</string>
      <string name="multi_sim_dialog_message">Choose the SIM you prefer for cellular data.</string>
      <string name="multi_sim_dialog_title">Multiple SIMs found</string>
      <string name="name_progress_title">Egy pillanat...</string>
-     <string name="name_text">Az Ön nevét használjuk a táblagép és a Google-szolgáltatások személyre szabásához.</string>
-     <string name="name_text_local">A táblagép az Ön nevét használja néhány alkalmazás személyre szabásához.</string>
+     <string name="name_text">Az Ön nevét használjuk a telefon és a Google-szolgáltatások személyre szabásához.</string>
+     <string name="name_text_local">A telefon az Ön nevét használja néhány alkalmazás személyre szabásához.</string>
      <string name="name_title">Az Ön neve</string>
-     <string name="name_title_local">A táblagép tulajdonosa:</string>
+     <string name="name_title_local">A telefon tulajdonosa:</string>
      <string name="name_title_plus">Az Ön neve a Google+ szolgáltatásban</string>
      <string name="network_unreliable">Nem lehet megbízható kapcsolatot létrehozni a szerverrel.</string>
      <string name="network_unreliable_help">Ez lehet ideiglenes probléma, de lehet, hogy Android eszközén nem érhető el adatszolgáltatás. Ha a probléma továbbra is fennáll, hívja az ügyfélszolgálatot.</string>
@@ -303,9 +303,9 @@ számokat és pontokat tartalmazhat."</string>
      <string name="notification_update_title">Your account needs to be updated</string>
      <string name="occupation">Foglalkozás</string>
      <string name="ota_agreement_text">By continuing and receiving this software update, you agree to the <annotation id="tos">Google Terms of Service</annotation> and <annotation id="google_privacy">Privacy Policy</annotation>". "</string>
-     <string name="ota_info">Your tablet needs to download an update and restart.</string>
+     <string name="ota_info">Your phone needs to download an update and restart.</string>
      <string name="ota_size">Size: %s</string>
-     <string name="ota_update_title">Update tablet</string>
+     <string name="ota_update_title">Update phone</string>
      <string name="password">Jelszó</string>
      <string name="password_mismatch">A jelszavak nem egyeznek. Próbálja újra.</string>
      <string name="password_title">Jelszó létrehozása</string>
@@ -371,14 +371,14 @@ Igazolja most telefonszámát vagy másodlagos e-mail címét. Így könnyebben 
      <string name="recovery_yes_button_label_verify">Helyreállítási lehetőségek megerősítése</string>
      <string name="relogin_activity_title">Írja be újra a jelszót</string>
      <string name="restart_button_label">Restart</string>
-     <string name="restore_consent_yes_agree">Azon alkalmazások, beállítások és egyéb adatok letöltése a táblagépre, amelyekről korábban biztonsági mentést készített Google-fiókjában.</string>
+     <string name="restore_consent_yes_agree">Kérje le azokat az alkalmazásokat, beállításokat és egyéb adatokat a telefonra, amelyekről korábban biztonsági mentést készített Google Fiókjában.</string>
      <string name="restore_device_settings_title">Restoring device settings…</string>
      <string name="restore_failed_message">"Couldn't restore from backup"</string>
      <string name="restore_launcher_title">Restoring launcher…</string>
      <string name="restore_title">Restoring…</string>
      <string name="restore_wallpaper_title">Restoring wallpaper…</string>
      <string name="restore_wifi">Visszaállítás, és csatlakozás ismert Wi-Fi-hálózatokhoz.</string>
-     <string name="restoring_message">Táblagépe kapcsolatba lép a Google-lal a fiók visszaállításához. Ez eltarthat egy ideig.</string>
+     <string name="restoring_message">Telefonja kapcsolatba lép a Google-lal fiókjának visszaállításához. Ez eltarthat egy ideig.</string>
      <string name="restoring_title">Visszaállítás...</string>
      <string name="retake_photo_button_label">Új felvétel</string>
      <string name="search_settings_title">Keresés</string>
@@ -396,14 +396,14 @@ Igazolja most telefonszámát vagy másodlagos e-mail címét. Így könnyebben 
      <string name="services_location_heading">Hely</string>
      <string name="services_personalization_heading">Személyre szabás</string>
      <string name="services_security_heading">Biztonság</string>
-     <string name="setup_complete_message">Your tablet is set up and ready to use.</string>
+     <string name="setup_complete_message">Your phone is set up and ready to use.</string>
      <string name="setup_complete_title">Setup complete</string>
      <string name="setup_wizard_back_button_label">Vissza</string>
      <string name="setup_wizard_next_button_label">Következő</string>
      <string name="setup_wizard_services_activity_title">Google-szolgáltatások</string>
-     <string name="setup_wizard_services_agreement">A táblagép frissítéseket és alkalmazásokat is fogadhat a Google-tól, az Ön szolgáltatójától és a telefon gyártójától, illetve telepítheti ezeket. Ha folytatja, a rendszer egyes alkalmazásokat letölthet és telepíthet – ezeket Ön bármikor eltávolíthatja.</string>
-     <string name="setup_wizard_services_backup">Google-fiókja használatával <b>biztonsági mentést készíthet táblagépe alkalmazásairól, alkalmazásadatairól, beállításairól és Wi-Fi-jelszavairól</b>, így később könnyen visszaállíthatja ezeket. <annotation id="backup_details">További információ</annotation></string>
-     <string name="setup_wizard_services_backup_restore"><b>Készítsen biztonsági mentést alkalmazásairól, alkalmazásadatairól, beállításairól és Wi-Fi jelszavairól</b> Google-fiókja segítségével, így később könnyedén visszaállíthatja azokat.</string>
+     <string name="setup_wizard_services_agreement">A telefon frissítéseket és alkalmazásokat is fogadhat a Google-tól, az Ön szolgáltatójától és a telefon gyártójától, illetve telepítheti ezeket. Ha folytatja, a rendszer egyes alkalmazásokat letölthet és telepíthet – ezeket Ön bármikor eltávolíthatja.</string>
+     <string name="setup_wizard_services_backup"><b>Hozzon létre biztonsági mentést a telefonján lévő alkalmazásokról, alkalmazásadatokról, beállításokról, személyes szótárakról és Wi-Fi-jelszavakról</b> Google-fiókja segítségével, hogy később egyszerűen visszaállíthassa azokat. <annotation id="backup_details">További információ</annotation></string>
+     <string name="setup_wizard_services_backup_restore"><b>Hozzon létre biztonsági mentést alkalmazásairól, alkalmazásadatairól, beállításairól, személyes szótárairól és Wi-Fi-jelszavairól</b> Google-fiókja segítségével, hogy később egyszerűen visszaállíthassa azokat.</string>
      <string name="setup_wizard_services_backup_restore_dialog_text">Ha bekapcsolja az automatikus biztonsági mentést, eszköze rendszeresen elmenti az adatokat az Ön Google-fiókjába. A biztonsági mentés által tárolt információk közé tartozhatnak az alkalmazások mappáiban lévő adatok, például preferenciák, beállítások, üzenetek, fotók és egyebek.</string>
      <string name="setup_wizard_services_backup_restore_footnote">Ide tartoznak az alkalmazások, alkalmazásbeállítások, rendszerbeállítások és Wi-Fi-jelszavak.</string>
      <string name="setup_wizard_services_backup_restore_heading">Biztonsági mentés és visszaállítás</string>
@@ -453,7 +453,7 @@ Ne feledje, hogy bármely felhasználó elfogadhatja a frissített alkalmazásen
      <string name="terminate_toast">"Setup Wizard terminated
 Device not provisioned"</string>
      <string name="too_short">Túl rövid</string>
-     <string name="tos_agreement_text">This tablet may also receive and install updates from Google. By continuing, you agree to the <annotation id="tos">Google Terms of Service</annotation> and <annotation id="google_privacy">Privacy Policy</annotation>.</string>
+     <string name="tos_agreement_text">This phone may also receive and install updates from Google. By continuing, you agree to the <annotation id="tos">Google Terms of Service</annotation> and <annotation id="google_privacy">Privacy Policy</annotation>.</string>
      <string name="tos_agreement_text_germany">You further agree that your device may receive and install updates from Google. When you use this device we abide by our <annotation id="google_privacy">Privacy Policy</annotation> and <annotation id="tos">additional terms</annotation> apply.</string>
      <string name="tos_title">Google services</string>
      <string name="try_again_button_label">Próbálkozzon újra</string>
@@ -465,37 +465,37 @@ Device not provisioned"</string>
      <string name="use_location_title">Hely és Google Keresés</string>
      <string name="username">E-mail</string>
      <string name="verify_your_profile">Profil ellenőrzése</string>
-     <string name="wait_for_device_country_msg">Adatok gyűjtése táblagépéről. Ez 30 másodpercig is tarthat.</string>
+     <string name="wait_for_device_country_msg">Adatok gyűjtése telefonjáról. Ez 30 másodpercig is tarthat.</string>
      <string name="wait_for_device_country_title">Fiók beállítása</string>
      <string name="wait_msg">Just a sec…</string>
      <string name="walled_garden_check_text">This can take up to a minute</string>
      <string name="walled_garden_connection_failed">"Couldn't connect to the Internet"</string>
-     <string name="walled_garden_skipped_message">"WARNING: Until you have an internet connection, the tablet won't be able to verify that your software is up to date."</string>
+     <string name="walled_garden_skipped_message">"WARNING: Until you have an internet connection, the phone won't be able to verify that your software is up to date."</string>
      <string name="walled_garden_title">Connecting to the Internet…</string>
      <string name="wallet_buy_button_place_holder">Buy with Google</string>
      <string name="warm_sim_check_msg">Waiting for network…</string>
      <string name="welcome_limited_user_info_text">" 
 "<b>Important:</b>"
 
- "<li><ul>"The tablet's owner can install and uninstall apps, set limits, or remove your space completely."</ul></li>"
+ "<li><ul>"The phone's owner can install and uninstall apps, set limits, or remove your space completely."</ul></li>"
 
  "<li><ul>Any other user can accept updated app permissions on your behalf.</ul></li>"
 
- "<li><ul>As with any computer, you should only share this tablet with people you trust. </ul></li>" "</string>
+ "<li><ul>As with any computer, you should only share this phone with people you trust. </ul></li>" "</string>
      <string name="welcome_message">Welcome</string>
-     <string name="welcome_secondary_user_added_no_owner_name_text">You have been added to this tablet.</string>
-     <string name="welcome_secondary_user_added_text">%s has added you to this tablet.</string>
+     <string name="welcome_secondary_user_added_no_owner_name_text">You have been added to this phone.</string>
+     <string name="welcome_secondary_user_added_text">%s has added you to this phone.</string>
      <string name="welcome_secondary_user_additional_info_edu">"You're sharing this tablet with other students. Once you've set up your account, add a PIN to protect your work."</string>
      <string name="welcome_secondary_user_additional_info_header_edu">Important</string>
      <string name="welcome_secondary_user_info_text">"When you're finished setting up, you can work with apps or install new ones as usual.
 
 "<b>Important:</b>"
 
-"<li><ul>"The tablet's owner can uninstall your apps or remove your space completely."</ul></li>"
+"<li><ul>"The phone's owner can uninstall your apps or remove your space completely."</ul></li>"
 
 "<li><ul>Any other user can accept updated app permissions on your behalf.</ul></li>"
 
-"<li><ul>As with any computer, you should only share this tablet with people you trust.</ul></li></string>
+"<li><ul>As with any computer, you should only share this phone with people you trust.</ul></li></string>
      <string name="welcome_secondary_user_text_edu">"Let's finish setting up your account on this tablet."</string>
      <string name="welcome_text_edu">Set up your device for use with Google Play for Education</string>
 </resources>

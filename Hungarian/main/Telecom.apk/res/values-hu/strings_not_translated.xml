@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Parsed by jbart3h -->
+<resources>
+     <string name="dial_conference_fail_prompt">"Can't dial conference directly because current network doesn't support VoLTE."</string>
+</resources>

@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Parsed by jbart2a -->
+<!-- Parsed by jbart3h -->
 <resources>
      <string name="app_name">com.miui.mipub</string>
+     <string name="low_memory">"Device's memory is low"</string>
 </resources>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Parsed by jbart3h -->
+<resources>
+     <string name="activate_history_cancelled">Canceled</string>
+     <string name="activate_history_multisim_overview">Activation for SIM card %3$d %1$s. It is triggered by \"%2$s\".</string>
+     <string name="activate_history_overview">Activation for SIM card %1$s. It is triggered by \"%2$s\".</string>
+     <string name="activate_history_sms">SMS has been sent during the activation.</string>
+     <string name="activate_history_success">Successful</string>
+     <string name="activate_history_title">SIM card activation</string>
+     <string name="activate_sms_postfix">This SMS is used to activate your Mi service</string>
+</resources>

@@ -1,9 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <plurals name="updated_contacts">
-        <item quantity="other">Frissítve %s névjegy</item>
-        <item quantity="one">Frissítve %s névjegy</item>
-    </plurals>
     <plurals name="dirty_contacts_count">
         <item quantity="other">%d névjegy</item>
         <item quantity="one">%d névjegy</item>
@@ -15,5 +11,9 @@
     <plurals name="dirty_note_count">
         <item quantity="other">%d jegyzet</item>
         <item quantity="one">%d jegyzet</item>
+    </plurals>
+    <plurals name="updated_contacts">
+        <item quantity="other">Frissítve %s névjegy</item>
+        <item quantity="one">Frissítve %s névjegy</item>
     </plurals>
 </resources>

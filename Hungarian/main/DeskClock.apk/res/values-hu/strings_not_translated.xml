@@ -1,6 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Parsed by jbart2a -->
+<!-- Parsed by jbart3h -->
 <resources>
-     <string name="timer_alarm_alert_pad">%s</string>
-     <string name="timer_alarm_cancel_pad">Tap on the screen to stop ringing</string>
+     <string name="stat_repeat_everyday">每天</string>
+     <string name="stat_repeat_legal_off_day">法定节假日</string>
+     <string name="stat_repeat_legal_workday">法定工作日</string>
+     <string name="stat_repeat_none">一次性</string>
+     <string name="stat_repeat_self_define">自定义</string>
+     <string name="stat_repeat_weekdays">周一至周五</string>
+     <string name="stat_repeat_weekends">周末</string>
 </resources>

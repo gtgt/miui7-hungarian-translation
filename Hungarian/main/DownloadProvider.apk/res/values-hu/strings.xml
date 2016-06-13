@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Parsed by jbart2a -->
+<!-- Parsed by jbart3h -->
 <resources>
      <string name="app_label">Letöltéskezelő</string>
      <string name="auto_restart_under_wifi">Wi-Fi csatlakozáskor automatikusan letölti ezt a fájlt</string>
@@ -11,6 +11,10 @@
      <string name="dialog_insufficient_space_on_cache">Nincs elég szabad hely a belső tárhelyen</string>
      <string name="dialog_insufficient_space_on_external">Nincs elég szabad hely a külső tárhelyen</string>
      <string name="dialog_not_show_again">Ne jelenjen meg újra</string>
+     <string name="download_apk_desktop_installing">Telepítés</string>
+     <string name="download_apk_desktop_pause">Szüneteltetve</string>
+     <string name="download_apk_desktop_pending">Várakozás</string>
+     <string name="download_apk_desktop_running">Letöltés</string>
      <string name="download_error">Sikertelen</string>
      <string name="download_no_application_title">A fájlt nem lehet megnyitni.</string>
      <string name="download_percent">%d%%</string>
@@ -21,7 +25,7 @@
      <string name="download_unknown_title">&lt;Névtelen></string>
      <string name="enter_garbage_clean">Belső tárhely megtisztítása.</string>
      <string name="insufficient_space">Nincs elég szabad hely a belső tárolón</string>
-     <string name="mobile_recommended_title">Mobile data usage</string>
+     <string name="mobile_recommended_title">Mobil adathasználat</string>
      <string name="notif_text_engine_off">Xunlei letöltőmotor kikapcsolva.</string>
      <string name="notif_text_engine_on">Bekapcsolás…</string>
      <string name="notif_title_file_size">Összesen %1$d fájl</string>
@@ -33,6 +37,8 @@
      <string name="notification_download_success_more">%1$d fájl letöltve</string>
      <string name="notification_need_wifi_for_size">A letöltéshez Wi-Fi szükséges</string>
      <string name="notification_paused_in_background">Szünetel a háttérben.</string>
+     <string name="notify_disabled_net_by_app">A biztonság alkalmazás korlátozta az internet kapcsolatot</string>
+     <string name="notify_only_wifi_download">Várakozás Wi-Fi kapcsolatra</string>
      <string name="paused_waiting_for_network">Hálózatra vár</string>
      <string name="permdesc_accessAllDownloads">Az alkalmazás megnézheti és módosíthatja a rendszer bármelyik alkalmazása által kezdeményezett letöltést.</string>
      <string name="permdesc_downloadCacheNonPurgeable">Az alkalmazás letölthet fájlokat a letöltési gyorsítótárba, amelyeket a letöltéskezelő nem törölhet automatikusan, ha helyre van szüksége.</string>
@@ -54,18 +60,8 @@
      <string name="privacy_tip_content">Szeretné használni a Xunlei Letöltőmotor a gyorsabb letöltéshez? A letöltés URL címe fel lesz töltve a Xunlei szerverére. A Mi fiók adatai szintén feltöltésre kerülnek a későbbi aktív szolgáltatások ellenőrzése céljából.</string>
      <string name="privacy_tip_ok">Igen</string>
      <string name="privacy_tip_title">Xunlei Letöltőmotor használata</string>
-     <!-- MNPS mismatch found! Translated: 3 Original: 1
-	%s: 3 Original: 1
-	%d: 0 Original: 0 -->
-     <!-- Original string: Use %s of mobile data to download this file? -->
-     <string name="recommended_file_size_download_in_mobile" formatted="false">"Jelenleg nem Wi-Fi hálózathoz csatlakozik. %s
-
-A fájl mérete nem kérhető le. A fájl mobil adatkapcsolaton történő letöltéséhez érintse meg %s. A fájl letöltésének Wi-Fi hálózathoz váló csatlakozásáig érintse meg %s."</string>
-     <!-- MNPS mismatch found! Translated: 2 Original: 0
-	%s: 2 Original: 0
-	%d: 0 Original: 0 -->
-     <!-- Original string: Use your mobile data connection to download this file? -->
-     <string name="recommended_no_file_size_download_in_mobile" formatted="false">A fájl mérete nem kérhető le. A fájl mobil adatkapcsolaton történő letöltéséhez érintse meg %s. A fájl letöltésének Wi-Fi hálózathoz váló csatlakozásáig érintse meg %s.</string>
+     <string name="recommended_file_size_download_in_mobile">Letölti ezt a fájlt %s mobil adatkapcsolatának használatával?</string>
+     <string name="recommended_no_file_size_download_in_mobile">Letölti ezt a fájlt mobil akatkapcsolat használatával?</string>
      <string name="root_downloads">Letöltések</string>
      <string name="task_already_exist">Már van ilyen feladat</string>
      <string name="warning_tip_cancel">Letöltés</string>
@@ -80,4 +76,8 @@ A fájl mérete nem kérhető le. A fájl mobil adatkapcsolaton történő letö
 
 Érintse meg a(z) %s  lehetőséget a letöltés elindításához, ha majd Wi-Fi hálózathoz csatlakozik."</string>
      <string name="wifi_required_title">A letöltés túl nagy a szolgáltató hálózatához</string>
+     <string name="xl_speedup_experience_notify_context">"Speed is boosted for every download when you're a Xunlei member"</string>
+     <string name="xl_speedup_experience_notify_title">Xunlei membership</string>
+     <string name="xl_speedup_notify_button_experience">Try for free</string>
+     <string name="xl_speedup_notify_button_member">Become a member</string>
 </resources>

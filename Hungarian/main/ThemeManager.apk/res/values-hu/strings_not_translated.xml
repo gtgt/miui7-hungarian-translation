@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Parsed by jbart2a -->
+<!-- Parsed by jbart3h -->
 <resources>
-     <string name="theme_provision_oper_button_next">Next</string>
+     <string name="resource_trial_end_time_format">hh:mma MMM d</string>
 </resources>

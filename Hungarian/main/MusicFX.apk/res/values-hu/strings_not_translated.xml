@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Parsed by jbart3h -->
+<resources>
+     <string name="classical">Classical</string>
+     <string name="dance">Dance</string>
+     <string name="eq_custom">To customize, select “Custom”</string>
+     <string name="flat">Flat</string>
+     <string name="folk">Folk</string>
+     <string name="heavy_metal">Heavy Metal</string>
+     <string name="hip_hop">Hip Hop</string>
+     <string name="jazz">Jazz</string>
+     <string name="largehall">LargeHall</string>
+     <string name="largeroom">LargeRoom</string>
+     <string name="mediumhall">MediumHall</string>
+     <string name="mediumroom">MediumRoom</string>
+     <string name="none">None</string>
+     <string name="normal">Normal</string>
+     <string name="plate">Plate</string>
+     <string name="pop">Pop</string>
+     <string name="power_on_prompt">Press the power button on the top-right.</string>
+     <string name="rock">Rock</string>
+     <string name="smallroom">SmallRoom</string>
+</resources>

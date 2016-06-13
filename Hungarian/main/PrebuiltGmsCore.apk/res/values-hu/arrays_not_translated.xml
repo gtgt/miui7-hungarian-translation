@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Parsed by jbart2a -->
+<!-- Parsed by jbart3h -->
 <resources>
      <string-array name="add_a_place_placetypes">
         <item>bar</item>
@@ -14,6 +14,36 @@
         <item>store</item>
         <item>grocery_or_supermarket</item>
         <item>other</item>
+     </string-array>
+     <string-array name="auth_device_management_download_description">
+        <item>@string/auth_device_management_download_description</item>
+        <item>@string/auth_device_management_download_description</item>
+        <item>@string/auth_device_management_download_description_kids</item>
+     </string-array>
+     <string-array name="auth_device_management_download_failed_message">
+        <item>@string/auth_device_management_download_failed_message</item>
+        <item>@string/auth_device_management_download_failed_message_nonskippable</item>
+        <item>@string/auth_device_management_download_failed_message_nonskippable</item>
+     </string-array>
+     <string-array name="auth_device_management_download_skip_confirm">
+        <item>@string/auth_device_management_download_skip_confirm</item>
+        <item>@string/auth_device_management_download_skip_nonskippable</item>
+        <item>@string/auth_device_management_download_skip_nonskippable</item>
+     </string-array>
+     <string-array name="auth_device_management_download_skip_message">
+        <item>@string/auth_device_management_download_skip_message</item>
+        <item>@string/auth_device_management_download_skip_message_nonskippable</item>
+        <item>@string/auth_device_management_download_skip_message_nonskippable</item>
+     </string-array>
+     <string-array name="auth_device_management_start_description">
+        <item>@string/auth_device_management_start_description</item>
+        <item>@string/auth_device_management_start_description</item>
+        <item>@string/auth_device_management_start_description_kids</item>
+     </string-array>
+     <string-array name="auth_device_management_update_description">
+        <item>@string/auth_device_management_update_description</item>
+        <item>@string/auth_device_management_update_description</item>
+        <item>@string/auth_device_management_update_description_kids</item>
      </string-array>
      <array name="auth_gls_passwordStrengthColor">
         <item>#ffff0000</item>
@@ -64,22 +94,52 @@
      <string-array name="auth_setup_wizard_services_agreement">
         <item>@string/auth_setup_wizard_services_agreement</item>
         <item>@string/auth_kids_setup_wizard_services_agreement</item>
+        <item>@string/auth_setup_wizard_services_agreement</item>
      </string-array>
      <string-array name="auth_setup_wizard_services_backup">
         <item>@string/auth_setup_wizard_services_backup</item>
         <item>@string/auth_kids_setup_wizard_services_backup</item>
+        <item>@string/auth_sw_setup_wizard_services_backup</item>
+     </string-array>
+     <string-array name="auth_setup_wizard_services_backup_dialog_text">
+        <item>@string/auth_setup_wizard_services_backup_dialog_text</item>
+        <item>@string/auth_kids_setup_wizard_services_backup_dialog_text</item>
+        <item>@string/auth_sw_setup_wizard_services_backup_dialog_text</item>
      </string-array>
      <string-array name="auth_setup_wizard_services_description">
         <item>@string/auth_setup_wizard_services_description</item>
         <item>@string/auth_kids_setup_wizard_services_description</item>
+        <item>@string/auth_setup_wizard_services_description</item>
      </string-array>
      <string-array name="auth_setup_wizard_services_description_account">
         <item>@string/auth_setup_wizard_services_description_account</item>
         <item>@string/auth_kids_setup_wizard_services_description_account</item>
+        <item>@string/auth_setup_wizard_services_description_account</item>
+     </string-array>
+     <string-array name="auth_setup_wizard_services_location_sharing">
+        <item>@string/auth_setup_wizard_services_location_sharing</item>
+        <item>@string/auth_kids_setup_wizard_services_location_sharing</item>
+        <item>@string/auth_setup_wizard_services_location_sharing</item>
+     </string-array>
+     <string-array name="auth_setup_wizard_services_location_sharing_dialog_text">
+        <item>@string/auth_setup_wizard_services_location_sharing_dialog_text</item>
+        <item>@string/auth_kids_setup_wizard_services_location_sharing_dialog_text</item>
+        <item>@string/auth_setup_wizard_services_location_sharing_dialog_text</item>
+     </string-array>
+     <string-array name="auth_setup_wizard_services_play">
+        <item>@string/auth_setup_wizard_services_play</item>
+        <item>@string/auth_setup_wizard_services_play</item>
+        <item>@string/auth_sw_setup_wizard_services_play</item>
      </string-array>
      <string-array name="auth_setup_wizard_services_usage_reporting">
         <item>@string/auth_setup_wizard_services_usage_reporting</item>
         <item>@string/auth_kids_setup_wizard_services_usage_reporting</item>
+        <item>@string/auth_setup_wizard_services_usage_reporting</item>
+     </string-array>
+     <string-array name="auth_setup_wizard_services_usage_reporting_dialog_text">
+        <item>@string/auth_setup_wizard_services_usage_reporting_dialog_text</item>
+        <item>@string/auth_kids_setup_wizard_services_usage_reporting_dialog_text</item>
+        <item>@string/auth_setup_wizard_services_usage_reporting_dialog_text</item>
      </string-array>
      <string-array name="car_app_mode_values">
         <item>Release</item>
@@ -363,9 +423,6 @@
         <item>967,YE</item>
         <item>260,ZM</item>
         <item>263,ZW</item>
-     </string-array>
-     <string-array name="gh_google_play_package_names">
-        <item>com.android.vending</item>
      </string-array>
      <string-array name="photo_connection_preference_entry_labels">
         <item>@string/photo_connection_wifi_and_mobile</item>

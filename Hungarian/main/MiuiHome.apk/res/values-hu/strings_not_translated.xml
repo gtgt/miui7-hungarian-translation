@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Parsed by jbart2a -->
+<!-- Parsed by jbart3h -->
 <resources>
+     <string name="default_folder_title_claro">Claro</string>
+     <string name="default_folder_title_telcel">Telcel</string>
      <string name="default_shortcut_title_10086">10086.cn</string>
      <string name="durationformatlong">%1$d:%3$02d:%5$02d</string>
      <string name="durationformatshort">%2$2d:%5$02d</string>
      <string name="durationformatshort_padding_with_0">%2$02d:%5$02d</string>
-     <string name="home_indicator">bottom_point</string>
 </resources>

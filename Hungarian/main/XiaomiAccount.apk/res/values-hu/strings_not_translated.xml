@@ -1,6 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Parsed by jbart2a -->
+<!-- Parsed by jbart3h -->
 <resources>
-     <string name="passport_login_short">Sign in</string>
-     <string name="provision_skip_login"><u>Skip this step</u></string>
+     <string name="account_error_all_space_user_name">"Name can't contain only space characters"</string>
+     <string name="account_user_region">Region</string>
+     <string name="account_vip_achievements">Achievements</string>
+     <string name="delete_bank_card_failed">小米闪付删除银行卡失败，请重新再试</string>
+     <string name="find_device_access_denied">"Can't get status, access denied"</string>
+     <string name="find_device_account_error">"Can't get status due to account error"</string>
+     <string name="find_device_bad_response_error">"Can't get status due to server error, try again later"</string>
+     <string name="find_device_error_password_not_confirmed">"Can't turn off Find device. Enter your Mi Account password again."</string>
+     <string name="find_device_error_password_recently_changed">"You've changed your password within last 3 days. Can't turn off Find device now due to security reasons."</string>
+     <string name="find_device_interrupted">Action was interrupted, try again later</string>
+     <string name="find_device_io_error">"Can't connect to the network"</string>
+     <string name="find_device_null_credential_error">"Can't get device info, contact Xiaomi customer service"</string>
+     <string name="find_device_operation_failed_error">An error occurred</string>
+     <string name="find_device_operation_failed_error_unknown">An error occurred, try again later</string>
+     <string name="find_device_remote_exception">RPC error</string>
+     <string name="find_device_request_error">"Can't request status info, try again later"</string>
+     <string name="find_device_request_prepare_error">"Can't get status, try again later"</string>
+     <string name="find_device_unknown_error">"Can't get status, try again later"</string>
+     <string name="turn_off_find_device_failed_title">"Can't turn off Find device"</string>
+     <string name="turning_off_find_device">Turning off Find device…</string>
 </resources>

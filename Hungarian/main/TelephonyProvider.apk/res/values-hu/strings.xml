@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Parsed by jbart2a -->
+<!-- Parsed by jbart3h -->
 <resources>
      <string name="app_label">Telefonos/üzenet-tárhely</string>
      <string name="mms_provider_label">MMS</string>
      <string name="mms_sms_provider_label">Üzenetkezelés</string>
+     <string name="read_only">read_only</string>
      <string name="siminfo_default_name">%d SIM</string>
      <string name="sms_provider_label">Üzenetek</string>
 </resources>

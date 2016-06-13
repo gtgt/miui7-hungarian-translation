@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Parsed by jbart3h -->
+<resources>
+     <string name="app_name2">SIM Toolkit2</string>
+     <string name="app_name3">SIM Toolkit3</string>
+     <string name="default_tone_dialog_msg">Playing Tone</string>
+     <string name="stk_intent_permission">Allow STK Intents</string>
+</resources>

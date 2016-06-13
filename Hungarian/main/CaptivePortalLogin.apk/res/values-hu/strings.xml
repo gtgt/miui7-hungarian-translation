@@ -4,4 +4,7 @@
     <string name="action_use_network">Használja ezt a hálózatot, mint</string>
     <string name="action_do_not_use_network">Ne használja ezt a hálózatot</string>
     <string name="action_bar_label">Bejelentkezés a hálózatba</string>
+    <string name="ssl_error_continue">Folytatás ennek ellenére böngészőn keresztül</string>
+    <string name="ssl_error_example">Például lehet, hogy a bejelentkezési oldal nem a megjelenített szervezethez tartozik.</string>
+    <string name="ssl_error_warning">Biztonsági problémák vannak azzal a hálózattal, amelyhez csatlakozni szeretne.</string>
 </resources>

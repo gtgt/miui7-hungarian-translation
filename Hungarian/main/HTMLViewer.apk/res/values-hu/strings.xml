@@ -1,4 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_label">HTML megtekintő</string>
+    <string name="loading">Betöltés…</string>
+    <string name="app_name_which_call">Alkalmazás:%s</string>
+    <string name="app_version_which_call">Alkalmazás verzió:%s</string>
+    <string name="policy_name">Adatvédelem: %s</string>
+    <string name="mibi_license">MiCredit Felhasználási Feltételek</string>
+    <string name="license_host_unreachable">"Nem sikerült kapcsolódni az internetre. Az információ megtekintéséhez 
+%s felkeresése"</string>
+    <string name="permdesc_accessDrm">Alkalmazások DRM-védett tartalmak elérésének engedélyezése.</string>
+    <string name="open_wifi_connect_title">Kapcsolódás %1$s hálózathoz</string>
+    <string name="open_wifi_connect_summary">Részletek megtekintése.</string>
+    <string name="settings_license_activity_title">Nyílt forrású liszenszek</string>
+    <string name="settings_license_activity_loading">Betöltés…</string>
+    <string name="settings_license_activity_unavailable">Hiba történt a liszenszek betöltése közben.</string>
+    <string name="settings_safetylegal_title">Biztonsági információ</string>
+    <string name="settings_safetylegal_activity_title">Biztonsági információn</string>
+    <string name="settings_safetylegal_activity_unreachable">Nincs internetkapcsolat. Az adatok megtekintéséehez keresse fel a %s honlapot, olyan számítógépről, amely rendelkezik internetkapcsolattal.</string>
+    <string name="settings_safetylegal_activity_loading">Betöltés…</string>
 </resources>

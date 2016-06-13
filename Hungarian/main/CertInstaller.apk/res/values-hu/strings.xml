@@ -31,4 +31,38 @@
     <string name="sdcard_not_present">Az USB-tár nem érhető el.</string>
     <string name="only_primary_user_allowed">Csak az eszköz tulajdonosa telepíthet tanúsítványokat.</string>
     <string name="credential_usage_label">Hitelesítési adatok használata:</string>
+    <string name="done_label">KÉSZ</string>
+    <string name="install_done">A(z) %1$s hitelesítési adatai hozzáadva a mentett Wi-Fi-hálózatokhoz.</string>
+    <string name="install_done_title">Hitelesítési adatok telepítve</string>
+    <string name="wifi_cancel_label">Mégse</string>
+    <string name="wifi_config_text">"Név: %1$s
+FQDN: %2$s
+Barangolási konzorciumok: %3$s
+Tartomány: %4$s
+Hitelesítési mód: EAP-%5$s
+"</string>
+    <string name="wifi_detail_label">Részletek</string>
+    <string name="wifi_detail_title">%s részletei</string>
+    <string name="wifi_dismiss_label">Elvetés</string>
+    <string name="wifi_install_label">Telepítés</string>
+    <string name="wifi_installer_detail">Telepítse a Wi-Fi-hitelesítési adatokat, hogy csatlakozhasson a(z) %1$s elérhető hálózataihoz.</string>
+    <string name="wifi_installer_download_error">A letöltött fájllal problémák vannak, és azt nem lehet telepíteni. Győződjön meg arról, hogy a megfelelő forrásból töltötte le a fájlt.</string>
+    <string name="wifi_installer_fail">Nem lehet telepíteni a Wi-Fi-hitelesítési adatokat. Próbálkozzon a fájl újbóli letöltésével.</string>
+    <string name="wifi_installer_fail_no_wifi">Kapcsolja be a Wi-Fi-t, és próbálja újra.</string>
+    <string name="wifi_installer_fail_no_wifi_title">Telepítés megszakítva</string>
+    <string name="wifi_installer_fail_title">Nem lehet telepíteni</string>
+    <string name="wifi_installing_label">Települ</string>
+    <string name="wifi_no_config">Nincs</string>
+    <string name="wifi_sim_config_text">"SIM kártya: %s
+"</string>
+    <string name="wifi_title">Wi-Fi-profil</string>
+    <string name="wifi_tls_config_text">"Ügyféltanúsítvány:
+%1$s
+Kulcs: %2$s
+"</string>
+    <string name="wifi_trust_config_text">"Megbízható tanúsítvány:
+%s
+"</string>
+    <string name="wifi_ttls_config_text">"Felhasználónév: %s
+"</string>
 </resources>

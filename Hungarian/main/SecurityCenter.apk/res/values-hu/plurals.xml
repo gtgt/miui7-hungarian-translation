@@ -1,43 +1,137 @@
 <?xml version="1.0" encoding="utf-8"?>
+<!-- Parsed by jbart3h -->
 <resources>
-    <plurals name="power_center_battery_day">
-        <item quantity="other">"%dnap "</item>
-        <item quantity="one">"%dnap "</item>
-    </plurals>
-    <plurals name="power_center_battery_hour">
-        <item quantity="other">"%dóra "</item>
-        <item quantity="one">"%dóra "</item>
-    </plurals>
-    <plurals name="power_center_battery_minute">
-        <item quantity="other">"%dperc "</item>
-        <item quantity="one">"%dperc "</item>
-    </plurals>
-    <plurals name="hints_auto_start_enable_title">
-        <item quantity="other">%d alkalmazás indítható automatikusan</item>
-        <item quantity="one">%d alkalmazás indítható automatikusan</item>
-    </plurals>
-    <plurals name="hints_auto_start_disable_title">
-        <item quantity="other">%d alkalmazás automatikus indítása letiltva</item>
-        <item quantity="one">%d alkalmazás automatikus indítása engedélyezve</item>
-    </plurals>
-    <plurals name="hints_apps_perm_count">
+     <plurals name="find_applications">
+        <item quantity="other">Keresés %d alkalmazásban</item>
+        <item quantity="one">Keresés %d alkalmazásban</item>
+     </plurals>
+     <plurals name="found_apps_title">
+        <item quantity="other">%d alkalmazás találat</item>
+        <item quantity="zero">Nincs találat</item>
+        <item quantity="one">%d alkalmazás találat</item>
+     </plurals>
+     <plurals name="hints_apps_perm_count">
         <item quantity="other">%d engedély</item>
         <item quantity="one">%d engedély</item>
-    </plurals>
-    <plurals name="hints_permission_apps_count">
-        <item quantity="other">%d alkalmazás</item>
-        <item quantity="one">%d alkalmazás</item>
-    </plurals>
-    <plurals name="hints_get_root_enable_title">
-        <item quantity="other">%d alkalmazás root jogosultsága engedélyezve</item>
-        <item quantity="one">%d alkalmazás root jogosultsága engedélyezve</item>
-    </plurals>
-    <plurals name="hints_get_root_disable_title">
+     </plurals>
+     <plurals name="hints_auto_start_disable_title">
+        <item quantity="other">%d alkalmazás automatikus indítása letiltva</item>
+        <item quantity="one">%d alkalmazás automatikus indítása engedélyezve</item>
+     </plurals>
+     <plurals name="hints_auto_start_enable_title">
+        <item quantity="other">%d alkalmazás indítható automatikusan</item>
+        <item quantity="one">%d alkalmazás indítható automatikusan</item>
+     </plurals>
+     <plurals name="hints_get_root_disable_title">
         <item quantity="other">%d alkalmazás root jogosultsága letiltva</item>
         <item quantity="one">%d alkalmazás root jogosultsága letiltva</item>
-    </plurals>
-    <plurals name="summary_app_update">
+     </plurals>
+     <plurals name="hints_get_root_enable_title">
+        <item quantity="other">%d alkalmazás root jogosultsága engedélyezve</item>
+        <item quantity="one">%d alkalmazás root jogosultsága engedélyezve</item>
+     </plurals>
+     <plurals name="hints_install_apps_interval">
+        <item quantity="other">Used %d days ago</item>
+        <item quantity="one">Used yesterday</item>
+     </plurals>
+     <plurals name="hints_permission_apps_count">
+        <item quantity="other">%d alkalmazás</item>
+        <item quantity="one">%d alkalmazás</item>
+     </plurals>
+     <plurals name="hints_roaming_disable_title">
+        <item quantity="other">"%d apps can't use data roaming"</item>
+        <item quantity="one">"%d app can't use data roaming"</item>
+     </plurals>
+     <plurals name="hints_roaming_enable_title">
+        <item quantity="other">%d apps can use data roaming</item>
+        <item quantity="one">%d app can use data roaming</item>
+     </plurals>
+     <plurals name="hints_roaming_found_app_count_title">
+        <item quantity="other">%d apps found</item>
+        <item quantity="one">%d app found</item>
+     </plurals>
+     <plurals name="hints_traffic_disable_title">
+        <item quantity="other">%d alkalmazás adatforgalmazásának nyomonkövetése</item>
+        <item quantity="one">Egy alkalmazás adatforgalmazásának nyomonkövetése</item>
+     </plurals>
+     <plurals name="hints_traffic_enable_title">
+        <item quantity="other">%d alkalmazás adatforgalmazásának nincs nyomonkövetése</item>
+        <item quantity="one">Egy alkalmazás adatforgalmazásának nincs nyomonkövetése</item>
+     </plurals>
+     <plurals name="hints_traffic_saving_disable_title">
+        <item quantity="other">%d apps are not using Data saver</item>
+        <item quantity="one">%d app is not using Data saver</item>
+     </plurals>
+     <plurals name="hints_traffic_saving_enable_title">
+        <item quantity="other">%d apps are using Data saver</item>
+        <item quantity="one">%d app is using Data saver</item>
+     </plurals>
+     <plurals name="hints_traffic_saving_need_optimize">
+        <item quantity="other">%d apps can be optimized</item>
+        <item quantity="one">%d app can be optimized</item>
+     </plurals>
+     <plurals name="hints_traffic_saving_optimized">
+        <item quantity="other">%d apps optimized</item>
+        <item quantity="one">%d app optimized</item>
+     </plurals>
+     <plurals name="lockpassword_password_requires_letters">
+        <item quantity="other">A jelszónak legalább %d betűt kell tartalmaznia.</item>
+        <item quantity="one">A jelszónak legalább 1 betűt kell tartalmaznia.</item>
+     </plurals>
+     <plurals name="lockpassword_password_requires_lowercase">
+        <item quantity="other">A jelszónak legalább %d kisbetűt kell tartalmaznia.</item>
+        <item quantity="one">A jelszónak legalább 1 kisbetűt kell tartalmaznia.</item>
+     </plurals>
+     <plurals name="lockpassword_password_requires_nonletter">
+        <item quantity="other">A jelszónak legalább %d különleges karaktert (ami nem betű) kell tartalmaznia.</item>
+        <item quantity="one">A jelszónak legalább 1 különleges karaktert (ami nem betű) kell tartalmaznia.</item>
+     </plurals>
+     <plurals name="lockpassword_password_requires_numeric">
+        <item quantity="other">A jelszónak legalább %d számot kell tartalmaznia.</item>
+        <item quantity="one">A jelszónak legalább 1 számot kell tartalmaznia.</item>
+     </plurals>
+     <plurals name="lockpassword_password_requires_symbols">
+        <item quantity="other">A jelszónak legalább %d különleges karaktert kell tartalmaznia.</item>
+        <item quantity="one">A jelszónak legalább %d különleges karaktert kell tartalmaznia.</item>
+     </plurals>
+     <plurals name="lockpassword_password_requires_uppercase">
+        <item quantity="other">A jelszónak legalább %d nagybetűt kell tartalmaznia.</item>
+        <item quantity="one">A jelszónak legalább 1 nagybetűt kell tartalmaznia.</item>
+     </plurals>
+     <plurals name="notification_apps">
+        <item quantity="other">%d alkalmazás tartalmaz adatvédelmi kockázatot</item>
+        <item quantity="one">%d alkalmazás tartalmaz adatvédelmi kockázatot</item>
+     </plurals>
+     <plurals name="number_locked">
+        <item quantity="other">%d alkalmazás zárolva</item>
+        <item quantity="one">%d alkalmazás zárolva</item>
+     </plurals>
+     <plurals name="number_to_lock">
+        <item quantity="other">%d alkalmazás nincs zárolva</item>
+        <item quantity="one">%d alkalmazás nincs zárolva</item>
+     </plurals>
+     <plurals name="power_center_battery_day">
+        <item quantity="other">"%dnap "</item>
+        <item quantity="one">"%dnap "</item>
+     </plurals>
+     <plurals name="power_center_battery_hour">
+        <item quantity="other">"%dóra "</item>
+        <item quantity="one">"%dóra "</item>
+     </plurals>
+     <plurals name="power_center_battery_minute">
+        <item quantity="other">"%dperc "</item>
+        <item quantity="one">"%dperc "</item>
+     </plurals>
+     <plurals name="search_app_count_txt">
+        <item quantity="other">%d alkalmazás keresése</item>
+        <item quantity="one">%d alkalmazás keresése</item>
+     </plurals>
+     <plurals name="search_app_count_txt_na">
+        <item quantity="other">Search %d apps</item>
+        <item quantity="one">Search %d app</item>
+     </plurals>
+     <plurals name="summary_app_update">
         <item quantity="other">%d alkalmazáshoz elérhető frissítés.</item>
         <item quantity="one">%d alkalmazáshoz elérhető frissítés.</item>
-    </plurals>
+     </plurals>
 </resources>

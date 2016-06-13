@@ -1,13 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Parsed by jbart2a -->
+<!-- Parsed by jbart3h -->
 <resources>
+     <string name="action_consumes_rights">Rights will be consumed for playing this media</string>
      <string name="app_label">Dokumentumok</string>
+     <string name="button_copy">Másolás</string>
+     <string name="button_select">Kiválasztás</string>
+     <string name="copy_failure_alert_content">A következő fájlokat nem sikerült átmásolni: %1$s</string>
+     <string name="copy_notification_title">Fájlok másolása</string>
+     <string name="copy_preparing">Felkészülés a másolásra…</string>
+     <string name="copy_remaining">%s van hátra</string>
      <string name="create_error">Nem sikerült létrehozni a mappát</string>
      <string name="drawer_close">Gyökérszint elrejtése</string>
      <string name="drawer_open">Gyökérszint megjelenítése</string>
+     <string name="drm_license_info">Drm license info</string>
      <string name="empty">Nincsenek elemek</string>
      <string name="menu_advanced_hide">Belső tárhely elrejtése</string>
      <string name="menu_advanced_show">Belső tárhely</string>
+     <string name="menu_copy">Másolás ide…</string>
      <string name="menu_create_dir">Mappa létrehozása</string>
      <string name="menu_delete">Törlés</string>
      <string name="menu_file_size_hide">Fájlméret elrejtése</string>
@@ -18,11 +27,19 @@
      <string name="menu_save">Mentés</string>
      <string name="menu_search">Keresés</string>
      <string name="menu_select">A(z) „^1” mappa kiválasztása</string>
+     <string name="menu_select_all">Összes kiválasztása</string>
      <string name="menu_settings">Beállítások</string>
      <string name="menu_share">Megosztás</string>
      <string name="menu_sort">Rendezés</string>
      <string name="mode_selected_count">%1$d kiválasztva</string>
+     <string name="no_permission_for_drm">Sorry, DRM file cannot be shared</string>
+     <string name="notification_touch_for_details">Érintse meg a részletek megtekintéséhez</string>
+     <string name="pref_advanced_devices">Speciális eszközök megjelenítése</string>
+     <string name="pref_device_size">Eszközméret megjelenítése</string>
+     <string name="pref_file_size">Fájlméret megjelenítése</string>
      <string name="query_error">A dokumentumok lekérése nem sikerült</string>
+     <string name="retry">Újra</string>
+     <string name="rights_expired">Rights expired for the song</string>
      <string name="root_available_bytes">%1$s szabad</string>
      <string name="root_recent">Legutóbbiak</string>
      <string name="root_type_apps">További alkalmazások</string>
@@ -38,4 +55,5 @@
      <string name="title_save">Mentés ide</string>
      <string name="toast_failed_delete">Néhány dokumentumot nem lehet törölni</string>
      <string name="toast_no_application">A fájlt nem lehet megnyitni</string>
+     <string name="toast_not_show_thumbnail">Can not show thumbnail on low ram device.</string>
 </resources>

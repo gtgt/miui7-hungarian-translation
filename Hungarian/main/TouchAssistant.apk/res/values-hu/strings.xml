@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Parsed by jbart3h -->
+<resources>
+     <string name="alipay_package">com.eg.android.AlipayGphone</string>
+     <string name="app_name">Érintés asszisztens</string>
+     <string name="app_not_installed">Nincs telepítve</string>
+     <string name="applications">Alkalmazások</string>
+     <string name="category_others">Továbbiak</string>
+     <string name="category_setting">Beállítások</string>
+     <string name="customize_entries">Funkciók terstreszabása</string>
+     <string name="enable_touch_assistant">Érintés asszisztens bekapcsolása</string>
+     <string name="function_settings">Funkciók beállítása</string>
+     <string name="hide_touch_assistant">Érintés asszisztens automatikus elrejtése</string>
+     <string name="hide_touch_assistant_intro">Érintés asszisztens elrejtése néhány alkalmazásban.</string>
+     <string name="name_alipay_payment_code">Alipay gyorsfizetés</string>
+     <string name="name_alipay_scan">Alipay keresőkó</string>
+     <string name="name_kill_processes">Memória tisztítás</string>
+     <string name="name_long_press_power_key">Long press power button</string>
+     <string name="name_memory_clean">Clear cache</string>
+     <string name="name_music_next_song">Következő dal</string>
+     <string name="name_music_prev_song">Előző dal</string>
+     <string name="name_music_toggle">Dal lejátszás/szüneteltetés</string>
+     <string name="name_payment_code">Gyorsfizetés</string>
+     <string name="name_press_back_key">Vissza gomb megnyomása</string>
+     <string name="name_press_home_key">Kezdőképernyő gomb megnyomása</string>
+     <string name="name_press_menu_key">Menü gomb megnyomása</string>
+     <string name="name_quick_lock">Képernyő kikapcsolása</string>
+     <string name="name_quick_search">Keresés</string>
+     <string name="name_scan_to_pay">Fizetéshez keresés</string>
+     <string name="name_screenshot">Képernyőkép</string>
+     <string name="name_wechat_payment_code">Wechat quick pay</string>
+     <string name="name_wechat_scan">Wechat keresési kód</string>
+     <string name="pay_entry_dialog_title_select">Megnyitáshoz alkalmazás kiválasztása</string>
+     <string name="pay_entry_dialog_title_setting">Set app checked to enable</string>
+     <string name="pref_category_others">Továbbiak</string>
+     <string name="pref_category_quick_pay">Gyorsfizetés</string>
+     <string name="pref_category_quick_settings">Gyorsbeállítások</string>
+     <string name="pref_category_system">Rendszer beállítások</string>
+     <string name="restore_default">Alapértelmezett visszaállítás</string>
+     <string name="restore_intro">Alapértelmezett visszaállítás, mely tartalmazza a funkciókat és megrendeléeket. Nem fogja törölni az adatokat a telefonról.</string>
+     <string name="vector_large_circle">M200,100 a100,100 0 1,0 1,0 z</string>
+     <string name="vector_large_crossA">M160,160 L240,240</string>
+     <string name="vector_large_crossB">M240,160 L160,240</string>
+     <string name="wechat_package">com.tencent.mm</string>
+</resources>

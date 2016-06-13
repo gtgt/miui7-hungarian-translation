@@ -8,18 +8,18 @@
     <string name="sina_share_fail_content_repeat">Nem osztható meg, mert már van ilyen tartalom…</string>
     <string name="app_name">Jegyzetek</string>
     <string name="app_widget">Jegyzetek</string>
-    <string name="widget_havenot_content">Nincsenek kapcsolódó jegyzetek, érintse meg a készítéshez.</string>
+    <string name="widget_havenot_content">Nem található jegyzet, érintse meg a készítéshez, az átméretezéshez érintse meg és húzza az egyik szélét.</string>
     <string name="widget_under_privacy_mode">Védett üzemmódban, a jegyzetek tartalma el lesz rejtve</string>
-    <string name="widget_content_loading">Betöltés…</string>
+    <string name="widget_content_loading">Egy pillanat…</string>
     <string name="notelist_string_info">...</string>
     <string name="notelist_menu_new">Új jegyzet</string>
     <string name="note_alert_expired">Lejárt</string>
-    <string name="notealert_ok">OK</string>
-    <string name="notealert_enter">Megtekintés</string>
+    <string name="notealert_ok">Elvetés</string>
+    <string name="notealert_enter">Jegyzet megnyitása</string>
     <string name="note_link_tel">Hívás</string>
-    <string name="note_link_email">Küldés email-ben</string>
-    <string name="note_link_web">Web böngészése</string>
-    <string name="note_link_other">Térkép megnyitás</string>
+    <string name="note_link_email">Email írása</string>
+    <string name="note_link_web">Megtekintés böngészőben</string>
+    <string name="note_link_other">Megnyitás a térképpel</string>
     <string name="note_link_select">Szöveg kiválasztás</string>
     <string name="menu_create_folder">Új mappa</string>
     <string name="menu_delete">Törlés</string>
@@ -36,35 +36,35 @@
     <string name="menu_send_wechat">Küldés WeChat-re</string>
     <string name="info_note_enter_desktop">Jegyzet az asztalra küldve</string>
     <string name="all_terms">%1$s és %2$s</string>
-    <string name="alert_title_delete">Jegyzet törlése</string>
+    <string name="alert_title_delete">Törli a jegyzetet?</string>
     <string name="alert_message_delete">%1$s törlése?</string>
     <string name="alert_message_delete_note">Törli a jegyzetet?</string>
     <string name="format_move_notes_to_folder">%1$s jegyzet áthelyezve a(z) %2$s mappába</string>
     <string name="format_move_notes_out_folder">%1$s kihelyezve</string>
     <string name="alert_title_edit_anyway">Szerkeszti a jegyzetet,ami adatvesztéssel járhat?</string>
     <string name="alert_message_edit_anyway">A jegyzet nem támogatott tartalmat tartalmaz,melynek szerkesztése adatvesztéssel járhat.</string>
-    <string name="alert_action_edit_anyway">Szerkesztés folytatása</string>
+    <string name="alert_action_edit_anyway">Szerkesztés</string>
     <string name="error_note_not_exist">A jegyzet nem létezik</string>
     <string name="error_note_empty_for_clock">Elnézést az üres jegyzethez nem állítható be emlékeztető</string>
     <string name="error_note_empty_for_send_to_desktop">Elnézést, üres jegyzet nem helyezhető el a főképernyőn</string>
     <string name="error_widget_exist_for_send_to_desktop">Ez a jegyzet már az asztalon van</string>
-    <string name="error_unsupport_content">A jegyzet nem támogatott tartalmat tartalmaz, kattintson a rendszer frissítéséhez</string>
+    <string name="error_unsupport_content">A jegyzet nem támogatott tartalmat tartalmaz, kattintson ide a frissítéséhez</string>
     <string name="error_contact_not_exist">A névjegy nem létezik</string>
     <string name="sync_tips">Érintse meg a szinkronizáláshoz.</string>
     <string name="micloud_state_total_count">%1$s</string>
     <string name="pref_title_font_size">Betűméret</string>
     <string name="call_record_folder_name">Híváslista</string>
     <string name="hint_foler_name">Írja be a mappa nevét</string>
-    <string name="search_label">Jegyzetek keresése</string>
+    <string name="search_label">Keresés…</string>
     <string name="search_hint">Keresés jegyzetek után</string>
-    <string name="search_setting_description">írja be a szöveget</string>
+    <string name="search_setting_description">Szöveg keresése a jegyzetben</string>
     <string name="search">Jegyzetek</string>
-    <string name="button_new_note">Új jegyzet</string>
+    <string name="button_new_note">Új</string>
     <string name="default_folder_name">Jegyzetek</string>
     <string name="attachment_gallery">Galéria</string>
     <string name="attachment_camera">Kamera</string>
     <string name="attachment_contact">Névjegyzék</string>
-    <string name="alert_edit_action_update">Frissít</string>
+    <string name="alert_edit_action_update">Változtatás</string>
     <string name="alert_edit_action_delete">Eltávolít</string>
     <string name="notify_alarm_title">Jegyzet emlékeztető</string>
     <string name="alarm_bar_title">Emlékeztető</string>
@@ -72,7 +72,7 @@
     <string name="toast_message_add_text_warn">Ez a fájlformátum nem támogatott</string>
     <string name="toast_folder_privacy_mode">Védelem módban a mappa nem szerkeszthető</string>
     <string name="toast_note_privacy_mode">Nem készíthető új jegyzet Adatvédelem üzemmódban</string>
-    <string name="toast_reach_text_limit_truncate">A jegyzet automatikusan levágva,mert túl hosszú.</string>
+    <string name="toast_reach_text_limit_truncate">A jegyzet veége automatikusan le lesz vágva, mert túl hosszú.</string>
     <string name="toast_reach_text_limit_attachment">A jegyzet túl nagy új csatolmányok hozzáadásához.</string>
     <string name="snippet_image_stub">[Kép]</string>
     <string name="snippet_image_template">[Kép %1$s]</string>
@@ -82,17 +82,19 @@
     <string name="not_now">Most nem</string>
     <string name="enable_sync">Szinkronizálás</string>
     <string name="login_sync">Belépés és szinkr.</string>
-    <string name="pref_title_note_style">Jegyzet stílus</string>
+    <string name="pref_title_note_style">Stílus</string>
     <string name="pref_title_common">Egyéb beállítás</string>
-    <string name="pref_title_alarm_when_silent">Emlékeztető néma üzemmódban</string>
-    <string name="pref_desc_alarm_when_silent">Az ébresztőóra és a jegyzet alkalmazás jelezni fog néma üzemmódban</string>
+    <string name="pref_title_alarm_when_silent">Ne némítsa az emlékeztetőket</string>
+    <string name="pref_desc_alarm_when_silent">A jegyzet riasztások jelezni fognak néma üzemmódban</string>
+    <string name="pref_title_recover_help">Jegyzetek visszaállítása</string>
     <string name="dlg_title_confirm_alarm_silent">Ne jelezzenek az emlékeztetők néma üzemmódban?</string>
     <string name="dlg_desc_confirm_alarm_silent">A jegyzet alkalmazás emlékeztetése néma üzemmódban</string>
+    <string name="dlg_delete_message">Törlés…</string>
     <string name="permlab_accessNote">Hozzáférés a jegyzetekhez</string>
     <string name="permdesc_accessNote">Engedélyezésével a rosszindulatú alkalmazások is hozzáférhetnek személyes adataihoz.</string>
     <string name="undo">Visszavon</string>
     <string name="redo">Újra</string>
-    <string name="loading_text">Betöltés…</string>
+    <string name="loading_text">Egy pillanat…</string>
     <string name="sns_title_edit">Cím szerkesztése</string>
     <string name="sns_title_send">Üzenetküldés</string>
     <string name="sns_action_send">Küldés</string>
@@ -101,7 +103,7 @@
     <string name="sns_footer_text">MiNotes használatával készült</string>
     <string name="dlg_info_creating_message">Üzenet létrehozása…</string>
     <string name="sns_message_disconnect">Nem sikerült csatlakozni a hálózathoz. Ellenőrizze a kapcsolatot és próbálja újra.</string>
-    <string name="sns_content_default">Kép megosztás</string>
+    <string name="sns_content_default">Fénykép megosztás</string>
     <string name="sns_toast_empty">Nem küldhető el üres poszt</string>
     <string name="sns_toast_over_limit">Küldés képként (szöveghatár túllépése miatt)</string>
     <string name="sns_desc_preview_weibo">Weibo üzenet előnézete</string>
@@ -111,10 +113,5 @@
     <string name="sns_choose_quality_low">Alacsony</string>
     <string name="welcome_note_for_cm">"Még több nagyszerű funkció!
     - Szinkronizálja a MiCloud-dal
-    - Mentés kilépéskor
-    - Emlékeztetők beállítása
-  
-    További információért látogassa meg az alábbi honlapot:
-    http://www.miui.com/forum.php?lang=1
-   "</string>
+    - Emlékeztetők beállítása"</string>
 </resources>

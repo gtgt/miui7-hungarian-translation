@@ -1,8 +1,35 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Parsed by jbart2a -->
+<!-- Parsed by jbart3h -->
 <resources>
+     <string name="master_alert_notif_content">"Can't sync"</string>
+     <string name="micloud_detail_battery_low_message">Battery is low. Please charge your phone and sync.</string>
+     <string name="micloud_detail_battery_low_title">Battery is low</string>
+     <string name="micloud_detail_depend_wifi_message">Please connect to WLAN or check the sync settings.</string>
+     <string name="micloud_detail_depend_wifi_title">Need WLAN</string>
+     <string name="micloud_detail_do_not_sync">"Don't sync"</string>
+     <string name="micloud_detail_force_sync">Sync now</string>
+     <string name="micloud_detail_not_sync">%d waiting to sync</string>
+     <string name="micloud_detail_ok">OK</string>
+     <string name="micloud_detail_preference_sync_items">Items</string>
+     <string name="micloud_detail_query_error">"Couldn't get info about sync progress"</string>
+     <string name="micloud_detail_query_error_detail">"Can't confirm if sync is complete for some services. You can contact the developers using the Feedback app."</string>
+     <string name="micloud_detail_query_error_title">"Couldn't get info about sync progress"</string>
+     <string name="micloud_detail_sync_now">Sync now</string>
      <string name="micloud_first_login_summary" />
      <string name="micloud_first_login_title" />
+     <string name="micloud_main_not_sync">%d items waiting to sync</string>
+     <string name="micloud_main_query_error_message">"Can't confirm if sync is complete for some services"</string>
+     <string name="micloud_main_query_error_title">"Couldn't get info about sync progress"</string>
+     <string name="micloud_notif_content_sync_finish">Account</string>
+     <string name="micloud_notif_content_sync_not_finish">Detail</string>
+     <string name="micloud_notif_title_sync_finish">Synced</string>
+     <string name="micloud_notif_title_sync_not_finish">"Some items haven't been synced"</string>
+     <string name="micloud_notif_title_sync_progress">Syncing</string>
+     <string name="micloud_request_permission_confirm">Got it</string>
+     <string name="micloud_request_permission_content">Mi Cloud needs permissions to sync data. Allow Mi Cloud to access Calendar, Contacts, Mi Account, SIM card status, call history, and messages.</string>
+     <string name="micloud_request_permission_title">Mi Cloud needs permissions</string>
      <string name="micloud_unlogin_for_time_summary" />
+     <string name="micloud_website">View items in Mi Cloud</string>
+     <string name="sub_alert_notif_content">Turn on sync with Mi Cloud to back up your data</string>
      <string name="sync_dspt_provision2_int">www.mi.com/micloud</string>
 </resources>

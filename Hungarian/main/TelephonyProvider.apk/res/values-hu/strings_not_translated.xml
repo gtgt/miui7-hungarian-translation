@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Parsed by jbart2a -->
+<!-- Parsed by jbart3h -->
 <resources>
      <string name="mms_provider_label">MMS</string>
+     <string name="read_only">read_only</string>
 </resources>

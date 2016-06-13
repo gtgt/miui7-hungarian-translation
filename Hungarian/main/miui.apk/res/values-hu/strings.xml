@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Parsed by jbart2a -->
+<!-- Parsed by jbart3h -->
 <resources>
      <string name="abc_action_bar_home_description">Kezdőlap</string>
      <string name="abc_action_bar_up_description">Fel</string>
@@ -411,6 +411,7 @@
      <string name="heavenly_stems_wu">戊</string>
      <string name="heavenly_stems_xin">辛</string>
      <string name="heavenly_stems_yi">乙</string>
+     <string name="hybrid_provider" />
      <string name="im">IM</string>
      <string name="label">MIUI SDK</string>
      <string name="midnight">DE</string>
@@ -458,6 +459,7 @@
      <string name="name">Név</string>
      <string name="nickname">Becenév</string>
      <string name="night">DU</string>
+     <string name="no_network">Nem sikerült kapcsolódni a hálózathoz</string>
      <string name="no_sim">Nincs SIM kártya.</string>
      <string name="noon">DU</string>
      <string name="note">Jegyzet</string>
@@ -575,6 +577,7 @@
      <string name="web_sso_login_fail">Újra bejelentkezés szükséges</string>
      <string name="web_sso_login_message">Bejelentkezés…</string>
      <string name="website">Honlap</string>
+     <string name="webview_reload">Próbálja újra</string>
      <string name="wednesday">Szerda</string>
      <string name="wednesday_short">Sze</string>
      <string name="wednesday_shortest">T</string>

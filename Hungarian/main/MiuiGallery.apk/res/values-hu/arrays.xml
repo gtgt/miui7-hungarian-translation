@@ -1,13 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Parsed by jbart2a -->
+<!-- Parsed by jbart3h -->
 <resources>
      <string-array name="baby_sexy">
         <item>Fiú</item>
         <item>Lány</item>
-     </string-array>
-     <string-array name="baby_sexy_value">
-        <item>male</item>
-        <item>female</item>
      </string-array>
      <string-array name="owner_relation">
         <item>Apa</item>
@@ -17,13 +13,23 @@
         <item>Anyai nagypapa</item>
         <item>Anyai nagymama</item>
      </string-array>
-     <string-array name="owner_relation_value">
-        <item>father</item>
-        <item>mother</item>
-        <item>grandfather</item>
-        <item>grandmother</item>
-        <item>maternalGrandfather</item>
-        <item>maternalGrandmother</item>
+     <string-array name="relation_with_me">
+        <item>Én</item>
+        <item>Gyerek</item>
+        <item>Család</item>
+        <item>Munkatárs</item>
+        <item>Osztálytárs</item>
+        <item>Barát</item>
+        <item>Ismeretlen</item>
+     </string-array>
+     <string-array name="relation_with_me_value">
+        <item>myself</item>
+        <item>child</item>
+        <item>family</item>
+        <item>collegue</item>
+        <item>classmate</item>
+        <item>friend</item>
+        <item>unknown</item>
      </string-array>
      <string-array name="slideshow_time_entries">
         <item>5 perc</item>

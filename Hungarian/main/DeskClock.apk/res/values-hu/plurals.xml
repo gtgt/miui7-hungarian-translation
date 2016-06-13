@@ -1,36 +1,43 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Parsed by jbart2a -->
 <resources>
-     <plurals name="alarm_alert_snooze_set">
-        <item quantity="other">Snoozing for %d minutes.</item>
-        <item quantity="one">Snoozing for %d minute.</item>
-     </plurals>
-     <plurals name="auto_silence_summary">
-        <item quantity="other">Alarms will silence after %d minutes</item>
-        <item quantity="one">Alarms will silence after %d minute</item>
-     </plurals>
-     <plurals name="snooze_message">
-        <item quantity="other">%d perc szundi</item>
-        <item quantity="one">%d perc szundi</item>
-     </plurals>
-     <plurals name="timer_item_duration_display_minutes">
-        <item quantity="other">%1$d perc</item>
-        <item quantity="one">1 perc</item>
-     </plurals>
-     <plurals name="timer_item_duration_display_seconds">
-        <item quantity="other">%1$d másodperc</item>
-        <item quantity="one">1 másodperc</item>
-     </plurals>
-     <plurals name="timer_message_hour">
+    <plurals name="timer_message_hour">
         <item quantity="other">"%1$d óra "</item>
         <item quantity="one">"%1$d óra "</item>
-     </plurals>
-     <plurals name="timer_message_minute">
+    </plurals>
+    <plurals name="timer_message_minute">
         <item quantity="other">"%1$d perc "</item>
         <item quantity="one">"%1$d perc "</item>
-     </plurals>
-     <plurals name="timer_message_second">
+    </plurals>
+    <plurals name="timer_message_second">
         <item quantity="other">"%1$d másodperc "</item>
         <item quantity="one">"%1$d másodperc "</item>
-     </plurals>
+    </plurals>
+    <plurals name="timer_item_duration_display_seconds">
+        <item quantity="other">%1$d másodperc</item>
+        <item quantity="one">1 másodperc</item>
+    </plurals>
+    <plurals name="timer_item_duration_display_minutes">
+        <item quantity="other">%1$d perc</item>
+        <item quantity="one">1 perc</item>
+    </plurals>
+    <plurals name="snooze_message">
+        <item quantity="other">%d perc szundi</item>
+        <item quantity="one">%d perc szundi</item>
+    </plurals>
+    <plurals name="alarm_alert_snooze_set">
+        <item quantity="other">Szundi %d percig.</item>
+        <item quantity="one">Szundi %d percig.</item>
+    </plurals>
+    <plurals name="auto_silence_summary">
+        <item quantity="other">Az ébresztés kikapcsol %d perc után</item>
+        <item quantity="one">Az ébresztés kikapcsol %d perc után</item>
+    </plurals>
+    <plurals name="delete_alarm_confirm">
+        <item quantity="other">Törli a kiválasztott ébresztéseket?</item>
+        <item quantity="one">Törli a kiválasztott ébresztést?</item>
+    </plurals>
+    <plurals name="delete_timezone_confirm">
+        <item quantity="other">Törli a kiválasztott időzónákat?</item>
+        <item quantity="one">Törli a kiválasztott időzónát?</item>
+    </plurals>
 </resources>

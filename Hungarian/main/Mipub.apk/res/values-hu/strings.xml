@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Parsed by jbart2a -->
+<!-- Parsed by jbart3h -->
 <resources>
      <string name="activity_not_found_uri">Nem található alkalmazás a művelet végrehajtásához</string>
      <string name="add_attachment">Melléklet hozzáadása</string>
@@ -85,6 +85,7 @@
      <string name="hms_uri_param_err">"Mipub URL's query parameter \"id\" nem lehet üres"</string>
      <string name="invalid_conversation">Érvénytelen beszélgetés</string>
      <string name="left_cancel">Húzza balra a megszakításhoz</string>
+     <string name="low_memory">"Device's memory is low"</string>
      <string name="menu_add_black">Tiltólistához ad</string>
      <string name="menu_add_contact">Névjegyzékhez ad</string>
      <string name="menu_call">Hívás</string>
@@ -97,6 +98,9 @@
      <string name="menu_new_contact">Új névjegy</string>
      <string name="menu_unlock">Feloldás</string>
      <string name="menu_yellowpage">%s megtekintése</string>
+     <string name="message_block_confirmation">Nem fogad üzeneteket?</string>
+     <string name="message_block_processing">folyamatban</string>
+     <string name="message_block_reminder">Emlékeztető</string>
      <string name="message_failed">Sikertelen</string>
      <string name="message_pending">Küldés...</string>
      <string name="message_readed">Olvasott</string>
@@ -187,6 +191,7 @@
      <string name="restore_blocked_message">Üzenet visszaállítása</string>
      <string name="retrive_hms_tips">Lekérés...</string>
      <string name="save">Mentés</string>
+     <string name="scan_result">eredmények</string>
      <string name="search_empty">Nincs találat</string>
      <string name="search_hint">Keresés az üzenetekben</string>
      <string name="search_label">Üzenetek</string>
@@ -234,6 +239,7 @@
      <string name="view">Megtekintés</string>
      <string name="view_hms_attachment_fail">Kép letöltése sikertelen.</string>
      <string name="view_hms_details">Részletek</string>
+     <string name="view_hms_details_download">Letöltés</string>
      <string name="view_message_details">Részletek megjelenítése</string>
      <string name="xiaomi_service_number">Szolgáltató telefonszám</string>
      <string name="yes">Igen</string>

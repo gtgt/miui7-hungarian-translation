@@ -1,10 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Parsed by jbart2a -->
+<!-- Parsed by jbart3h -->
 <resources>
      <string name="about_app_name">Videólejátszó</string>
      <string name="about_title">Névjegy</string>
      <string name="about_version">1.0.1</string>
      <string name="about_version_label">Verzió</string>
+     <string name="actor">Actor</string>
+     <string name="actor_intro">About</string>
      <string name="ad_countdown">%smp remaining</string>
      <string name="ad_moredetail">további részletek</string>
      <string name="add_favorite_success">Kedvenc</string>
@@ -28,16 +30,21 @@
      <string name="alert_dialog_download_btn_hide">Elrejt</string>
      <string name="alert_dialog_download_dup_task">Waiting for existing download to finish…</string>
      <string name="alert_dialog_download_error">Nem lehet letölteni</string>
+     <string name="alertdialog_downapp_btn_back">Back</string>
      <string name="all">Minden</string>
      <string name="all_ep">Összes ep</string>
      <string name="all_episode">Minden epizód</string>
+     <string name="app_charging_wifi_mode">Alkalmazás frissítés Wi-Fi eléréskor és töltéskor</string>
+     <string name="app_charging_wifi_mode_summary">Az alkalmazás automatikus frissítése Wi-Fi kapcsolódáskor és töltéskor</string>
      <string name="app_latest_version">Nincs elérhető frissítés</string>
      <string name="app_name">Videó</string>
      <string name="app_plugin_ready">%1$s telepítve</string>
      <string name="app_update_background">Alkalmazás frissítése a háttérben.</string>
+     <string name="app_upgrade_hint">Click to watch the full polymerization, HD online video.</string>
+     <string name="app_upgrade_title">Videó alkalmazás már naprakész.</string>
      <string name="app_upgrade_version">Frissítés elérhető</string>
      <string name="app_version">Verzió</string>
-     <string name="app_wifi_mode">Wi-Fi auto.frissítés</string>
+     <string name="app_wifi_mode">Automatikus frissítés</string>
      <string name="app_wifi_mode_summary">Wi-Fi kapcsolat esetén automatikus frissítés.</string>
      <string name="authenticated_failed">A bejelentkezés nem sikerült</string>
      <string name="authenticating">Ellenőrzés</string>
@@ -45,14 +52,16 @@
      <string name="average_score">Átlagos pontszám</string>
      <string name="avg_score">%.1f</string>
      <string name="bestv">Bestv</string>
-     <string name="bmp_quality_mode">Picture Quality mode</string>
-     <string name="bmp_quality_mode_desc">Checked, high quality show mode.</string>
+     <string name="birthday">Birthday</string>
+     <string name="bmp_quality_mode">Képminőség növelése</string>
+     <string name="bmp_quality_mode_desc">A videó képminőségének növelése.</string>
      <string name="buffering">Pufferelés...</string>
      <string name="buffering_video_netplay_label_v5">Pufferelés</string>
+     <string name="buy_vip">buy vip</string>
      <string name="cancel">Mégsem</string>
      <string name="cancel_favorite_success">Eltávolítva</string>
      <string name="check_app_version">Frissítések keresése…</string>
-     <string name="check_network">Network is not connected, please check your connection</string>
+     <string name="check_network">Nem lehet csatlakozni a hálózathoz</string>
      <string name="clarity_high">Magas</string>
      <string name="clarity_standard">Standard</string>
      <string name="clarity_supper">Szuper</string>
@@ -63,6 +72,9 @@
      <string name="clear_search_history">Keresési előzmények törlése</string>
      <string name="click_star_rate">Kattintson a csillagokra az értékeléshez</string>
      <string name="click_to_login">Kattintson a képre a bejelentkezéshez</string>
+     <string name="clubber">clubber</string>
+     <string name="clubber_center">clubber center</string>
+     <string name="clubber_info">clubber information</string>
      <string name="cnlive">cnlive</string>
      <string name="comment">Hozzászólások</string>
      <string name="comment_count_less_tip">Minimum %1$s karaktert kell beírnia</string>
@@ -100,6 +112,7 @@
      <string name="delete_addon">Törlés</string>
      <string name="delete_addon_content">Törli ezt az elemet?</string>
      <string name="delete_with">Törlés (%d)</string>
+     <string name="detail">Részletek</string>
      <string name="detail_comment_empty">Üres</string>
      <string name="develop_version">Béta frissítések</string>
      <string name="development_setting">Fejlesztői beállítások</string>
@@ -111,6 +124,7 @@
      <string name="dlna_list_name">DLNA eszköz</string>
      <string name="dlna_name">Megosztott eszköz</string>
      <string name="douban_score">Douban pontszám</string>
+     <string name="download">Letöltés</string>
      <string name="download_add_success">Hozzáadva a letöltésekhez</string>
      <string name="download_error">Download error</string>
      <string name="download_fail">Sikertelen</string>
@@ -126,6 +140,7 @@
      <string name="download_start_message">Letölti és telepíti %1$s?</string>
      <string name="download_task_with">%d feladat</string>
      <string name="download_url_waiting">URL adatok lekérése…</string>
+     <string name="download_url_waiting_no_wifi">Pending for WLAN unavailable</string>
      <string name="download_with">Letöltés %1$s/%2$s</string>
      <string name="downloading_app_plugin">%1$s letöltése…</string>
      <string name="edit">Szerkesztés</string>
@@ -133,10 +148,12 @@
      <string name="empty_data">Hiba történt</string>
      <string name="empty_keyword_hint">Enter your search in the box above</string>
      <string name="empty_tv_exiting">Exiting ...</string>
+     <string name="enter_detail">More Information</string>
      <string name="episode_name_format">Ep. %1$s</string>
      <string name="episode_suffix" />
      <string name="error_empty_filter_title">Nincs találat</string>
      <string name="error_empty_title">Valami hiba történet</string>
+     <string name="expire_time">expire time</string>
      <string name="favorite">Kedvenc</string>
      <string name="fenghuang">iFeng</string>
      <string name="file_error">Fájlhiba</string>
@@ -153,9 +170,11 @@
      <string name="gong_count_xiang">%d elem</string>
      <string name="good">OK</string>
      <string name="hint_apk_download">Alkalmazás telepítése</string>
+     <string name="hint_apk_download_format">\"%1$s\" alkalmazás telepítése</string>
      <string name="hint_apk_install">Alkalmazás telepítésep</string>
      <string name="hint_apk_text_update">Telepíti a frissítést (%1$s) most?</string>
      <string name="hint_apk_title_update">Frissítés elérhető (%1$s)</string>
+     <string name="hometown">Hometown</string>
      <string name="i_will_write_comments">Írja ide hozzászólásást</string>
      <string name="icntv">iCNTV</string>
      <string name="info_video_loading">Betöltés…</string>
@@ -166,7 +185,7 @@
      <string name="introduce">Összegzés</string>
      <string name="join_alert_title">Csatlakozás a beta teszthet</string>
      <string name="join_hint">Adja meg a meghívókódot</string>
-     <string name="key_back_down_toast">Press back key again to exit</string>
+     <string name="key_back_down_toast">A kilépéshez nyomja meg újra a Vissza gombot.</string>
      <string name="lastrefresh">Utolsó frissítés</string>
      <string name="lekan">Lekan</string>
      <string name="letv">Letv</string>
@@ -182,14 +201,15 @@
      <string name="media_name_comment">%s hozzászólás</string>
      <string name="memory_mode_desc">Memóriahasználat csökkentése</string>
      <string name="menu_item_enable_audio_enhance">Audio enchancer engedélyezése</string>
-     <string name="menu_name">Menü</string>
+     <string name="menu_name">Beállítások</string>
+     <string name="mibi">mibi</string>
      <string name="mine_info_account_summary_none">Nincs bejelentkezve</string>
      <string name="mine_info_account_title">Fiókadatok</string>
      <string name="minute"> perc</string>
      <string name="mipush_setting">Xiaomi üzenetek</string>
      <string name="miwifi_app_download_content">downloading ...</string>
-     <string name="miwifi_app_download_title">Xiaomi Router</string>
-     <string name="miwifi_app_update_button">Update</string>
+     <string name="miwifi_app_download_title">Mi Router</string>
+     <string name="miwifi_app_update_button">frissítés</string>
      <string name="miwifi_app_update_content">note:this feature requires a router with version 2.0 or higher</string>
      <string name="miwifi_app_update_title">You need to update router app to use this feature. Update now?</string>
      <string name="month">Hónap</string>
@@ -199,15 +219,22 @@
      <string name="mycamera">Saját videók</string>
      <string name="myfavorite">Kedvenc</string>
      <string name="myfavorite_onlylocal">Kedvenc</string>
-     <string name="need_upgrade_button">Keresés</string>
+     <string name="need_upgrade_button">Frissítés</string>
      <string name="need_upgrade_summary">Ez a funkció az új verzióban elérhető, kattintson a frissítésre az új verzió telepítéshez.</string>
-     <string name="need_upgrade_title">Új verzióban elérhető</string>
+     <string name="need_upgrade_title">Frissítés elérhető</string>
      <string name="negative_comment">Negatív</string>
      <string name="netease">NetEase</string>
      <string name="no_login_xiaomi_account">Jelentkezzen be a Xiaomi fiókjába a megjegyzés hozzáfűzéséhez.</string>
      <string name="no_longer_tips">Ne emlékeztessen</string>
+     <string name="no_pay_record">no pay record</string>
      <string name="no_sdcard_no_download">Nincs elég szabad hely.</string>
+     <string name="not_buy_vip">no vip</string>
+     <string name="not_exist_openid">getting account info, please wait...</string>
      <string name="not_login">Nincs bejelentkezve</string>
+     <string name="notification_default_title">Offline videó</string>
+     <string name="notification_sub_title">Összes %d letöltés kész</string>
+     <string name="notification_ticker_text">Offline video download completion</string>
+     <string name="notification_title">\"%s\" letöltés completion</string>
      <string name="nowifi_alert_dialog_continue">Folytatás</string>
      <string name="nowifi_alert_dialog_exit">Kilépés</string>
      <string name="nowifi_alert_dialog_message">A mobil adatkapcsolat használata növeli az adatforgalmat</string>
@@ -217,6 +244,10 @@
      <string name="offline_alert_title">Adatforgalmazás</string>
      <string name="offline_alert_wifi">You are using cellular network, to save your data usage, the caching tasks are paused and will be continue after you switch to wifi network.</string>
      <string name="offline_already_in">\"%1$s\" már a letöltésre vár</string>
+     <!-- MNPS mismatch found! Translated: 2 Original: 1
+	%s: 2 Original: 1
+	%d: 0 Original: 0 -->
+     <!-- Original string: Added \"%1$s\" is already waiting to download -->
      <string name="offline_created_order">\"%1$s\" is %2$s letöltésekhez adva</string>
      <string name="offline_loaded">Offline videó</string>
      <string name="offline_loading">Offline</string>
@@ -236,13 +267,19 @@
      <string name="online_video">Online</string>
      <string name="online_video_oneweek">Kevesebb, mint 1 hete</string>
      <string name="online_video_oneweek_ago">1 héttel ezelőtt</string>
+     <string name="open_in_browser">Open in Browser</string>
      <string name="operator_test">Operator testt</string>
      <string name="operator_test_summary">Futtatás Operator módban</string>
+     <string name="original_price">original price</string>
+     <string name="other_info">Other</string>
      <string name="other_setting">Egyéb</string>
+     <string name="path_develop_settings">System App/Video/Develop Settings</string>
+     <string name="path_settings">System App/Video/Settings</string>
      <string name="pause">Szüneteltetés</string>
+     <string name="pay_record">pay record</string>
      <string name="percent_status">%.0f%%</string>
-     <string name="performance_mode">Teljesítmény beállítások</string>
-     <string name="performance_mode_desc">Teljesítmény maximalizálása</string>
+     <string name="performance_mode">Lejátszási teljesítmény növelése</string>
+     <string name="performance_mode_desc">A videólejástzó teljesítményének maximalizálása</string>
      <string name="personal_center">Saját</string>
      <string name="pick_addon_to_delete">elemek kiválasztása</string>
      <string name="place_at">No.%d</string>
@@ -263,6 +300,8 @@
      <string name="qiyi">iQiyi</string>
      <string name="rank_title_movie">Mozi</string>
      <string name="receive_develop_summary">Az alkalmazás béta verziós frissítésének fogadása</string>
+     <string name="receive_follow">New episode notifications</string>
+     <string name="receive_follow_summary">Receive notifications when new episode is available</string>
      <string name="receive_mipush">Értesítések</string>
      <string name="receive_mipush_summary">Értesítés az új és frissített tartalmakról</string>
      <string name="recentplay">Korábban játszott</string>
@@ -274,13 +313,18 @@
      <string name="retry">Újra</string>
      <string name="router">Offline távvezérlés</string>
      <string name="router_download_task_with">%d feladat</string>
-     <string name="router_update">A Xiaomi router alkalmazás frissítése szükséges.</string>
+     <string name="router_update">A Xiaomi router frissítése</string>
      <string name="score">Helyezés </string>
      <string name="score_by">Score: %s</string>
+     <string name="score_douban">Douban Score %1$s</string>
      <string name="sdcard_storage">Belső memória</string>
      <string name="search">Keresés</string>
+     <string name="search_develop_settings">Develop settings;Version select;Choose version;Video upgrade;Version;Forum;Performance mode;Picture quality;Player plugins</string>
      <string name="search_hint">Keresés</string>
      <string name="search_result_empty_text">Nincs találat</string>
+     <string name="search_settings">Video Settings;Mobile Network;Wifi;Video play;Push;Notification;Cache;Develop settings</string>
+     <string name="search_snack_more">More Information</string>
+     <string name="search_snack_sniff">Whole Net Source</string>
      <string name="second"> mp</string>
      <string name="see_all_count_comment">%d more comments</string>
      <string name="select_all">Mind kiválasztása</string>
@@ -297,6 +341,7 @@
      <string name="share_device">Megosztott eszköz</string>
      <string name="similar">Hasonló</string>
      <string name="sina">Sina</string>
+     <string name="sniff">Source</string>
      <string name="souhu">Souhu</string>
      <string name="source_error">Source get error</string>
      <string name="star1">1 csillag</string>
@@ -307,6 +352,7 @@
      <string name="start_addon">start addon</string>
      <string name="storage_remain">"Elérhető: "</string>
      <string name="storage_total">"Teljes méret: "</string>
+     <string name="subscribe">Subscribe</string>
      <string name="suffix_countdown">mp</string>
      <string name="system_setting">Rendszerbeállítások</string>
      <string name="tab_loading"><CDATA>...</CDATA></string>
@@ -324,7 +370,7 @@
      <string name="total_episode">%1$s epizód</string>
      <string name="tudou">Tudou</string>
      <string name="tv_channel_empty_hint">No Channel</string>
-     <string name="tv_cp_info_format">support by %1$s</string>
+     <string name="tv_cp_info_format">Supported by %1$s</string>
      <string name="ui_style">Alkalmazás elrendezés</string>
      <string name="ui_style_summary">Válassza ki a tartalom elrendezési stílusát</string>
      <string name="unfavorite">Eltávolítás</string>
@@ -360,16 +406,22 @@
      <!-- MNPS mismatch found! Translated: 0 Original: 1
 	%s: 0 Original: 1
 	%d: 0 Original: 0 -->
-     <!-- Original string: Downloading(%1$s), please wait a while. -->
+     <!-- Original string: Downloading (%1$s) -->
      <string name="video_plugin_downloading">Letöltés…</string>
      <string name="video_plugin_prepare">Egy pillanat…</string>
+     <string name="vip_package">vip package</string>
      <string name="vp_VideoView_error_button">Ok</string>
      <string name="vp_VideoView_error_network_not_available">Nem sikerült csatlakozni a hálózathoz</string>
      <string name="vp_VideoView_error_text_invalid_progressive_playback">Az eszköz nem támogatja ezt a fájltípust</string>
      <string name="vp_VideoView_error_text_unknown">Ismeretlen hiba történt</string>
      <string name="vp_VideoView_error_title">Ismeretlen hiba</string>
+     <string name="vp_ad_countdown_m_s">AD %1$dm%2$ss</string>
+     <string name="vp_ad_countdown_s">AD %1$s</string>
+     <string name="vp_ad_skip">Átugrás</string>
+     <string name="vp_ad_skip_at">Skip AD after %1$d</string>
      <string name="vp_adapt_height">Fit height</string>
      <string name="vp_adapt_width">Fit width</string>
+     <string name="vp_app_download">Application download</string>
      <string name="vp_app_name">Videólejátszó</string>
      <string name="vp_audio">Hangerő</string>
      <string name="vp_auto_select">Auto.választás</string>
@@ -386,8 +438,10 @@
      <string name="vp_datastream_alert_positive_button">Tovább</string>
      <string name="vp_datastream_alert_title">Adatforgalmi figyelmeztetés</string>
      <string name="vp_device_list">Eszközlista</string>
+     <string name="vp_download_apk_from_video_ad">Install the application</string>
      <string name="vp_download_connect_fail">"Couldn't find URL. Check your data connection and try again."</string>
      <string name="vp_download_file_fail">"Download failed. Make sure there's enough room on you"</string>
+     <string name="vp_downloading_apk_title">Downloading %1$s</string>
      <string name="vp_exit">Kilépés</string>
      <string name="vp_full_high_definition">1080P</string>
      <string name="vp_full_screen">Teljesképernyős lejátszás</string>
@@ -412,12 +466,14 @@
      <string name="vp_mobile_network_using_warning">A mobil adatkapcsolattal történő videók letöltése növelik az adatforgalmat. Ha túllépi az adatforgalmazási limitet, a szolgáltató további díjakat számolhat fel.</string>
      <string name="vp_mobile_network_using_warning_line_1">Using your mobile data connection to watch videos will increase your data usage.</string>
      <string name="vp_mobile_network_using_warning_line_2">If you go over your plan’s data usage limit, your carrier could charge you additional fees.</string>
+     <string name="vp_more_show_video">Show AD</string>
      <string name="vp_mplayer_error_io">IO operation error</string>
      <string name="vp_mplayer_error_malformed">Malformed media content</string>
      <string name="vp_mplayer_error_server_died">Media server died</string>
      <string name="vp_mplayer_error_timed_out">Operation timed out</string>
      <string name="vp_newest_ep">Most a legújabb</string>
      <string name="vp_next_ci">Következő</string>
+     <string name="vp_notify_apk_installed">Install application %1$s successfully</string>
      <string name="vp_offline">Offline</string>
      <string name="vp_offline_status_done">Kész</string>
      <string name="vp_offline_status_dowloading">Letöltés</string>
@@ -445,6 +501,7 @@
      <string name="vp_skip">Intro átugrása</string>
      <string name="vp_standard_definition">SD</string>
      <string name="vp_super_definition">Szuper</string>
+     <string name="vp_time_separator">/</string>
      <string name="vp_toast_downloadapk">Alkalmazás letöltése a háttérben …</string>
      <string name="vp_unknown_source">Ismeretlen forrás</string>
      <string name="vp_using_16_9">Force 16:9</string>

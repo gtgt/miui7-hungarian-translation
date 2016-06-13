@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Parsed by jbart3h -->
+<resources>
+     <string name="name_long_press_power_key">Long press power button</string>
+     <string name="name_memory_clean">Clear cache</string>
+</resources>

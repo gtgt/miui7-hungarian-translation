@@ -16,6 +16,7 @@
     <string name="incorrect_pincode">Hibás PIN kód</string>
     <string name="open_wifi_settings">Hálózati kapcsolat megnyitása</string>
     <string name="lock_screen_date">MM.dd. EEEE</string>
+    <string name="lock_screen_date_12">MM.dd. EEEE</string>
     <string name="lockscreen_glogin_password_hint">Jelszó</string>
     <string name="lockscreen_glogin_checking_password">Ellenőrzés…</string>
     <string name="login_website_in_case_forget_password">Elfelejtett jelszava visszaállításához látogassa meg a www.mi.com/micloud weboldalt.</string>
@@ -55,4 +56,12 @@
     <string name="open_camera_hint_text">Húzza balra a kamera megnyitásához</string>
     <string name="open_remote_center_hint_text">Húzza jobbra a tárcsázó megnyitásához</string>
     <string name="click_to_enter_text">Érintse meg a feloldáshoz</string>
+    <string name="fingerprint_try_again_text">Próbálja újra</string>
+    <string name="fingerprint_not_identified_title">Jelszó megadása</string>
+    <string name="fingerprint_not_identified_msg">Az eszköz feloldásához adja meg a jelszavát.</string>
+    <string name="invalid_sim_pin_hint">A PIN kódnak 4 - 8 számjegyet kell tartalmaznia</string>
+    <string name="invalid_sim_puk_hint">A PUK kódnak min. 8 számjegyből kell állnia.</string>
+    <string name="input_password_after_boot_msg">A készülék újraindítása után meg kell adnia a jelszavát.</string>
+    <string name="fingerprint_lockout_msg">Várjon egy percet majd próbálja újra feloldani az ujjlenyomatával</string>
+    <string name="set_lock_wallpaper_failed">Nincs új háttérkép</string>
 </resources>

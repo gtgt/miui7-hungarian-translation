@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="permission_description">Az eszköz kijelző paraméter közvetlen módosításának engedélyezése</string>
+    <string name="permission_label">Kijelzőbeállítások módosítása</string>
+</resources>

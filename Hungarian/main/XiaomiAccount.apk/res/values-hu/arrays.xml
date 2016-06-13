@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Parsed by jbart3h -->
+<resources>
+     <string-array name="education">
+        <item>Középiskola</item>
+        <item>Előkészítő iskola</item>
+        <item>Gimnázium</item>
+        <item>Szakiskola</item>
+        <item>Kollégium</item>
+        <item>Mester dimploma</item>
+        <item>Doktori dimploma</item>
+     </string-array>
+     <string-array name="income">
+        <item>&lt; 2000</item>
+        <item>2001~4000</item>
+        <item>4001~6000</item>
+        <item>6001~8000</item>
+        <item>8001~12000</item>
+        <item>> 12000</item>
+     </string-array>
+     <string-array name="passport_alphabet_table">
+        <item>\#</item>
+        <item>A</item>
+        <item>B</item>
+        <item>C</item>
+        <item>D</item>
+        <item>E</item>
+        <item>F</item>
+        <item>G</item>
+        <item>H</item>
+        <item>I</item>
+        <item>J</item>
+        <item>K</item>
+        <item>L</item>
+        <item>M</item>
+        <item>N</item>
+        <item>O</item>
+        <item>P</item>
+        <item>Q</item>
+        <item>R</item>
+        <item>S</item>
+        <item>T</item>
+        <item>U</item>
+        <item>V</item>
+        <item>W</item>
+        <item>X</item>
+        <item>Y</item>
+        <item>Z</item>
+     </string-array>
+     <string-array name="question_no1">
+        <item>Család</item>
+        <item>Anyai nagymama neve</item>
+        <item>Anyai nagypapa neve</item>
+        <item>Apai nagypapa neve</item>
+        <item>Apai nagymama neve</item>
+        <item>Apa születésmapja</item>
+        <item>Anya születésnapja</item>
+        <item>Mennyi a szüleid korkülönbsége (év és hónap)?</item>
+     </string-array>
+     <string-array name="question_no2">
+        <item>Alma mater</item>
+        <item>Hogy hívták a középiskolai osztályfőnököd?</item>
+        <item>Hogy hívták az általános iskolai osztályfőnököd?</item>
+        <item>Tanuló azonosítószámod a főiskolán</item>
+        <item>Hogy hívták a szabtársad a kollégiumban/főiskolán?</item>
+        <item>Hogy hívták a felügyelőt az egyetemen?</item>
+     </string-array>
+     <string-array name="question_no3">
+        <item>Személyes adatok</item>
+        <item>Hogy hívnak a szüleid?</item>
+        <item>Az útlevél utolsó 6 számjegye</item>
+        <item>Melyik kórházban születtél?</item>
+        <item>Mi a legjobb barátod neve?</item>
+     </string-array>
+     <string-array name="question_no4">
+        <item>Először</item>
+        <item>Mi volt az első háziállatod neve?</item>
+        <item>Mi volt az első barátnőd/barátod neve?</item>
+        <item>Mi volt az első munkahelyed neve?</item>
+     </string-array>
+     <string-array name="question_no5">
+        <item>Házasság</item>
+        <item>Mikor házasodtatok össze?</item>
+        <item>Házastárs neve</item>
+        <item>Házastárs születésnapja</item>
+     </string-array>
+</resources>

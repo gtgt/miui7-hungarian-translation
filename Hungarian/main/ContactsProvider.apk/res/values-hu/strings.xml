@@ -21,6 +21,7 @@
     <string name="debug_dump_email_body">CSatolva a névjegy adatbázis az összes névjegyzék információval. Óvatosan bánjon vele.</string>
     <string name="pound_search_tip">Írja be a szám után a # jelet névjegyek kereséséhez</string>
     <string name="create_contact">Új névjegy</string>
+    <string name="video_call">Videóhívás</string>
     <string name="send_sms">Üzenetküldés</string>
     <string name="search_the_yellowpage">Keresés a mappában</string>
     <string name="edit_contact">Névjegyhez adás</string>

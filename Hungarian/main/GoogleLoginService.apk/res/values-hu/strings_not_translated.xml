@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Parsed by jbart2a -->
+<!-- Parsed by jbart3h -->
 <resources>
      <string name="accept">Accept</string>
      <string name="account_exists_text">Your first account is ready for use. You can add and remove accounts later in Settings.</string>
@@ -18,10 +18,10 @@ You can activate your mobile data service later in "<b>System settings > Wireles
      <string name="activation_canceled_title">Activation canceled</string>
      <string name="activation_continue_skip_label">Continue</string>
      <string name="activation_default_network_name">mobile network</string>
-     <string name="activation_failure_text">"Try again in a minute, or restart your tablet if this continues to happen.
+     <string name="activation_failure_text">"Try again in a minute, or restart your phone if this continues to happen.
 
-If you prefer to skip now, be sure to activate later in System settings. Until you activate, your tablet won't have a cellular data connection."</string>
-     <string name="activation_failure_text_gen">"Your mobile data service couldn't be activated. This may be a temporary problem, and may be solved by restarting the tablet."</string>
+If you prefer to skip now, be sure to activate later in System settings. Until you activate, your phone won't have a cellular data connection."</string>
+     <string name="activation_failure_text_gen">"Your mobile data service couldn't be activated. This may be a temporary problem, and may be solved by restarting the phone."</string>
      <string name="activation_failure_text_standalone">"Couldn't activate mobile data service. To try activation again touch "<b>Try again</b>".
 
 You can activate your mobile data service later in "<b>System settings > Wireless &amp; networks > Mobile networks</b></string>
@@ -31,17 +31,17 @@ You can activate your mobile data service later in "<b>System settings > Wireles
      <string name="activation_progress_before_connect">Touch <b>Skip</b> to complete setup using a Wi-Fi connection instead.</string>
      <string name="activation_progress_before_connect_standalone">Activation can take a few minutes.</string>
      <string name="activation_progress_gen">This can take up to 5 minutes</string>
-     <string name="activation_progress_mobile_data">"The tablet is activating your mobile data service.
+     <string name="activation_progress_mobile_data">"The phone is activating your mobile data service.
 
 This can take up to 5 minutes."</string>
      <string name="activation_progress_standalone">Activation can take a few minutes.</string>
-     <string name="activation_skip_confirmation">"Until you activate your mobile data service, most of your tablet's features won't work.
+     <string name="activation_skip_confirmation">"Until you activate your mobile data service, most of your phone's features won't work.
 
 If you prefer to skip now, you can activate later in System settings."</string>
-     <string name="activation_skip_text">"If you skip activation, be sure to activate later in Settings. Until you activate, your tablet won't have a cellular data connection."</string>
-     <string name="activation_spc_failure_text">There was an error that requires shutting down and restarting your tablet before you can make another activation attempt. Your tablet will shut down automatically in 60 seconds, or you can touch <b>Shut down now</b>".
+     <string name="activation_skip_text">"If you skip activation, be sure to activate later in Settings. Until you activate, your phone won't have a cellular data connection."</string>
+     <string name="activation_spc_failure_text">There was an error that requires shutting down and restarting your phone before you can make another activation attempt. Your phone will shut down automatically in 60 seconds, or you can touch <b>Shut down now</b>".
 
-Once your tablet is shut down, press the Power button to restart it. Activation will start up automatically."</string>
+Once your phone is shut down, press the Power button to restart it. Activation will start up automatically."</string>
      <string name="activation_success_text">Touch <b>Next</b> to continue with setup.</string>
      <string name="activation_success_text_gen">Your device needs to restart to complete activation.</string>
      <string name="activation_success_text_standalone">Touch <b>Next</b>" to continue.
@@ -50,12 +50,12 @@ Activation successful, but it may take a few minutes for the mobile data network
      <string name="activation_success_title">Activation complete</string>
      <string name="activation_text">Touch <b>Activate</b>" to activate your mobile service now. (It may take a couple of minutes.)
 
-Or touch "<b>Skip</b> to set up your tablet using a Wi-Fi connection instead.</string>
+Or touch "<b>Skip</b> to set up your phone using a Wi-Fi connection instead.</string>
      <string name="activation_text_standalone">Touch <b>Activate</b> to activate your mobile service now. (It may take a couple of minutes.)</string>
      <string name="activation_title">Activating cellular service…</string>
      <string name="activation_title_activating">Activating cellular service…</string>
      <string name="activation_title_searching">Searching for service…</string>
-     <string name="backup_assistant_prompt">Start Verizon Backup Assistant to restore contacts from another Verizon tablet.</string>
+     <string name="backup_assistant_prompt">Start Verizon Backup Assistant to restore contacts from another Verizon phone.</string>
      <string name="canceled_a11y">Canceled Accessibility mode.</string>
      <string name="continue_for_a11y">Continue touching the screen until you hear a beep to enable Accessibility mode.</string>
      <string name="create_calendar_message">Allow Ad to create a calendar event?</string>
@@ -92,9 +92,9 @@ Or touch "<b>Skip</b> to set up your tablet using a Wi-Fi connection instead.</s
      <string name="notification_update_message">Touch here to re-run Setup Wizard.</string>
      <string name="notification_update_title">Your account needs to be updated</string>
      <string name="ota_agreement_text">By continuing and receiving this software update, you agree to the <annotation id="tos">Google Terms of Service</annotation> and <annotation id="google_privacy">Privacy Policy</annotation>". "</string>
-     <string name="ota_info">Your tablet needs to download an update and restart.</string>
+     <string name="ota_info">Your phone needs to download an update and restart.</string>
      <string name="ota_size">Size: %s</string>
-     <string name="ota_update_title">Update tablet</string>
+     <string name="ota_update_title">Update phone</string>
      <string name="reboot_button_label">Restart</string>
      <string name="restart_button_label">Restart</string>
      <string name="restore_device_settings_title">Restoring device settings…</string>
@@ -102,7 +102,7 @@ Or touch "<b>Skip</b> to set up your tablet using a Wi-Fi connection instead.</s
      <string name="restore_launcher_title">Restoring launcher…</string>
      <string name="restore_title">Restoring…</string>
      <string name="restore_wallpaper_title">Restoring wallpaper…</string>
-     <string name="setup_complete_message">Your tablet is set up and ready to use.</string>
+     <string name="setup_complete_message">Your phone is set up and ready to use.</string>
      <string name="setup_complete_title">Setup complete</string>
      <string name="shutdown_button_label">Shut down now</string>
      <string name="sim_missing_title">Insert SIM card</string>
@@ -113,38 +113,38 @@ Or touch "<b>Skip</b> to set up your tablet using a Wi-Fi connection instead.</s
      <string name="store_picture_title">Save image</string>
      <string name="terminate_toast">"Setup Wizard terminated
 Device not provisioned"</string>
-     <string name="tos_agreement_text">This tablet may also receive and install updates from Google. By continuing, you agree to the <annotation id="tos">Google Terms of Service</annotation> and <annotation id="google_privacy">Privacy Policy</annotation>.</string>
+     <string name="tos_agreement_text">This phone may also receive and install updates from Google. By continuing, you agree to the <annotation id="tos">Google Terms of Service</annotation> and <annotation id="google_privacy">Privacy Policy</annotation>.</string>
      <string name="tos_agreement_text_germany">You further agree that your device may receive and install updates from Google. When you use this device we abide by our <annotation id="google_privacy">Privacy Policy</annotation> and <annotation id="tos">additional terms</annotation> apply.</string>
      <string name="tos_title">Google services</string>
      <string name="wait_msg">Just a sec…</string>
      <string name="walled_garden_check_text">This can take up to a minute</string>
      <string name="walled_garden_connection_failed">"Couldn't connect to the Internet"</string>
-     <string name="walled_garden_skipped_message">"WARNING: Until you have an internet connection, the tablet won't be able to verify that your software is up to date."</string>
+     <string name="walled_garden_skipped_message">"WARNING: Until you have an internet connection, the phone won't be able to verify that your software is up to date."</string>
      <string name="walled_garden_title">Connecting to the Internet…</string>
      <string name="wallet_buy_button_place_holder">Buy with Google</string>
      <string name="warm_sim_check_msg">Waiting for network…</string>
      <string name="welcome_limited_user_info_text">" 
 "<b>Important:</b>"
 
- "<li><ul>"The tablet's owner can install and uninstall apps, set limits, or remove your space completely."</ul></li>"
+ "<li><ul>"The phone's owner can install and uninstall apps, set limits, or remove your space completely."</ul></li>"
 
  "<li><ul>Any other user can accept updated app permissions on your behalf.</ul></li>"
 
- "<li><ul>As with any computer, you should only share this tablet with people you trust. </ul></li>" "</string>
+ "<li><ul>As with any computer, you should only share this phone with people you trust. </ul></li>" "</string>
      <string name="welcome_message">Welcome</string>
-     <string name="welcome_secondary_user_added_no_owner_name_text">You have been added to this tablet.</string>
-     <string name="welcome_secondary_user_added_text">%s has added you to this tablet.</string>
+     <string name="welcome_secondary_user_added_no_owner_name_text">You have been added to this phone.</string>
+     <string name="welcome_secondary_user_added_text">%s has added you to this phone.</string>
      <string name="welcome_secondary_user_additional_info_edu">"You're sharing this tablet with other students. Once you've set up your account, add a PIN to protect your work."</string>
      <string name="welcome_secondary_user_additional_info_header_edu">Important</string>
      <string name="welcome_secondary_user_info_text">"When you're finished setting up, you can work with apps or install new ones as usual.
 
 "<b>Important:</b>"
 
-"<li><ul>"The tablet's owner can uninstall your apps or remove your space completely."</ul></li>"
+"<li><ul>"The phone's owner can uninstall your apps or remove your space completely."</ul></li>"
 
 "<li><ul>Any other user can accept updated app permissions on your behalf.</ul></li>"
 
-"<li><ul>As with any computer, you should only share this tablet with people you trust.</ul></li></string>
+"<li><ul>As with any computer, you should only share this phone with people you trust.</ul></li></string>
      <string name="welcome_secondary_user_text_edu">"Let's finish setting up your account on this tablet."</string>
      <string name="welcome_text_edu">Set up your device for use with Google Play for Education</string>
 </resources>

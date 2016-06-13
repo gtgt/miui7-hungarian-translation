@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Parsed by jbart2a -->
+<!-- Parsed by jbart3h -->
 <resources>
      <string name="btn_done">done</string>
      <string name="btn_mode_alphabet">abc</string>
@@ -34,7 +34,7 @@
      <string name="end_cause_sent_terminate_voice">Befejezte az audiocsevegést %1$s felhasználóval.</string>
      <string name="end_cause_user_unavailable_video">%1$s nem volt elérhető videocsevegésre.</string>
      <string name="end_cause_user_unavailable_voice">%1$s nem volt elérhető audiocsevegésre.</string>
-     <string name="error_limited_user_message">A táblagép tulajdonosa letiltotta az internetelérést. A feltételeket a tulajdonosi beállításokban olvashatja el.</string>
+     <string name="error_limited_user_message">A telefontulajdonos letiltotta az internetelérést. A feltételeket a tulajdonosi beállításokban olvashatja el.</string>
      <string name="gls_settings_tos_activity_title">Google - jogi szabályozás</string>
      <string name="gls_settings_tos_activity_unsuccessful_message">Ön nem kapcsolódik adatszolgáltatáshoz. Az információ azonnali megtekintéséhez keresse fel a %s webhelyet egy olyan számítógépről, amelyen van internet-hozzáférés.</string>
      <string name="group_chat_invite_dialog_text">%s meghívja Önt egy csoportos csevegésre.</string>
@@ -180,9 +180,9 @@ a következőre: '%1$s'"</string>
      <string name="setup_wizard_back_button_label">Vissza</string>
      <string name="setup_wizard_next_button_label">Következő</string>
      <string name="setup_wizard_services_activity_title">Google-szolgáltatások</string>
-     <string name="setup_wizard_services_agreement">A táblagép frissítéseket és alkalmazásokat is fogadhat a Google-tól, az Ön szolgáltatójától és a telefon gyártójától, illetve telepítheti ezeket. Ha folytatja, a rendszer egyes alkalmazásokat letölthet és telepíthet – ezeket Ön bármikor eltávolíthatja.</string>
-     <string name="setup_wizard_services_backup">Google-fiókja használatával <b>biztonsági mentést készíthet táblagépe alkalmazásairól, alkalmazásadatairól, beállításairól és Wi-Fi-jelszavairól</b>, így később könnyen visszaállíthatja ezeket. <annotation id="backup_details">További információ</annotation></string>
-     <string name="setup_wizard_services_backup_restore"><b>Készítsen biztonsági mentést alkalmazásairól, alkalmazásadatairól, beállításairól és Wi-Fi jelszavairól</b> Google-fiókja segítségével, így később könnyedén visszaállíthatja azokat.</string>
+     <string name="setup_wizard_services_agreement">A telefon frissítéseket és alkalmazásokat is fogadhat a Google-tól, az Ön szolgáltatójától és a telefon gyártójától, illetve telepítheti ezeket. Ha folytatja, a rendszer egyes alkalmazásokat letölthet és telepíthet – ezeket Ön bármikor eltávolíthatja.</string>
+     <string name="setup_wizard_services_backup"><b>Hozzon létre biztonsági mentést a telefonján lévő alkalmazásokról, alkalmazásadatokról, beállításokról, személyes szótárakról és Wi-Fi-jelszavakról</b> Google-fiókja segítségével, hogy később egyszerűen visszaállíthassa azokat. <annotation id="backup_details">További információ</annotation></string>
+     <string name="setup_wizard_services_backup_restore"><b>Hozzon létre biztonsági mentést alkalmazásairól, alkalmazásadatairól, beállításairól, személyes szótárairól és Wi-Fi-jelszavairól</b> Google-fiókja segítségével, hogy később egyszerűen visszaállíthassa azokat.</string>
      <string name="setup_wizard_services_backup_restore_dialog_text">Ha bekapcsolja az automatikus biztonsági mentést, eszköze rendszeresen elmenti az adatokat az Ön Google-fiókjába. A biztonsági mentés által tárolt információk közé tartozhatnak az alkalmazások mappáiban lévő adatok, például preferenciák, beállítások, üzenetek, fotók és egyebek.</string>
      <string name="setup_wizard_services_backup_restore_footnote">Ide tartoznak az alkalmazások, alkalmazásbeállítások, rendszerbeállítások és Wi-Fi-jelszavak.</string>
      <string name="setup_wizard_services_backup_restore_heading">Biztonsági mentés és visszaállítás</string>
@@ -222,21 +222,21 @@ Ezt a funkciót bármikor ki- vagy bekapcsolhatja a Google Beállítások alkalm
      <string name="system_update_download_waiting_status_text">Letöltésre vár</string>
      <string name="system_update_downloading_required_update_text">"Ez ^1 percig is eltarthat.
 
-A frissítés letöltését követően a táblagép automatikusan újraindul."</string>
+A frissítés letöltését követően a telefon automatikusan újraindul."</string>
      <string name="system_update_downloading_required_update_title">Frissítés letöltése...</string>
      <string name="system_update_downloading_status_text">Letöltés</string>
      <string name="system_update_downloading_wifi_status2_text">Wi-Fin keresztül eddig: ^1</string>
      <string name="system_update_install_button_text">Újraindítás és telepítés</string>
      <string name="system_update_installing_update_text">"Ez akár 5 percig is eltarthat.
 
-Ezt követően be tudja fejezni a táblagép beállítását."</string>
+Azután be tudja fejezni a telefon beállítását."</string>
      <string name="system_update_installing_update_title">Frissítés telepítése...</string>
      <string name="system_update_last_checkin">Frissítés céljából legutóbb ellenőrizve: ^1.</string>
      <string name="system_update_no_update_content_text">Az Ön által használt rendszer naprakész.</string>
      <string name="system_update_nonmandatory_update_download_failure_notification_message">A letöltés nem sikerült. Próbálja újra.</string>
      <string name="system_update_nonmandatory_update_download_failure_notification_title">Nem sikerült letölteni a rendszerfrissítést</string>
      <string name="system_update_not_owner_text">Megjelent egy rendszerszoftver-frissítés, de csak a tulajdonos telepítheti.</string>
-     <string name="system_update_required_update_restart_text">Táblagépe most újraindul a frissítéshez.</string>
+     <string name="system_update_required_update_restart_text">Telefonja most újraindul a frissítéshez.</string>
      <string name="system_update_required_update_restart_title">Újraindítás…</string>
      <string name="system_update_requires_restart_status_text">Újraindítást igényel</string>
      <string name="system_update_restart_button_text">Újraindítás (^1)</string>

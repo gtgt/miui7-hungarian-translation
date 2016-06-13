@@ -52,6 +52,10 @@
         <item quantity="other">%1$d kiválasztva</item>
         <item quantity="one">1 kiválasztva</item>
     </plurals>
+    <plurals name="number_of_items_available">
+        <item quantity="other">%1$d van hátra</item>
+        <item quantity="one">%1$d van hátra</item>
+    </plurals>
     <plurals name="pick_favorites_list_title">
         <item quantity="other">%1$d kedvenc</item>
         <item quantity="one">%1$d kedvenc</item>
@@ -113,6 +117,10 @@
         <item quantity="other">Eltávolítja ezt a(z) %1$d telefonszámot a tiltólistáról?</item>
         <item quantity="one">Eltávolítja ezt a telefonszámot a tiltólistáról?</item>
     </plurals>
+    <plurals name="voip_contacts_count">
+        <item quantity="other">%1$d személy</item>
+        <item quantity="one">%1$d személy</item>
+    </plurals>
     <plurals name="callNoAnswerTimeFormat">
         <item quantity="other">%d csengetés</item>
         <item quantity="one">1 csengetés</item>
@@ -122,7 +130,7 @@
         <item quantity="one">%1$d névjegy</item>
     </plurals>
     <plurals name="cloud_state_unsynced_count">
-        <item quantity="other">%d névjegy még nincs szinkronizálva</item>
-        <item quantity="one">Egy névjegy még nincs szinkronizálva</item>
+        <item quantity="other">%d névjegy vagy fénykép még nincs szinkronizálva</item>
+        <item quantity="one">Egy névjegy vagy fénykép még nincs szinkronizálva</item>
     </plurals>
 </resources>

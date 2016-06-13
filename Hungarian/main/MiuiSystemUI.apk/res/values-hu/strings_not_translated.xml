@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Parsed by jbart2a -->
+<!-- Parsed by jbart3h -->
 <resources>
-     <string name="flash_device">/sys/class/leds/flashlight/brightness</string>
      <string name="lland">L Land</string>
 </resources>

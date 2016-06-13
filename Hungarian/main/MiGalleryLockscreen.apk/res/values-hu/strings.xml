@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Parsed by jbart3h -->
+<resources>
+     <string name="app_name">Napi záróképernyő</string>
+     <string name="at_least_one">Choose at least one category</string>
+     <string name="auto_interval">Auto</string>
+     <string name="cancel">Mégsem</string>
+     <string name="cancel_international">Mégsem</string>
+     <string name="change_time">Háttérképek módosítása</string>
+     <string name="day">Naponta</string>
+     <string name="declaration">"A szolgáltatás használatával a &lt;a href ='http://www.miui.com/res/doc/eula.html?lang=en_US'>Felhasználói szerződés&lt;/a> és az &lt;a href='http://www.miui.com/res/doc/privacy/en.html'>Adatvédelmi Nyilatkozat&lt;/a> elfogadása. Az alkalmazás megfelelő működéséhez internetkapcsolat szükséges."</string>
+     <string name="declaration_lockscreen_title">Napi záróképenyők bekapcsolása</string>
+     <string name="declaration_title">Felhasználási feltételek</string>
+     <string name="hour_1">Óránként</string>
+     <string name="hour_3">3 óránként</string>
+     <string name="lockscreen_magazine_subscribe">%1$s követő</string>
+     <string name="lockscreen_magazine_summary">Kategóriák</string>
+     <string name="lockscreen_magazine_system_subscribe">%1$s háttérkép</string>
+     <string name="lockscreen_magazine_system_title">Offline</string>
+     <string name="lockscreen_magazine_title">Napi záróképernyő</string>
+     <string name="minutes_15">15 perc</string>
+     <string name="no_long_show">Ne jelenjen meg újra</string>
+     <string name="ok">OK</string>
+     <string name="ok_international">Elfogadom</string>
+     <string name="ok_lockscreen">OK</string>
+     <string name="ok_network">Elfogadom és bekapcsolom</string>
+     <string name="resource_apply">Alkalmaz</string>
+     <string name="resource_no_network_text">Nem sikerült kapcsolódni az internetre.</string>
+     <string name="setting_head">Beállítások</string>
+     <string name="sst_favor_desc">Kedvenc háttérképek megtekintése</string>
+     <string name="sst_favor_title">Kedvencek</string>
+     <string name="sst_grid_view_select_all">Mind kiválaszt</string>
+     <string name="sst_grid_view_unselect_all">Egyik sem</string>
+     <string name="sst_no_favor_wallpaper_hint">Nincs háttérkép a kedvencekben</string>
+     <string name="sst_prov_enable_desc">Napi záróképernyők bekapcsolása</string>
+     <string name="sst_prov_enable_title">api záróképernyők bekapcsolása</string>
+     <string name="sst_require_one_category_hint">Válasszon legalább egy kategóriát</string>
+     <string name="sst_sti_desc">Képernyőzár háttérkép változtatás gyakorisága</string>
+     <string name="sst_sti_title">Frissítés gyakorisága</string>
+     <string name="sst_subscribe_title">Kategóriáim</string>
+     <string name="sst_wifi_only_desc">Adatforgalom csökkentése érdekében kapcsolja ki ezt a funkciót</string>
+     <string name="sst_wifi_only_title">Háttérképek frissítése mobil adatforgalom használatakor</string>
+     <string name="summary">"By using this feature, you're agreeing to our &lt;a href ='http://www.miui.com/res/doc/eula.html?lang=en_US'>User Agreement&lt;/a> and &lt;a href='http://www.miui.com/res/doc/privacy/en.html'>Privacy Policy&lt;/a>. This feature needs to connect to the internet to work normally."</string>
+     <string name="summary_international">"A funkció használatával a &lt;a href ='http://www.miui.com/res/doc/eula.html?lang=en_US'>Felhasználói szerződés&lt;/a> és az &lt;a href='http://www.miui.com/res/doc/privacy/en.html'>Adatvédelmi Nyilatkozat&lt;/a> elfogadása. Az alkalmazás megfelelő működéséhez internetkapcsolat szükséges.​"</string>
+     <string name="theme_apply_failured">Nem sikerült alkalmazni, próbálja később</string>
+     <string name="theme_apply_success">Képernyőzár beállítva</string>
+     <string name="theme_applying">Beállítás…</string>
+     <string name="wlan_download">Frissítés Wi-Fi kapcsolódáskor</string>
+     <string name="wlan_download_cn">Frissítés Wi-Fi kapcsolódáskor</string>
+</resources>

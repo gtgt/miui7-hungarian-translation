@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Parsed by jbart2a -->
+<!-- Parsed by jbart3h -->
 <resources>
-     <string name="abc_action_bar_home_description_format">%1$s, %2$s</string>
-     <string name="abc_action_bar_home_subtitle_description_format">%1$s, %2$s, %3$s</string>
-     <string name="abc_search_hint">Search…</string>
-     <string name="abc_toolbar_collapse_description">Collapse</string>
      <string name="adr_microformat_newline_replacement">", "</string>
+     <string name="appbar_scrolling_view_behavior">android.support.design.widget.AppBarLayout$ScrollingViewBehavior</string>
+     <string name="auth_google_play_services_client_facebook_display_name">Facebook</string>
+     <string name="auth_google_play_services_client_google_display_name">Google</string>
+     <string name="character_counter_pattern">%1$d / %2$d</string>
      <string name="create_calendar_message">Allow Ad to create a calendar event?</string>
      <string name="create_calendar_title">Create calendar event</string>
      <string name="debug_carrier_override_summary">Set the carrier override</string>
@@ -48,6 +48,10 @@ The app will now restart."</string>
      <string name="fake_item_rater_off">Fake item rater is disabled</string>
      <string name="fake_item_rater_on">Fake item rater is enabled</string>
      <string name="fake_item_rater_title">Fake item rater</string>
+     <string name="flush_eventlog_summary">Immediately flush the event log</string>
+     <string name="flush_eventlog_title">Flush Eventlog</string>
+     <string name="force_refresh_user_settings_summary">"Force refresh of current user's settings"</string>
+     <string name="force_refresh_user_settings_title">Refresh user settings</string>
      <string name="header_list_layout_background">header_list_layout_background</string>
      <string name="header_list_layout_tabbar">header_list_layout_tabbar</string>
      <string name="header_list_layout_toolbar">header_list_layout_toolbar</string>
@@ -64,6 +68,9 @@ The app will now restart."</string>
      <string name="setup_wizard_ellipse_double">‥</string>
      <string name="setup_wizard_ellipse_single">․</string>
      <string name="setup_wizard_ellipse_triple">…</string>
+     <string name="show_all_surveys_off">Showing of all surveys is disabled</string>
+     <string name="show_all_surveys_on">Showing of all surveys is enabled</string>
+     <string name="show_all_surveys_title">Show all surveys</string>
      <string name="show_staging_data_off">Prod data currently shown</string>
      <string name="show_staging_data_on">Staging data currently shown</string>
      <string name="show_staging_data_title">Show staging promo data</string>
@@ -75,5 +82,14 @@ The app will now restart."</string>
      <string name="survey_answer_very_dissatisfiled">Very dissatisfied</string>
      <string name="survey_answer_very_satisfiled">Very satisfied</string>
      <string name="survey_question_overall_store_happiness">How satisfied are you with Play Store?</string>
+     <string name="uninstall_manager_done">"You're ready to continue your install!"</string>
+     <string name="uninstall_manager_no_results">No installed apps found</string>
+     <string name="uninstall_manager_selected_space"><g id="space_selected">%1$s</g> selected for uninstall</string>
+     <string name="uninstall_manager_size_error">Error getting app size</string>
+     <string name="uninstall_manager_sort_by_name">Sort by name</string>
+     <string name="uninstall_manager_sort_by_size">Sort by size</string>
+     <string name="uninstall_manager_space_to_free">Free up <g id="space_needed">%1$s</g> more to continue installing</string>
+     <string name="uninstall_manager_subtitle">"It seems like you're low on space. You can manually remove apps below to free up storage."</string>
+     <string name="uninstall_manager_title">Insufficient storage</string>
      <string name="wallet_uic_address_field_address_line_3" />
 </resources>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Parsed by jbart3h -->
+<resources>
+     <string name="acknowledge_btn">I Acknowledge</string>
+     <string name="authenticator_invalid_tip">You may have turned this feature off using your desktop Browser or activated another Mi Security Token.</string>
+     <string name="authenticator_invalid_title">Account：%1$s security token has expired.</string>
+     <string name="continue_btn">Continue</string>
+     <string name="remove_account">Remove account</string>
+     <string name="success_copy_to_clipboard">Has been copied to clipboard</string>
+</resources>

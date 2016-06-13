@@ -16,8 +16,13 @@
         <item quantity="other">%1$d vélemény alapján %2$d csillag</item>
         <item quantity="one">%1$d vélemény alapján %2$d csillag</item>
     </plurals>
+    <plurals name="content_description_review_tip_review_count">
+        <item quantity="other">„%1$s” %2$s vélemény alapján</item>
+        <item quantity="one">„%1$s” %2$s vélemény alapján</item>
+    </plurals>
     <plurals name="my_apps_selected">
         <item quantity="other">%1$d kiválasztva</item>
+        <item quantity="one">%1$d kiválasztva</item>
     </plurals>
     <plurals name="notification_need_approval_message">
         <item quantity="other">%1$d frissítés vár jóváhagyásra</item>
@@ -48,32 +53,40 @@
         <item quantity="one">&amp;lt;b>%1$s&amp;lt;/b> %2$s csillag – %3$s</item>
     </plurals>
     <plurals name="review_author_stars_title_comment">
-        <item quantity="other">&amp;lt;b>%1$s&amp;lt;/b> %2$s csillag – %3$s | %4$s</item>
-        <item quantity="one">&amp;lt;b>%1$s&amp;lt;/b> %2$s csillag – %3$s | %4$s</item>
+        <item quantity="other">&amp;lt;b>%1$s&amp;lt;/b> %2$s csillag – %3$s: %4$s</item>
+        <item quantity="one">&amp;lt;b>%1$s&amp;lt;/b> %2$s csillag – %3$s:%4$s</item>
     </plurals>
     <plurals name="review_feedback_helpful_icon_description">
-        <item quantity="other">%1$d felhasználó találta ezt a véleményt hasznosnak. Megjegyzés megjelölése hasznosként</item>
-        <item quantity="one">%1$d felhasználó találta ezt a véleményt hasznosnak. Megjegyzés megjelölése hasznosként</item>
+        <item quantity="other">%1$d felhasználó találta hasznosnak ezt az véleményt. Megjegyzés megjelölése hasznosként</item>
+        <item quantity="one">%1$d felhasználó találta hasznosnak ezt az véleményt. Megjegyzés megjelölése hasznosként</item>
+    </plurals>
+    <plurals name="review_feedback_unmark_helpful_icon_description">
+        <item quantity="other">%1$d felhasználó találta hasznosnak ezt az véleményt. „Hasznos megjegyzés” jelölés visszavonása</item>
+        <item quantity="one">%1$d felhasználó találta hasznosnak ezt az véleményt. „Hasznos megjegyzés” jelölés visszavonása</item>
     </plurals>
     <plurals name="review_just_stars">
         <item quantity="other">&amp;lt;b>%1$s csillaggal&amp;lt;/b> értékelte</item>
         <item quantity="one">&amp;lt;b>%1$s csillaggal&amp;lt;/b> értékelte</item>
+    </plurals>
+    <plurals name="review_snippet_count">
+        <item quantity="other">%1$s vélemény alapján</item>
+        <item quantity="one">%1$s vélemény alapján</item>
     </plurals>
     <plurals name="review_stars_title">
         <item quantity="other">&amp;lt;b>%1$s csillag&amp;lt;/b> %2$s</item>
         <item quantity="one">&amp;lt;b>%1$s csillag&amp;lt;/b> %2$s</item>
     </plurals>
     <plurals name="setup_wizard_apps_loading_error_menu_title">
-        <item quantity="other">Elemek betöltése sikertelen. Próbálkozz egy másikkal.</item>
-        <item quantity="one">Elemek betöltése sikertelen. Próbálkozz újra később.</item>
+        <item quantity="other">Nem lehet betölteni az elemeket. Próbálj másik biztonsági mentést.</item>
+        <item quantity="one">Nem lehet betölteni az elemeket. Próbálkozz később.</item>
     </plurals>
     <plurals name="setup_wizard_device_last_used_message">
         <item quantity="other">Utolsó használat %1$d nappal ezelőtt</item>
         <item quantity="one">Utolsó használat %1$d nappal ezelőtt</item>
     </plurals>
     <plurals name="setup_wizard_selected_apps">
-        <item quantity="other">Kiválasztott alkalmazások</item>
-        <item quantity="one">Kiválasztott alkalmazás</item>
+        <item quantity="other">Kiválasztva</item>
+        <item quantity="one">Kiválasztva</item>
     </plurals>
     <plurals name="stars_without_numbers">
         <item quantity="other">csillag</item>

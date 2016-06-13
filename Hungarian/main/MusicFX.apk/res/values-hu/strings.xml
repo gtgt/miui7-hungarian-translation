@@ -1,17 +1,37 @@
 <?xml version="1.0" encoding="utf-8"?>
+<!-- Parsed by jbart3h -->
 <resources>
-    <string name="app_name">MusicFX</string>
-    <string name="no_effects">Nem állnak rendelkezésre hatások</string>
-    <string name="main_toggle_effects_title">Hangeffektusok</string>
-    <string name="eq_dialog_title">Hangszínszabályzó</string>
-    <string name="headset_plug">Kérjük, dugja be a fejhallgatót ezekért a hatásokért</string>
-    <string name="bass_boost_strength">Mélyhangkiemelő</string>
-    <string name="virtualizer_strength">3D hatás</string>
-    <string name="pr_title">Visszhang:</string>
-    <string name="pr_summary">További visszhang hatások</string>
-    <string name="pr_dialog_title">Előre beállított hangkörnyezet</string>
-    <string name="setup">Beállítás</string>
-    <string name="ci_extreme">FX Kiemelés</string>
-    <string name="user">Felhasználó</string>
-    <string name="picker_title">Zenei effektek kezelőpanelje</string>
+     <string name="app_name">MusicFX</string>
+     <string name="bass_boost_strength">Mélyhangkiemelő</string>
+     <string name="ci_extreme">FX Kiemelés</string>
+     <string name="classical">Classical</string>
+     <string name="dance">Dance</string>
+     <string name="eq_custom">To customize, select “Custom”</string>
+     <string name="eq_dialog_title">Hangszínszabályzó</string>
+     <string name="flat">Flat</string>
+     <string name="folk">Folk</string>
+     <string name="headset_plug">Kérjük, dugja be a fejhallgatót ezekért a hatásokért</string>
+     <string name="heavy_metal">Heavy Metal</string>
+     <string name="hip_hop">Hip Hop</string>
+     <string name="jazz">Jazz</string>
+     <string name="largehall">LargeHall</string>
+     <string name="largeroom">LargeRoom</string>
+     <string name="main_toggle_effects_title">Hangeffektusok</string>
+     <string name="mediumhall">MediumHall</string>
+     <string name="mediumroom">MediumRoom</string>
+     <string name="no_effects">Nem állnak rendelkezésre hatások</string>
+     <string name="none">None</string>
+     <string name="normal">Normal</string>
+     <string name="picker_title">Zenei effektek kezelőpanelje</string>
+     <string name="plate">Plate</string>
+     <string name="pop">Pop</string>
+     <string name="power_on_prompt">Press the power button on the top-right.</string>
+     <string name="pr_dialog_title">Előre beállított hangkörnyezet</string>
+     <string name="pr_summary">További visszhang hatások</string>
+     <string name="pr_title">Visszhang:</string>
+     <string name="rock">Rock</string>
+     <string name="setup">Beállítás</string>
+     <string name="smallroom">SmallRoom</string>
+     <string name="user">Felhasználó</string>
+     <string name="virtualizer_strength">3D hatás</string>
 </resources>

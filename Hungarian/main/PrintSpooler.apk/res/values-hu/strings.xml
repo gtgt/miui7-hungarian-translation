@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Parsed by jbart2a -->
+<!-- Parsed by jbart3h -->
 <resources>
      <string name="add_print_service_label">Szolgáltatás hozzáadása</string>
      <string name="all_printers">Az összes nyomtató…</string>
@@ -19,6 +19,7 @@
      <string name="label_copies">Példányszám</string>
      <string name="label_copies_summary">Példányszám:</string>
      <string name="label_destination">Cél</string>
+     <string name="label_duplex">Kétoldalas</string>
      <string name="label_orientation">Tájolás</string>
      <!-- MNPS mismatch found! Translated: 1 Original: 0
 	%s: 1 Original: 0

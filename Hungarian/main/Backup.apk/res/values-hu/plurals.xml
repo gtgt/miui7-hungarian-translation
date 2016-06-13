@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="data_item_count">
+        <item quantity="other">%d elem</item>
+        <item quantity="one">%d elem</item>
+    </plurals>
+    <plurals name="trans_time_format_minute">
+        <item quantity="other">%d perc</item>
+        <item quantity="one">%d perc</item>
+    </plurals>
+    <plurals name="trans_time_format_hours">
+        <item quantity="other">%d óra</item>
+        <item quantity="one">%d óra</item>
+    </plurals>
+</resources>

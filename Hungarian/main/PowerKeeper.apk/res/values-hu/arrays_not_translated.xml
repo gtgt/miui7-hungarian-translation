@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Parsed by jbart3h -->
+<resources>
+     <string-array name="power_checker_group_prefix">
+        <item>Now</item>
+        <item>Background</item>
+        <item>Recently</item>
+     </string-array>
+</resources>

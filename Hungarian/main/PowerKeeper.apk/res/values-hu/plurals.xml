@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="power_config_ultimate_on_count">
+        <item quantity="other">%1$d lépésre van az Ultimate mód bekapcsolásához</item>
+        <item quantity="one">Már csak %1$d lépésre van az Ultimate mód bekapcsolásához</item>
+    </plurals>
+    <plurals name="power_config_ultimate_off_count">
+        <item quantity="other">%1$d lépésre van az Ultimate mód kikapcsolásához</item>
+        <item quantity="one">Már csak %1$d lépésre van az Ultimate mód kikapcsolásáhoze</item>
+    </plurals>
+    <plurals name="power_config_ultimate_unlock_count">
+        <item quantity="other">%1$d lépésre van az összes elem feloldásához</item>
+        <item quantity="one">%1$d lépésre van az összes elem feloldásához</item>
+    </plurals>
+</resources>

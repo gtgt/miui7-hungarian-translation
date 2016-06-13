@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Parsed by jbart2a -->
+<!-- Parsed by jbart3h -->
 <resources>
      <string name="about_fraud_num_online_identification">A szolgáltatásról</string>
-     <string name="about_phone_event">About Service Info</string>
+     <string name="about_phone_event">About service messages</string>
      <string name="about_smart_antispam_summary">A szolgáltatásról</string>
      <string name="about_telephone_fraud">A telefonos csalásokról</string>
      <string name="account_address">Címek</string>
@@ -16,6 +16,8 @@
      <string name="account_yellowpage_followed">Verified Accounts</string>
      <string name="account_yellowpage_recent">Előzmények</string>
      <string name="agree">Elfogad</string>
+     <string name="agree_to_continue">Continue</string>
+     <string name="agree_to_turn_on">Agree</string>
      <string name="all_services">Összes</string>
      <string name="allow">Allow</string>
      <string name="app_label">Aranyoldalak</string>
@@ -51,6 +53,7 @@
      <string name="currency_character">RMB</string>
      <string name="custom_mark_category">Egyéni</string>
      <string name="data_error">Sajnálom, a szolgáltatás jelenleg nem elérhető, próbálja újra később</string>
+     <string name="data_error_show">An error occurred</string>
      <string name="delete">Törlés</string>
      <string name="do_not_remind_me">Ne emlékeztessen</string>
      <string name="dont_enable">Ne engedélyezze</string>
@@ -82,6 +85,7 @@
      <string name="express_addressee_region">Cím régiója</string>
      <string name="express_banner_header">%1$s / Tracking number</string>
      <string name="express_cancel_order">Mégsem</string>
+     <string name="express_company_empty">Nincs cég</string>
      <string name="express_company_list_empty">Nincs cég</string>
      <string name="express_company_phone_prefix">Kapcsolat:</string>
      <string name="express_company_pricing_details">Árazás</string>
@@ -115,6 +119,8 @@
      <string name="express_inquiry_internal_failure">"Hiba történt.
 Ellenőrizze a nyomkövetési számot."</string>
      <string name="express_inquiry_logistics">Select a courier service</string>
+     <string name="express_inquiry_logistics_empty">Válasszon kézbesítőt.</string>
+     <string name="express_inquiry_logistics_indication">Kézbesítő társaság</string>
      <string name="express_inquiry_logistics_prefix">Courier service: %s</string>
      <string name="express_inquiry_logistics_select_others_indication">Other</string>
      <string name="express_inquiry_no_history">Nincs előzmény</string>
@@ -138,8 +144,13 @@ Ellenőrizze a nyomkövetési számot."</string>
      <string name="express_no_address">Üres</string>
      <string name="express_no_order">No order</string>
      <string name="express_no_order_info">Nincs adat</string>
+     <string name="express_no_tracking_number">Nincs nyomkövetési szám</string>
      <string name="express_order_confirmation">Megrendelés véglegesítése</string>
+     <string name="express_order_created_time">Létrehozás ideje</string>
+     <string name="express_order_detail">Részletek</string>
      <string name="express_order_failed">A megrendelés nem sikerült</string>
+     <string name="express_order_info">Megrendelési adatok</string>
+     <string name="express_order_internal_id">Megrendelés ID</string>
      <string name="express_order_ongoing">Megrendelés…</string>
      <string name="express_order_result">Eredmény</string>
      <string name="express_order_state">%1$s / %2$s</string>
@@ -168,7 +179,7 @@ Ellenőrizze a nyomkövetési számot."</string>
      <string name="express_select_sender">Küldő</string>
      <string name="express_send">Szállítás</string>
      <string name="express_send_mms">Send</string>
-     <string name="express_send_mms_format">A package is delivered to you by %1$s, tracking number is %2$s.</string>
+     <string name="express_send_mms_format">Package delivered by %1$s | Tracking number: %2$s</string>
      <string name="express_send_notice">A tiltott tárgyakról</string>
      <string name="express_sender_info">Feladó adatai</string>
      <string name="express_sender_name">Feladó neve</string>
@@ -215,21 +226,24 @@ Ellenőrizze a nyomkövetési számot."</string>
      <string name="group_name_title" />
      <string name="hms_no_subject_view">(No subject)</string>
      <string name="hms_notification">Üzenetek</string>
+     <string name="homepage_barcode_prompt">Scan to open homepage.</string>
      <string name="info_divider">|</string>
      <string name="locating_fail">Helymeghatározás sikertelen, ellenőrizze a helyszolgáltatásokat és próbálja újra</string>
      <string name="login_before_use">Bejelentkezés szükséges</string>
      <string name="login_ok">Bejelentkezés</string>
-     <string name="mark_number_custom_mark_deleted">Label removed.</string>
+     <string name="mark_number_custom_dialog_maintitle">Címke javítása vagy elfogadás</string>
+     <string name="mark_number_custom_mark_deleted">Label removed</string>
      <string name="mark_number_dialog_maintitle">Ismeretlen szám megjelölése és feltöltés</string>
-     <string name="mark_number_dialog_subtitle">Labeled by %2$d people as %1$s.</string>
+     <string name="mark_number_dialog_subtitle">Reported by %2$d people as %1$s</string>
      <string name="mark_number_feedback">Report</string>
-     <string name="mark_number_feedback_hint">Enter your feedback</string>
-     <string name="mark_number_feedback_invalid_hint">Enter a valid feedback</string>
-     <string name="mark_number_feedback_success">Feedback success, the number will be verified.</string>
-     <string name="mark_number_marked_maintitle">Modify</string>
-     <string name="mark_number_marked_subtitle">I labeled as %s</string>
-     <string name="mark_number_remove">Remove Label</string>
+     <string name="mark_number_feedback_hint">Enter feedback</string>
+     <string name="mark_number_feedback_invalid_hint">Enter your feedback</string>
+     <string name="mark_number_feedback_success">Feedback sent successfully</string>
+     <string name="mark_number_marked_maintitle">Change report for this number</string>
+     <string name="mark_number_marked_subtitle">You reported this number as %s</string>
+     <string name="mark_number_remove">Remove label</string>
      <string name="mark_title_null_hint">Címke megadása szükséges</string>
+     <string name="menu_about_yellow_page">Az oldalról</string>
      <string name="menu_add_black_list">Hozzáadás a feketelistához</string>
      <string name="menu_add_to_favorite">Kedvencekhez adás</string>
      <!-- MNPS mismatch found! Translated: 1 Original: 0
@@ -249,6 +263,22 @@ Ellenőrizze a nyomkövetési számot."</string>
      <string name="menu_unfollow_yellow_page">Unfollow</string>
      <string name="minimum_price">%d RMB-től</string>
      <string name="mishop_web_payment_title">MiStore pénztár</string>
+     <string name="miuishare_account_activate_confirmation">Activation required</string>
+     <string name="miuishare_account_activate_ok">Activate</string>
+     <string name="miuishare_account_login_cancel">Cancel</string>
+     <string name="miuishare_account_login_confirmation">Signing in required</string>
+     <string name="miuishare_account_login_ok">Sign in</string>
+     <string name="miuishare_account_need_activate">Weibo share requires your Weibo account is binded to Xiaomi account, which is not activited currently. Activate your account?</string>
+     <string name="miuishare_account_need_login">Weibo share requires your Weibo account is binded to Xiaomi account, which is signed in currently. Sign in to share now?</string>
+     <string name="miuishare_app_name">MiuiShare</string>
+     <string name="miuishare_no_network">No network for share</string>
+     <string name="miuishare_publish">Send</string>
+     <string name="miuishare_share_done">Share content is sent.</string>
+     <string name="miuishare_share_editor_title">Share</string>
+     <string name="miuishare_title_more">More</string>
+     <string name="miuishare_title_share">Share</string>
+     <string name="miuishare_wechat_timeline_title">Wechat Timeline</string>
+     <string name="miuishare_weibo_title">Weibo</string>
      <string name="more_coupons">Összes kupon</string>
      <string name="navigation_search_all_cities">Összes város</string>
      <string name="navigation_search_automatically_positioned_city">Jelenlegi város</string>
@@ -269,6 +299,7 @@ Ellenőrizze a nyomkövetési számot."</string>
      <string name="no_price">Nincs árinformáció</string>
      <string name="notify_connect_summary">Ablak mutatása internet csatlakozáskor</string>
      <string name="notify_connect_title">Internet csatlakozáskor értesítés</string>
+     <string name="open_installed_app">Open</string>
      <string name="order_date_label">Megrendelés dátuma: %s</string>
      <string name="order_detail">Details</string>
      <string name="order_empty_hint">Nincs megrendelés</string>
@@ -283,6 +314,7 @@ Ellenőrizze a nyomkövetési számot."</string>
 	%d: 0 Original: 0 -->
      <!-- Original string: Product name: %1$s -->
      <string name="order_product_name_label">"Termék neve: "</string>
+     <string name="order_status">%s</string>
      <string name="order_status_label">Megrendelés állapota: %s</string>
      <string name="order_type_recharge">Top-up</string>
      <string name="packages_no_package">Nincs ajánlott csomag</string>
@@ -299,7 +331,8 @@ Ellenőrizze a nyomkövetési számot."</string>
      <string name="payment_failed_common_problems">Hiba történt fizetés közben</string>
      <string name="payment_unknown_status_summary">Ellenőrizze a hálózati kapcsolatot és próbálja újra.</string>
      <string name="payment_unknown_status_title">Nem sikerült megerősíteni a fizetés állapotát</string>
-     <string name="phone_event_setting_notice_text">"Yellow pages wants to upload verified service numbers (like your cell service provider) to Mi's servers, so that you can receive service-related updates."</string>
+     <string name="phone_event_setting_notice_text">"By using this feature you're agreeing to our %1$s and %2$s."</string>
+     <string name="phone_event_setting_notice_text_with_contacts_permission">"By using this feature you're agreeing to our %1$s and %2$s. Access to your contacts is required."</string>
      <string name="phone_info_divider">" ｜ "</string>
      <string name="photo_count">%d összesen</string>
      <string name="pull_to_refresh_pull_label">Pull to refresh…</string>
@@ -320,6 +353,7 @@ Ellenőrizze a nyomkövetési számot."</string>
      <string name="recharge_order_original_price">RMB %s</string>
      <string name="recharge_order_pay">Pénztár</string>
      <string name="recharge_pay">Feltöltés</string>
+     <string name="recharge_pay_hint">Xiaomi szolgáltató támogatásával</string>
      <string name="recharge_pay_hint_license">Feltöltési értesítés</string>
      <string name="recharge_payment_error">Order closed or error occurred</string>
      <string name="recharge_payment_result_failed_summary">Próbálja újra</string>
@@ -347,11 +381,14 @@ Teljes összeg: RMB %3$s"</string>
      <string name="remind_user_suspect_number_title">Gyanús szám</string>
      <string name="rmb">RMB</string>
      <string name="scan">Keresés</string>
+     <string name="select">Kiválasztás</string>
      <string name="select_package_before_buy">Csomag kiválasztása</string>
+     <string name="selected_category_format">%2$d személy megjelölve, mint %1$s. Kattintson az elfogadáshoz.</string>
      <string name="send_shortcut_failed">Nem sikerült elküldeni</string>
      <string name="send_shortcut_success">Az asztalra helyezve</string>
      <string name="sending_shortcut">Küldés…</string>
      <string name="service_unavailiable">A jelenlegi hálózat nem megfelelő, próbálja később</string>
+     <string name="share">Share</string>
      <string name="shop_recommendation_format" formatted="false">%s: %s</string>
      <string name="sim1">Sim 1</string>
      <string name="sim2">Sim 2</string>
@@ -367,6 +404,10 @@ Teljes összeg: RMB %3$s"</string>
      <string name="toast_finish_delete_call_log">A hívásnapló törölve</string>
      <string name="toast_text_copied">A szöveg kimásolva</string>
      <string name="try_again">Újra</string>
+     <string name="turn_off_hint_title">"Don't identify unknown numbers?"</string>
+     <string name="turn_off_phone_event_hint">"You won't be able to view report info for unknown phone numbers."</string>
+     <string name="turn_off_smart_antispam_hint">Turn off protection for calls from unknown numbers?</string>
+     <string name="turn_on_phone_event_dialog_title">Update number identification database</string>
      <string name="turn_on_phone_event_summary">Upload phone status of services numbers</string>
      <string name="turn_on_phone_event_title">Receive service info</string>
      <string name="turn_on_smart_antispam_hint">Ismeretlen telefonszámok azonosítása a Xiaomi adatbázis használatával.</string>
@@ -387,6 +428,7 @@ Teljes összeg: RMB %3$s"</string>
      <string name="view_orders">View orders</string>
      <string name="voicemail">Hanghívás</string>
      <string name="web_permission_message">%1$s needs to view your %2$s to function properly.</string>
+     <string name="yellow_page_details">Enterprise details</string>
      <string name="yellow_page_website">Hivatalos honlap</string>
      <string name="yellowpage_navigation_network_location_enable">Engedélyezés</string>
      <string name="yellowpage_navigation_network_location_enable_later">Később</string>

@@ -1,6 +1,73 @@
 <?xml version="1.0" encoding="utf-8"?>
+<!-- Parsed by jbart3h -->
 <resources>
-    <string-array name="moon_desc">
+     <string-array name="aqi_title">
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+     </string-array>
+     <string-array name="aqi_title_append">
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+     </string-array>
+     <string-array name="aqi_title_prefix">
+        <item>AQI %1$s</item>
+        <item>AQI %1$s</item>
+        <item>AQI %1$s</item>
+        <item>AQI %1$s</item>
+        <item>AQI %1$s</item>
+        <item>AQI %1$s</item>
+        <item>AQI %1$s</item>
+     </string-array>
+     <string-array name="hot_city">
+        <item>Budapest</item>
+        <item>Peking</item>
+        <item>Shanghai</item>
+        <item>Hong Kong</item>
+        <item>Taipei City</item>
+        <item>Jakarta</item>
+        <item>Delhi</item>
+        <item>Mumbai</item>
+        <item>Moszkva</item>
+        <item>Hyderabad</item>
+        <item>Chennai</item>
+        <item>Isztanbul</item>
+        <item>Rio de Janeiro</item>
+        <item>Szingapúr</item>
+        <item>Berlin</item>
+        <item>Roma</item>
+        <item>New York</item>
+        <item>Los Angeles</item>
+        <item>Chicago</item>
+        <item>Tokyo</item>
+        <item>Párizs</item>
+        <item>Bangkok</item>
+        <item>Szüol</item>
+        <item>Kuala Lumpur</item>
+     </string-array>
+     <string-array name="indices_car_wash">
+        <item>Alkalmas</item>
+        <item>Nem alkalmas</item>
+     </string-array>
+     <string-array name="indices_sport">
+        <item>Suitable</item>
+        <item>Improper</item>
+     </string-array>
+     <string-array name="indices_uv_level">
+        <item>Gyenge</item>
+        <item>Közepes</item>
+        <item>Erős</item>
+     </string-array>
+     <string-array name="moon_desc">
         <item>Újhold</item>
         <item>Növekvő hold</item>
         <item>Első negyed</item>
@@ -10,8 +77,8 @@
         <item>Utolsó negyed</item>
         <item>Fogyó félhold</item>
         <item>Újhold</item>
-    </string-array>
-    <string-array name="weather_type">
+     </string-array>
+     <string-array name="weather_type">
         <item>Tiszta</item>
         <item>Felhős</item>
         <item>Borult</item>
@@ -38,23 +105,30 @@
         <item>Poros</item>
         <item>Köd</item>
         <item>Ónoseső</item>
-        <item>Nincs adat</item>
-    </string-array>
-    <string-array name="weather_indexes_uv_level">
-        <item>Nincs</item>
-        <item>Gyenge</item>
-        <item>Közepes</item>
-        <item>Erős</item>
-        <item>Legerősebb</item>
-    </string-array>
-    <string-array name="wind_direction">
-        <item>Szél D</item>
-        <item>Szél DK</item>
-        <item>Szél K</item>
-        <item>Szél ÉK</item>
-        <item>Szél D</item>
-        <item>Szél ÉNy</item>
-        <item>Szél Ny</item>
-        <item>Szél DNy</item>
-    </string-array>
+     </string-array>
+     <string-array name="wind_direction">
+        <item>D</item>
+        <item>DK</item>
+        <item>K</item>
+        <item>ÉK</item>
+        <item>D</item>
+        <item>ÉNy</item>
+        <item>Ny</item>
+        <item>DNy</item>
+     </string-array>
+     <string-array name="wind_power">
+        <item>%s</item>
+        <item>%s</item>
+        <item>%s</item>
+        <item>%s</item>
+        <item>%s</item>
+        <item>%s</item>
+        <item>%s</item>
+        <item>%s</item>
+        <item>%s</item>
+        <item>%s</item>
+        <item>%s</item>
+        <item>%s</item>
+        <item>%s</item>
+     </string-array>
 </resources>

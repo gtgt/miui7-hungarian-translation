@@ -1,14 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Parsed by jbart2a -->
+<!-- Parsed by jbart3h -->
 <resources>
-     <string name="err_filesystem_mount">"Can't access router storage"</string>
-     <string name="err_router_disconnected">"Check your router's connection and try again."</string>
-     <string name="err_router_files_delete">"Couldn't delete backup files on router"</string>
-     <string name="st_antispam_mode_blacklist_state">11112121</string>
-     <string name="st_antispam_mode_only_all_deny_state">10000000</string>
-     <string name="st_antispam_mode_only_contacts_state">11110000</string>
-     <string name="st_antispam_mode_only_whitelist_state">11000000</string>
-     <string name="st_antispam_mode_smart_state">11111111</string>
-     <string name="state_mounting">Accessing router storage…</string>
+     <string name="guarded_mode_dialog_transfer_message">"Can't use Mi Mover in Guest mode."</string>
+     <string name="trans_connection_failed">Device disconnected</string>
      <string name="xiaomi_account_type">com.xiaomi</string>
+     <string name="xiaomi_bytes_unit">%1$sB</string>
+     <string name="xiaomi_kilobytes_unit">%1$sKB</string>
+     <string name="xiaomi_megabytes_unit">%1$sMB</string>
 </resources>
